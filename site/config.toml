@@ -1,3 +1,8 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+languageCode = "ja-JP"
+title = "inajobのいろいろレビュー"
+
+theme="theer"
+
+[params]
+ShareTo = ["Twitter", "Facebook", "Pocket", "Hatena"]
