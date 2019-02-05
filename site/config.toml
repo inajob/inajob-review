@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://inajob.netlify.com"
 languageCode = "ja-JP"
 title = "inajobのいろいろレビュー"
 
@@ -6,3 +6,5 @@ theme="theer"
 
 [params]
 ShareTo = ["Twitter", "Facebook", "Pocket", "Hatena"]
+UseTwitterCard = true
+Twitter = "ina_ani"
