@@ -6,7 +6,7 @@ image: /img/esp32-wifi-robot.jpg
 ---
 [ESP32 WiFi Robot](https://hackaday.io/project/163542-esp32-wifi-robot)で発見。
 
-非常にシンプルなカメラ付きのロボット。
+非常にシンプルなカメラ付きのロボットです。
 
 - コアとなるCPUはESP32。
 - 2つの大きなタイヤが特徴。
@@ -15,7 +15,7 @@ image: /img/esp32-wifi-robot.jpg
 - 120x160pxの画像を100ms以内に転送できる。
 - 3.7VのLiPoで動く
 
-こういうのはバランスが難しいが、このESP32 WIFI Robotは非常にシンプルにまとまっている。
-また、機能を限定しているため、自作するのも非常に簡単そうだと感じた。
+こういうのはバランスが難しいが、このESP32 WIFI Robotは非常にシンプルにまとまっています。
+また、機能を限定しているため、自作するのも非常に簡単そうだと感じました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSowf_ctzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
