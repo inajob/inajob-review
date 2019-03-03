@@ -1,6 +1,6 @@
 ---
 title: 組み込み機器でもGo言語を使う「tinygo」
-date: 2019-03-03T03:00:11.881Z
+date: 2019-03-03T01:00:11.881Z
 description: 組み込み機器向けのGo言語のコンパイラ「tinygo」を紹介します
 image: /img/tinygo.png
 ---
