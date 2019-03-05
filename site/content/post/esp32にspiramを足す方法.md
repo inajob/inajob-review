@@ -1,6 +1,6 @@
 ---
 title: ESP32にSPIRAMを足す方法
-date: 2019-02-09T02:44:51.192Z
+date: 2019-03-05T23:00:51.192Z
 description: ESP32にSPIRAMを足す方法を紹介します
 image: /img/esp32_feather_psram.jpg
 ---
