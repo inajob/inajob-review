@@ -10,6 +10,6 @@ CapBoardはArduinoNanoを組み込んで使う、タッチセンサーをプロ�
 
 公式ページは[こちら](https://www.artislab.it/en/capboard-art-2/)
 
-Arduinoでも静電容量のタッチを検出する方法があることは知られていますが、このボードには静電容量タッチ検出に必要な回路と、LED、そしてスピーカ用の端子が搭載されており、回路を設計することなく静電容量タッチのプロトタイピングを開始することができます。
+Arduinoでも静電容量のタッチを検出する方法があることは[知られています](http://www.musashinodenpa.com/arduino/ref/index.php?f=1&pos=2165)が、このボードには静電容量タッチ検出に必要な回路と、LED、そしてスピーカ用の端子が搭載されており、回路を設計することなく静電容量タッチのプロトタイピングを開始することができます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDjebg7su_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
