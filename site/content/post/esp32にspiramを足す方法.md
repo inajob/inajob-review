@@ -4,7 +4,7 @@ date: 2019-03-05T23:00:51.192Z
 description: ESP32にSPIRAMを足す方法を紹介します
 image: /img/esp32_feather_psram.jpg
 ---
-[Upgrade ESP32 board without psRAM with 4MB/8MB SPIRAM](https://loboris.eu/forum/showthread.php?tid=117)にて発見
+[Upgrade ESP32 board without psRAM with 4MB/8MB SPIRAM](https://loboris.eu/forum/showthread.php?tid=117)にて発見。写真もここから転載。
 
 [IPS6404L-SQ-SPN](https://www.electrodragon.com/product/2pcs-ipus-ips6404-iot-ram/)をESP32に外付けする方法について紹介されている。
 3.3V駆動なのでそのままつなげることができる。
