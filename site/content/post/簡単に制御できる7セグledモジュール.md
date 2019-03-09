@@ -1,6 +1,6 @@
 ---
 title: 簡単に制御できる7セグLEDモジュール
-date: 2019-02-16T01:49:26.443Z
+date: 2019-03-10T00:00:26.443Z
 description: 意外と面倒な7セグLEDの制御を簡単にするモジュールを紹介します
 image: /img/addressable-7seg.png
 ---
