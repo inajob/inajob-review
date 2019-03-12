@@ -6,7 +6,7 @@ image: /img/nano-display.jpg
 ---
 [How to use the iPod Nano 6 LCD for LittlevGL](https://blog.littlevgl.com/2019-02-02/use-ipod-nano6-lcd-for-littlevgl)から発見。画像もここから転載。
 
-中古の液晶をマイコンで制御する、というのはよく見ますが、iPod Nanoの液晶を制御したという話はあまり聞いたことがありません。
+中古の携帯電話の液晶などをマイコンで制御する、というのはよく見ますが、iPod Nanoの液晶を制御したという話はあまり聞いたことがありません。
 
 どうやらこの液晶はMIPI DSIという高速なシリアル通信のプロトコルで制御する必要があるようです。専用の出力があるマイコンを使わない場合、この通信をbit-bangで実現することは難しいので、ブリッジICというのを使うことになります。
 
