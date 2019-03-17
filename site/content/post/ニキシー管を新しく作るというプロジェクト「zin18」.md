@@ -2,5 +2,14 @@
 title: ニキシー管を新しく作るというプロジェクト「ZIN18」
 date: 2019-03-17T13:29:43.455Z
 description: ニキシー管を新しく作るというプロジェクト「ZIN18」を紹介します。
+image: /img/zin18.jpg
 ---
-https://www.kickstarter.com/projects/1989465642/zin18-the-new-nixie-tube-and-clocks
+[ZIN18 - the new Nixie Tube & clocks](https://www.kickstarter.com/projects/1989465642/zin18-the-new-nixie-tube-and-clocks)から発見。画像もここから転載。
+
+「シュタインズ・ゲート」の「ダイバージェンスメーター」といえば、伝わる人には伝わる「ニキシー管」。非常に味のある表示器です。
+
+しかし、ニキシー管は今や古の技術。今や生産されておらず、入手しようとしても、はるか昔に生産されたニキシー管の在庫を買うことしかできません。
+
+しかし、そんな中この「ZIN18」というのはニキシー管を新たに作成する。というプロジェクトのようです。
+
+1管だと$99 これを高いと考えるか、安いと考えるかはあなた次第です。
