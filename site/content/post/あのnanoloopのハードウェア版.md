@@ -1,6 +1,6 @@
 ---
 title: あのnanoloopのハードウェア版
-date: 2019-03-17T13:14:10.636Z
+date: 2019-03-17T23:00:10.636Z
 description: あのnanoloopのハードウェア版がKickstarterに出ています
 image: /img/nanoloop.jpg
 ---
