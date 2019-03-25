@@ -1,6 +1,6 @@
 ---
 title: Espressifの次世代モジュール「CHIP-7」
-date: 2019-03-24T12:43:17.388Z
+date: 2019-03-24T23:10:17.388Z
 description: Espressifの次世代モジュールといわれている「CHIP-7」について紹介します。
 image: /img/chip7-espressif.jpg
 ---
