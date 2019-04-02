@@ -1,6 +1,6 @@
 ---
 title: 円柱状のフルカラーLEDイルミネーション
-date: 2019-03-09T13:36:37.462Z
+date: 2019-04-01T23:00:37.462Z
 description: 円柱状のフルカラーLEDイルミネーションの作例を紹介します。
 image: /img/matrix-cylinder.jpg
 ---
