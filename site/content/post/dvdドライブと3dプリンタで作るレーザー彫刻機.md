@@ -8,6 +8,16 @@ image: /img/laser-plotter.jpg
 
 DVDドライブから取り出したシャフトとステッピングモーターを利用してレーザー彫刻機を作成しています。大半の部品は3Dプリンタで作っています。
 
+このような作例は他にもたくさんあります
+- [DIY Arduino Mini Laser Engraver](https://www.instructables.com/id/DIY-Arduino-Mini-Laser-Engraver/)
+こちらはレーザーカッターで筐体を作っているのが特徴です。
+
+- [Mini CNC Laser Wood Engraver and Laser Paper Cutter.](https://www.instructables.com/id/Mini-CNC-Laser-Wood-Engraver-and-Paper-Cutter/)
+こちらはXY軸を両方テーブルの下に入れているのが特徴です。
+
+- [プロッタを作ってみた](https://inajob.hatenablog.jp/entry/20170121/1484993572)
+こちらはレーザー彫刻機ではなく、ペンプロッタの作例です。
+
 DVDドライブは今や500円くらいで購入できるので、腕試しに一つ作ってみてはどうでしょう？
 
 <iframe width="auto" height="315" src="https://www.youtube.com/embed/ZeAug4SNUSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
