@@ -1,6 +1,6 @@
 ---
 title: DVDドライブと3Dプリンタで作るレーザー彫刻機
-date: 2019-03-31T11:43:07.281Z
+date: 2019-04-07T01:00:07.281Z
 description: お古のDVDドライブと3Dプリンタで作るレーザー彫刻機の作例を紹介します。
 image: /img/laser-plotter.jpg
 ---
