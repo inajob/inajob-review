@@ -1,6 +1,6 @@
 ---
 title: Teensyで作るDIYのドラムマシン
-date: 2019-02-16T03:19:33.115Z
+date: 2019-04-09T23:00:33.115Z
 description: Teensy 3.2を使って作られたドラムマシンを紹介します。
 image: /img/fasma-1024x768.jpg
 ---
