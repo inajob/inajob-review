@@ -15,4 +15,4 @@ Teensy 3.2を使ったドラムマシンらしい。Teensy 3.2はかなりパワ
 
 このドラムマシンはソースコードや部品表も公開されているので、似たようなものを作りたい人にとってはありがたいだろう。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9JRIe1dBe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/E9JRIe1dBe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
