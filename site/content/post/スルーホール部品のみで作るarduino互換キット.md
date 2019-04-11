@@ -1,6 +1,6 @@
 ---
 title: スルーホール部品のみで作るArduino互換キット
-date: 2019-02-16T03:17:41.969Z
+date: 2019-04-11T23:00:41.969Z
 description: すべてスルーホールのパーツを使うことで自作しやすくしたArduino互換機を紹介します
 image: /img/makit-tht.png
 ---
