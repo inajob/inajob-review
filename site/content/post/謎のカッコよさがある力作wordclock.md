@@ -5,3 +5,9 @@ description: サーボモーターを114個使った非常にかっこいいWord
 image: /img/servo-word-clock.jpg
 ---
 [Word Clock Controlled by 114 Servos](https://www.instructables.com/id/Word-Clock-Controlled-by-114-Servos/)から発見。画像もここから転載（CC BY-NC-SA By mosivers）
+
+とにかくかっこいいので、まずは上のリンクから動画を見てほしいです。
+
+今までにない新しいアプローチのWordClockです。アルファベット1文字1文字に対応するLEDをサーボモーターによって前後させることで、スクリーンに映るアルファベットをのフォーカスを調整しています。
+
+動画を見れば原理も一目瞭然なのですが、この発想と大量のサーボモーターを制御している努力に脱帽です。
