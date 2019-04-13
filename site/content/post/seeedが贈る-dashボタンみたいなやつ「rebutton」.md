@@ -13,3 +13,9 @@ image: /img/re-button.jpg
 無線機器のため日本で販売するにはいわゆる技適に適合している必要があります。ReButtonで使われているのはMXCHIP EMW3166と呼ばれるモジュールで、知る限りは技適に適合していないように思うのですが、このReButtonの写真では「技適マーク」がついているように見えます。
 
 もしかしたら技適が通っているのかも？ 何か情報を知っている人がいたら教えてほしいです。
+
+
+追記： SeeedKKの中の方からReButtonに関して技適OKであると返事をいただきました。これはうれしい！
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ReButtonは技適OKです！</p>&mdash; matsujirushi (@matsujirushi12) <a href="https://twitter.com/matsujirushi12/status/1116536242085093376?ref_src=twsrc%5Etfw">2019年4月12日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
