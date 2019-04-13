@@ -1,6 +1,6 @@
 ---
 title: VoIPで通話できるポータブル電話ガジェットWiPhone
-date: 2019-04-07T01:39:57.827Z
+date: 2019-04-13T04:00:57.827Z
 description: VoIPで通話することができる電話ガジェット「WiPhone」を紹介します。
 image: /img/wiphone.jpg
 ---
