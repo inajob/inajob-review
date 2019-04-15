@@ -1,11 +1,10 @@
 ---
 title: 効率の良いLiPo充電モジュール「PGCPSU」
-date: 2019-04-13T05:38:46.624Z
+date: 2019-04-15T23:00:46.624Z
 description: 効率の良いLiPo充電モジュール「PGCPSU」を紹介します。
 image: /img/pgcpsu.jpg
 ---
-[PGCPSU the tiny, powerful & affordable LiPo PSU module
-](https://www.kickstarter.com/projects/staudt-technologies/pgcpsu-the-tiny-powerful-and-affordable-lipo-psu-m)から発見。画像もここから転載。
+[PGCPSU the tiny, powerful & affordable LiPo PSU module](https://www.kickstarter.com/projects/staudt-technologies/pgcpsu-the-tiny-powerful-and-affordable-lipo-psu-m) から発見。画像もここから転載。
 
 PGCPSUはリチウムポリマー二次電池を効率よく充電・放電するためのモジュールです。
 
