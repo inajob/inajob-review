@@ -1,12 +1,12 @@
 ---
 title: ESP32でメインCPUの時間を消費せずに音を鳴らす技
-date: 2019-04-13T05:25:11.219Z
+date: 2019-04-16T23:00:11.219Z
 description: ESP32でメインCPUの時間を消費せずに音を鳴らす技を紹介します。
 image: /img/esp32-sound-driver.png
 ---
 [This Sound Driver Runs on the ESP32’s ULP Coprocessor](https://blog.hackster.io/this-sound-driver-runs-on-the-esp32s-ulp-coprocessor-df5bd197e0cf) から発見。画像もここから転載。
 
-ESP32はパワフルで便利ですが、音を鳴らしながら何かする、ということを実現するためには、貴重なCPUコアの1つを消費してしまうことになります。
+ESP32はパワフルで便利ですが、音を鳴らしながら何かする、ということを実現するためには、貴重なCPUコアの1つを消費してしまうことになります。ESP32はCPUが2コアあるものの、なるべくそれらを音の再生のために使いたくないでしょう。
 
 そこでこの記事ではESP32についている省電力プロセッサ通称ULPを使って音を鳴らす方法を紹介しています。ULPはEspressif独自の機械語でプログラミングをする必要があるため、活用している事例はとても珍しいです。
 
