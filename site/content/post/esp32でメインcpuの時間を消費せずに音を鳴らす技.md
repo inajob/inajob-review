@@ -12,6 +12,8 @@ ESP32はパワフルで便利ですが、音を鳴らしながら何かする、
 
 ソースコードは[公開されている](https://github.com/bitluni/ULPSoundESP32)ので、気になる人は手元で実行してみると良いでしょう。
 
+追記： 少しソースコードを読んでみたところ、メインCPUでオーディオのストリームをバッファに詰め込みULPがそれを読み込んで音を鳴らすようです。タイマ割り込みに比べてメインCPUの処理時間が少なくなる、ということのようです。ソースコードの[このへん](https://github.com/bitluni/ULPSoundESP32/blob/master/ULPSoundMono/ULPSoundMono.ino#L38)を見ると、泥臭くULPの機械語を書いているのがわかります。これはデバッグが大変そう・・
+
 実際にM5Stackで動作を確認した方もいるようです↓
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">おお…メインの処理とは別で音を鳴らすサンプル…参考になる…<a href="https://t.co/I9xQCVGCuJ">https://t.co/I9xQCVGCuJ</a> <a href="https://t.co/MLNvRwVZ1X">pic.twitter.com/MLNvRwVZ1X</a></p>&mdash; らびやん (@lovyan03) <a href="https://twitter.com/lovyan03/status/1116916152179888129?ref_src=twsrc%5Etfw">2019年4月13日</a></blockquote>
