@@ -1,6 +1,6 @@
 ---
 title: フレキシブル基板によるArduboy
-date: 2019-04-13T05:35:37.197Z
+date: 2019-04-18T23:00:37.197Z
 description: フレキシブル基板により作られた超薄型Arduboyを紹介します。
 image: /img/flex-arduboy.jpg
 ---
