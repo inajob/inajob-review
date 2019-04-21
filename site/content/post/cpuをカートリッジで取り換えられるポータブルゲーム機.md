@@ -1,6 +1,6 @@
 ---
 title: CPUをカートリッジで取り換えられるポータブルゲーム機
-date: 2019-04-13T05:54:47.955Z
+date: 2019-04-21T23:00:47.955Z
 description: CPUをカートリッジで取り換えられるかっこいいポータブルゲーム機を紹介します。
 image: /img/multi-game-console.jpg
 ---
