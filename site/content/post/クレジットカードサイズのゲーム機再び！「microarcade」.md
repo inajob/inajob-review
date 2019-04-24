@@ -13,9 +13,9 @@ image: /img/microarcade.jpg
 
 まず値段が20~25ドルというのは、この手のガジェットにしては安い！書き換えができるとエンジニア的には楽しそうだが、一般の購入者はそんな機能は求めていないのかなぁ・・
 
-Arduboyにどっぷりはまっていた身からすると、ケビンさんの関わる製品ということで、その点でも興味深いです。
+Arduboyっぽい！と思ったらどうやらArduboyからライセンスを受けているらしく、Arduboyにどっぷりはまっていた身からすると、その点でも興味深いです。
 
-動くデモをケビンさんが投稿されていたので貼っておきます↓
+動くデモをケビンさん（Arduboyの作者）が投稿されていたので貼っておきます↓
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Pac Man Micro Arcade by Super Impulse Coming Soon <a href="https://t.co/KMwcQtq3PK">pic.twitter.com/KMwcQtq3PK</a></p>&mdash; Kevin Bates (@bateskecom) <a href="https://twitter.com/bateskecom/status/1099551088439521280?ref_src=twsrc%5Etfw">2019年2月24日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
