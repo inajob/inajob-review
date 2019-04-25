@@ -13,4 +13,4 @@ OLEDやSDカードスロット、フルカラーLEDやブザーも搭載され�
 [watchX](http://www.watchx.io/)とよく似た構成だが、プロセッサが違う。
 おそらくこのESP32のボードは日本でも使えるものだろう。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7CoMwLHsNkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7CoMwLHsNkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
