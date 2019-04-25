@@ -1,6 +1,6 @@
 ---
 title: ESP32で動くスマートウォッチキット
-date: 2019-02-16T03:44:11.437Z
+date: 2019-04-25T23:00:11.437Z
 description: ESP32で動くスマートウォッチキットを紹介します。
 image: /img/dstike-esp32-watch-devkit.jpg
 ---
