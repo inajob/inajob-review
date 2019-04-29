@@ -13,6 +13,6 @@ Arduino Nanoをマウントした、かわいらしいボード。
 
 なんでかわいいのかよくわかっていないけど、この大きなボタンや大きなLEDがかわいさの秘訣なのだろう。
 
-[s4a](http://s4a.cat/)というScratchでArduinoのプログラムを作ることができるぷらとフォームとの連携例も紹介されている。
+[s4a](http://s4a.cat/)というScratchでArduinoのプログラムを作ることができるフォームとの連携例も紹介されている。
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7OAtQa5O_HA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
