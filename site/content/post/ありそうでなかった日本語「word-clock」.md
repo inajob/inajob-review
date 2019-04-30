@@ -6,7 +6,7 @@ image: /img/japanese-word-clock.png
 ---
 [Japanese Word Clock](https://hackaday.io/project/163848-japanese-word-clock)から発見。写真もここから転載。
 
-英語のWordClockというのはArduinoの作例などでよく見かけ
+英語のWordClockというのはArduinoの作例などでよく見か
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/v5wLlZOVoWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
