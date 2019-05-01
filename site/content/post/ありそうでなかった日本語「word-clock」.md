@@ -16,3 +16,6 @@ image: /img/0ecb73ee-824c-4c24-8873-1d79fff2ed90.jpeg
 
 まだ作業途中のようですが、完成すると今までに見たことがないガジェットになるでしょう
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3yHRXlP6yXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
