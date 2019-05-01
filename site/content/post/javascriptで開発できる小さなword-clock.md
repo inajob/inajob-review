@@ -10,6 +10,6 @@ Espruinoは組み込み環境向けのJavaScript開発環境。
 
 この記事ではEspruinoを使っていわゆる「WordClock」を作成する方法を紹介している。
 
-ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要である。
+ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要で。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NL0ehzrf1qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
