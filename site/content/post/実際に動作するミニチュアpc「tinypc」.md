@@ -14,4 +14,4 @@ CPUにはATtiny1614を仕様。128x64のOLEDと、5入力のスイッチ、フ�
 
 透明な窓は透明のPLA樹脂で3Dプリントした物を、磨いたそうです。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5YFlxoUL-iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5YFlxoUL-iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
