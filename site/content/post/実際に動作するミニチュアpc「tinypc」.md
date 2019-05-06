@@ -1,6 +1,6 @@
 ---
 title: 実際に動作するミニチュアPC「TinyPC」
-date: 2019-02-16T03:44:56.807Z
+date: 2019-05-06T23:00:56.807Z
 description: 3Dプリンタ製の実際に動作するミニチュアPC「TinyPC」について紹介します。
 image: /img/tinypc.png
 ---
