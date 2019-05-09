@@ -1,6 +1,6 @@
 ---
 title: 組み込みで動かすNode.jsとその評価ボード
-date: 2019-02-25T02:08:59.647Z
+date: 2019-05-09T23:00:59.647Z
 description: Node.jsを組み込み機で動かすというプロダクトを紹介します
 image: /img/neoniousone.jpg
 ---
