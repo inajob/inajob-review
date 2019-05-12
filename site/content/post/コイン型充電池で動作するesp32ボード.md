@@ -1,6 +1,6 @@
 ---
 title: コイン型充電池で動作するESP32ボード
-date: 2019-02-25T02:22:40.380Z
+date: 2019-05-12T23:00:40.380Z
 description: コイン型充電池で動作するESP32ボードを紹介します。
 image: /img/esp32-pico-d4.png
 ---
@@ -15,4 +15,4 @@ ESP32を日本で使う場合には技適を取得しているモジュールを
 
 プロジェクトは[オープンソースで公開されている](https://github.com/mike-rankin/ESP32_CoinCell)ので細かい部分が気になる人は見てみると良いでしょう。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QvrdFFZR3Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QvrdFFZR3Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
