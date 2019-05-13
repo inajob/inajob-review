@@ -1,6 +1,6 @@
 ---
 title: コンパクトなサイズのATmega328ボード「Pico328」
-date: 2019-02-25T02:20:17.352Z
+date: 2019-05-13T23:00:17.352Z
 description: コンパクトなサイズのATmega328ボード「Pico328」を紹介します。
 image: /img/pico328.jpg
 ---
