@@ -1,6 +1,6 @@
 ---
 title: かっこいい外付けRaspberryPi「USBerry PI」
-date: 2019-02-25T02:26:00.949Z
+date: 2019-05-14T23:00:00.949Z
 description: PCと接続することを前提としたRaspberrPiのかっこいいカスタマイズの作例を紹介します。
 image: /img/usberrypi.jpg
 ---
@@ -15,3 +15,6 @@ image: /img/usberrypi.jpg
 
 PCからの接続は、 [Raspberry Pi ZeroをUSBケーブル1本で遊ぶ
 ](https://www.raspi.jp/2016/07/pizero-usb-otg/)の手法を使っているようです。
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LWdK4AG4Qgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
