@@ -15,3 +15,5 @@ image: /img/meowbit.jpg
 十字キーは清音のタクトスイッチですが、分離された配置なのが少し気になる方もいるかもしれません。
 
 お値段も$39.9と比較的手ごろなので、ついつい買ってしまいそうです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qvIrioiKMw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
