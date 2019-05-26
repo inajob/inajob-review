@@ -5,3 +5,7 @@ description: PCB上の磁石を円周状に移動させる技を紹介します�
 image: /img/ant-highway.jpg
 ---
 [Ant highway - Precise linear (circular) motor](https://hackaday.io/project/164821-ant-highway-precise-linear-circular-motor)から発見。画像もここから転載。
+
+ジグザグの回路パターンのPCBにパルスを流して磁石を移動させるという技を使ってレースゲームのようなガジェットを実現しています。
+
+どのくらいの細かい精度で制御できるのかが気になるところです。
