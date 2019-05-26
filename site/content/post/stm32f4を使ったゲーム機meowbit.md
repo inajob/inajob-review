@@ -1,6 +1,6 @@
 ---
 title: STM32F4を使ったゲーム機Meowbit
-date: 2019-04-21T12:28:06.667Z
+date: 2019-05-26T23:00:06.667Z
 description: STM32F4を使ったゲーム機Meowbitを紹介します。
 image: /img/meowbit.jpg
 ---
@@ -10,7 +10,7 @@ image: /img/meowbit.jpg
 
 しかし、見た目とは異なり、コアとなるCPUはSTM32F401RET6で特にmicro:bitと同じというわけではありません。
 
-ゲームの開発はMicrosoftの Makecode ArcadeというScratchのようなビジュアル開発環境で行うことができます。また、micropythonでもプログラミングできるようです。
+ゲームの開発はMicrosoftの Makecode ArcadeというScratchのようなビジュアル開発環境で行うことができます。また、MicroPythonでもプログラミングできるようです。
 
 十字キーは清音のタクトスイッチですが、分離された配置なのが少し気になる方もいるかもしれません。
 
