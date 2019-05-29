@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi Zero用のバッテリーボード「PiSugar」
-date: 2019-04-13T05:30:30.732Z
+date: 2019-05-29T23:00:30.732Z
 description: Raspberry Pi Zeroにぴったりのサイズのバッテリーボード「PiSugar」を紹介します。
 image: /img/pi-sugar.jpg
 ---
@@ -13,3 +13,5 @@ Raspberry Pi Zeroは小型で組み込みやすいのですが、バッテリー
 これを使うことで、簡単にバッテリー入りの小型のガジェットを作ることができそうです。
 
 基板同士の接続はスプリングピンで実現しているため、はんだ付けをすることなく組み立てられるというのも魅力です。バッテリーと基板の固定には磁石を用いているというのも変わったアイデアだな、と感じました。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XA4j9hRiFmw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
