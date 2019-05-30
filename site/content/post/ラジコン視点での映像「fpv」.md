@@ -1,6 +1,6 @@
 ---
 title: ラジコン視点での映像「FPV」と運転手のミニチュア
-date: 2019-05-31T02:31:07.299Z
+date: 2019-05-30T23:00:07.299Z
 description: ラジコン視点での映像「FPV」とそのリアリティを出すための運転手のミニチュアを紹介します
 ---
 [XL-RCP 44.0 Cockpit kit: For Radio Control models
