@@ -3,6 +3,8 @@ title: コイン型充電池で動作するESP32ボード
 date: 2019-05-12T23:00:40.380Z
 description: コイン型充電池で動作するESP32ボードを紹介します。
 image: /img/esp32-pico-d4.png
+tags:
+  - ESP32
 ---
 [A COIN CELL POWERS THIS TINY ESP32 DEV BOARD
 ](https://hackaday.com/2019/02/22/a-coin-cell-powers-this-tiny-esp32-dev-board/)にて発見。写真もここから転載。

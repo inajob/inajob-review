@@ -3,6 +3,8 @@ title: Teensyで作るDIYのドラムマシン
 date: 2019-04-09T23:00:33.115Z
 description: Teensy 3.2を使って作られたドラムマシンを紹介します。
 image: /img/fasma-1024x768.jpg
+tags:
+  - 音楽
 ---
 [Fasma Festival 2017 – DIY Drum Machine (Teensy)](http://tomashg.com/?p=1324) で発見。
 （画像もここから転載）

@@ -3,6 +3,8 @@ title: ESP32にSPIRAMを足す方法
 date: 2019-03-05T23:00:51.192Z
 description: ESP32にSPIRAMを足す方法を紹介します
 image: /img/esp32_feather_psram.jpg
+tags:
+  - ESP32
 ---
 [Upgrade ESP32 board without psRAM with 4MB/8MB SPIRAM](https://loboris.eu/forum/showthread.php?tid=117)にて発見。写真もここから転載。
 

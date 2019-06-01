@@ -3,6 +3,8 @@ title: あのnanoloopのハードウェア版
 date: 2019-03-17T23:00:10.636Z
 description: あのnanoloopのハードウェア版がKickstarterに出ています
 image: /img/nanoloop.jpg
+tags:
+  - 音楽
 ---
 [nanoloop](https://www.kickstarter.com/projects/734721310/nanoloop)から発見。画像もここから転載。
 

@@ -3,6 +3,8 @@ title: ESP32でVGA表示を「FabGL」
 date: 2019-04-22T23:00:46.247Z
 description: ESP32でVGA表示を簡単に扱えるライブラリ「FabGL」を紹介します。
 image: /img/fabgl.jpg
+tags:
+  - ESP32
 ---
 [FabGL Turns Your ESP32 Into a VGA Gaming Platform](https://blog.hackster.io/fabgl-turns-your-esp32-into-a-vga-gaming-platform-c7c1f2fe0d19)から発見。画像もここから転載。
 

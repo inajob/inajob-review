@@ -3,6 +3,8 @@ title: クレジットカードサイズのゲーム機再び！「MicroArcade�
 date: 2019-04-24T23:30:37.480Z
 description: クレジットカードサイズのゲーム機である「MircoArcade」を紹介します
 image: /img/microarcade.jpg
+tags:
+  - ゲーム機
 ---
 [This Tiny Pac-Man Game Is the Size of a Credit Card](https://gizmodo.com/this-tiny-pac-man-game-is-the-size-of-a-credit-card-1832123360) で発見した。
 日本語記事も書かれています。[これはときめく。パックマンができるクレカ大のゲーム機](https://www.gizmodo.jp/2019/02/card-sized-pacman.html)

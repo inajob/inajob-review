@@ -3,6 +3,8 @@ title: 組み込みで動かすNode.jsとその評価ボード
 date: 2019-05-09T23:00:59.647Z
 description: Node.jsを組み込み機で動かすというプロダクトを紹介します
 image: /img/neoniousone.jpg
+tags:
+  - ESP32
 ---
 [neonious one](https://www.neonious.com/neoniousOne)にて発見。画像もここから転載。
 

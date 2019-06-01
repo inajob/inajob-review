@@ -3,6 +3,8 @@ title: ESP32で作るカメラ付きのロボット
 date: 2019-05-08T23:00:00.620Z
 description: ESP32で作られた、シンプルなカメラ付きのロボット「ESP32 WiFi Robot」を紹介します
 image: /img/esp32-wifi-robot.jpg
+tags:
+  - ESP32
 ---
 [ESP32 WiFi Robot](https://hackaday.io/project/163542-esp32-wifi-robot)で発見。
 

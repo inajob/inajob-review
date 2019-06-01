@@ -3,6 +3,8 @@ title: かっこいい外付けRaspberryPi「USBerry PI」
 date: 2019-05-14T23:00:00.949Z
 description: PCと接続することを前提としたRaspberrPiのかっこいいカスタマイズの作例を紹介します。
 image: /img/usberrypi.jpg
+tags:
+  - Raspberry Pi
 ---
 [USBerry PI - USB Rasberry Pi Zero(W)
 ](https://www.instructables.com/id/USBerry-PI-USB-Rasberry-Pi-ZeroW/)にて発見。画像もここから転載（By quintaar CC BY-NC-SA）

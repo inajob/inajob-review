@@ -3,6 +3,8 @@ title: 'もう一つのFantasy Conputer, SCRIPT-8'
 date: 2019-02-04T12:08:37.091Z
 description: 'もう一つのFantasy Conputer, SCRIPT-8'
 image: /img/script-8.png
+tags:
+  - FantasyComputer
 ---
 # これはなに？
 
