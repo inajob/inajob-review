@@ -3,7 +3,7 @@ title: 8ステップシーケンサキットBaby8
 date: 2019-04-07T23:00:10.714Z
 description: ミニマルでかわいい8ステップシーケンサのキット「Baby8」を紹介します。
 image: /img/baby8.jpg
-- tags
+tags:
   - 音楽
 ---
 [Baby8 Sequencer Kit V3](https://www.tindie.com/products/Rakit/baby8-sequencer-kit-v3/)で発見。画像もここから転載。
