@@ -17,8 +17,13 @@
         <h2>{{ .Title }}</h2>
       </a>
     </div>
-    <img src="{{ .Params.Image }}" />
+    <div class="Subhead-description">
+      {{ partial "taxonomy.html" . }}
+    </div>
     <div>{{ .Params.Description }}</div>
+    <div>
+      <img src="{{ .Params.Image }}" />
+    </div>
   </div>
   {{ end }}
 
