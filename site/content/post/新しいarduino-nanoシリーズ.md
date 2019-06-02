@@ -12,31 +12,31 @@ Arduino Nanoサイズの新しい開発ボードが発表されたようです�
 
 ほかのボードは技適が確認できていないので、日本人的に最も興味があるボードはこれです。
 
-- メインチップは ATmega4809
-- USB Serialは ATSAMD11
+* メインチップは ATmega4809
+* USB Serialは ATSAMD11
 
 ## Arduino Nano 33 IoT
 
-- メインチップはATSAMD21
-- WiFiとBLEのためのESP32を搭載した NINA W102
-- 9軸加速度センサ
-- 暗号チップ
+* メインチップはATSAMD21
+* WiFiとBLEのためのESP32を搭載した NINA W102
+* 9軸加速度センサ
+* 暗号チップ
 
 ## Arduino Nano 33 BLE
 
-- nRF52840を搭載した NINA B306
-- 9軸加速度センサ
+* nRF52840を搭載した NINA B306
+* 9軸加速度センサ
 
 ## Arduino Nano 33 BLE Sence
 
-- nRF52840を搭載した NINA B306
-- 9軸加速度センサ
-- 気圧センサ
-- 湿度センサ
-- 温度センサ
-- 光センサ
-- ジェスチャーセンサー
-- マイク
+* nRF52840を搭載した NINA B306
+* 9軸加速度センサ
+* 気圧センサ
+* 湿度センサ
+* 温度センサ
+* 光センサ
+* ジェスチャーセンサー
+* マイク
 
 ## 注目点
 
@@ -46,7 +46,6 @@ Arduino Nanoサイズの新しい開発ボードが発表されたようです�
 
 私が作っている[RakuChord](https://inajob.github.io/rakuchord/)も内部にAruino Nanoをそのままくっつけていますが、表面実装するパッドがなかったので、組み込んだ高さが気になっていました。
 
+![](/img/arduino-nano-mount.jpg)
+
 このような用途に新しいArduino Nanoはぴったりだなと感じました。
-
-
-
