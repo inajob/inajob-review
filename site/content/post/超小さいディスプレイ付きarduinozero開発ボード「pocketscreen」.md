@@ -1,6 +1,6 @@
 ---
 title: 超小さいディスプレイ付きArduinoZero開発ボード「PocketScreen」
-date: 2019-05-29T12:14:10.692Z
+date: 2019-06-02T23:00:10.692Z
 description: とんでもなく小さいArduino Zero互換のディスプレイ付き開発ボードを紹介します。
 image: /img/pocket-screen.png
 tags:
