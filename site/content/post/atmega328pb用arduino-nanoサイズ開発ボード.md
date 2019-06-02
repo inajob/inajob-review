@@ -5,3 +5,10 @@ description: Atmega328の新しいチップAtmega328PBを使ったArduino Nano�
 image: /img/nanopb.jpg
 ---
 [NanoPB](https://www.tindie.com/products/tomaskovacik/nanopb/)から発見。画像もここから転載。
+
+ATmega328にはいくつか種類があります、今回紹介するボードに搭載されているのはATmega328PBです。
+またUSB-SerialのチップとしてCP2102を使っているのもこのボードの特徴です。
+
+ATmega328PBはほかのものと違い2つのGPIOが増えています。（今までのATmega328ではVCCとGNDだったピンがGPIOとなっています。）そのためこのボードではそれを活用できるように工夫が施されています。
+
+このボードは作者が欲しくて作ったもののようで、こうやって作ったボードを簡単に売れるフットワークが良いですね。
