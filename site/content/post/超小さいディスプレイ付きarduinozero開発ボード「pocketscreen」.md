@@ -5,6 +5,7 @@ description: とんでもなく小さいArduino Zero互換のディスプレイ�
 image: /img/pocket-screen.png
 tags:
   - クラウドファンディング
+  - ATSAMD21
 ---
 [PocketScreen - World's smallest Arduino compatible multitool](https://www.kickstarter.com/projects/zepsch/pocketscreen-worlds-smallest-arduino-compatible-mu)より発見。画像もここから転載。
 
