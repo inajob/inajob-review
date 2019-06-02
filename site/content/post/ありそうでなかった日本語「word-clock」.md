@@ -3,7 +3,7 @@ title: ありそうでなかった日本語「Word Clock」
 date: 2019-04-30T23:50:01.810Z
 description: 雰囲気が良い感じの日本語版「Word Clock」を紹介します。
 image: /img/0ecb73ee-824c-4c24-8873-1d79fff2ed90.jpeg
-tag:
+tags:
   - WordClock
 ---
 [Japanese Word Clock](https://hackaday.io/project/163848-japanese-word-clock)から発見。写真もここから転載。
