@@ -36,7 +36,10 @@
     <meta name="twitter:creator" content="@{{ .Site.Params.Twitter }}">
     <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
     <meta name="twitter:description" content="{{ .Description | default .Summary }}|{{ .Site.Params.Description }}">
+    {{ if .Params.Image }}
     <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.Image }}">
+    {{ else if .Site.Params.Image }}
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.Image }}">
     {{ end }}
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
 

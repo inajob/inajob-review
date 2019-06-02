@@ -8,3 +8,4 @@ theme="theer"
 ShareTo = ["Twitter", "Facebook", "Pocket", "Hatena"]
 UseTwitterCard = true
 Twitter = "ina_ani"
+Image = "/img/cover.png"
