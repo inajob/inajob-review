@@ -3,6 +3,8 @@ title: 実際に動作するミニチュアPC「TinyPC」
 date: 2019-05-06T23:00:56.807Z
 description: 3Dプリンタ製の実際に動作するミニチュアPC「TinyPC」について紹介します。
 image: /img/tinypc.png
+tags:
+  - attiny1614
 ---
 [TinyPC Is a Minuscule OLED Gaming Rig
 ](https://blog.hackster.io/tinypc-is-a-minuscule-oled-gaming-rig-for-playing-snake-fe17ac0d3f66)で発見（写真もここのものを転載しています。）

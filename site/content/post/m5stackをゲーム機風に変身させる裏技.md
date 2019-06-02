@@ -6,6 +6,7 @@ image: /img/esplora-x.jpg
 tags:
   - M5Stack
   - ゲーム機
+  - Arduino
 ---
 [Esplora X M5Stack](https://www.instructables.com/id/Esplora-X-M5Stack/)から発見。画像もここから転載（CC BY-NC-SA By 陳亮）
 

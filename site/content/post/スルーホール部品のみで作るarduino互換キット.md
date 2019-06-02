@@ -3,6 +3,8 @@ title: スルーホール部品のみで作るArduino互換キット
 date: 2019-04-11T23:00:41.969Z
 description: すべてスルーホールのパーツを使うことで自作しやすくしたArduino互換機を紹介します
 image: /img/makit-tht.png
+tags:
+  - Arduino
 ---
 [MAKIT-THT Soldering Kit](https://thunkitelectronics.com/products.html?page=MAKIT-THT%20Soldering%20Kit)で発見
 

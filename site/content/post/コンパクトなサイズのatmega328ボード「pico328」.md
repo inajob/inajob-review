@@ -3,6 +3,8 @@ title: コンパクトなサイズのATmega328ボード「Pico328」
 date: 2019-05-13T23:00:17.352Z
 description: コンパクトなサイズのATmega328ボード「Pico328」を紹介します。
 image: /img/pico328.jpg
+tags:
+  - atmega328
 ---
 [Pico328, a tiny expandable Atmega328 board](https://www.tindie.com/products/PhoenixCNC/pico328-a-tiny-expandable-atmega328-board/)にて発見。画像もここから。
 

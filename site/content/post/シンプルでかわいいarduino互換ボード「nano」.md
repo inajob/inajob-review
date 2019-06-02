@@ -3,6 +3,8 @@ title: シンプルでかわいいArduino互換ボード「NANO」
 date: 2019-04-28T23:00:54.703Z
 description: シンプルでかわいいArduino Nano互換機を搭載した学習ボードCircuit Learn NANOを紹介します
 image: /img/nano.jpg
+tags:
+  - Arduino
 ---
 [Circuit Learn NANO: One PCB. Easy to Learn. Infinite Posibilities.
 ](https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infinite-/)にて発見。画像もここから転載。

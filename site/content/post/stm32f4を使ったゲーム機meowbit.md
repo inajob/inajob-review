@@ -5,6 +5,7 @@ description: STM32F4を使ったゲーム機Meowbitを紹介します。
 image: /img/meowbit.jpg
 tags:
   - ゲーム機
+  - STM32F4
 ---
 [Meowbit -Codable Console for Microsoft Makecode Arcade](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade)から発見。画像もここから転載。
 

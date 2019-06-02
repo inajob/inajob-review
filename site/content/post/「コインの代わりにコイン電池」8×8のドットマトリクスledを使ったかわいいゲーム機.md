@@ -5,6 +5,7 @@ description: コインの代わりにコイン電池を入れることで遊ぶ�
 image: /img/ledcade.jpg
 tags:
   - ゲーム機
+  - atmega328
 ---
 [LedCade - µ arcade game cabinet - 8x8 LED matrix](https://hackaday.io/project/165207-ledcade-arcade-game-cabinet-8x8-led-matrix)から発見。画像もここから転載。
 

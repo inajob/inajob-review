@@ -5,6 +5,7 @@ description: 噂のRISC-Vチップが発売されたので紹介します。
 image: /img/riskv.jpg
 tags:
   - RISC-V
+  - MAix
 ---
 [Sipeed MAIX-I module w/o WiFi ( 1st RISC-V 64 AI Module, K210 inside )
 ](https://www.seeedstudio.com/Sipeed-MAIX-I-module-w-o-WiFi-1st-RISC-V-64-AI-Module-K210-insid-p-3210.html)で発見。写真もここから転載。

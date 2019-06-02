@@ -5,6 +5,8 @@ description: RISC-VをArduinoフットプリントで使えるようにしたMax
 image: /img/maixduino-sell.png
 tags:
   - RISC-V
+  - MAix
+  - 開発ボード
 ---
 [Doing Machine Learning From the Arduino Development Environment?
 ](https://blog.hackster.io/doing-machine-learning-from-the-arduino-development-environment-b6c63838a596)から発見。画像もここから転載。

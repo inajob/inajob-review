@@ -3,6 +3,8 @@ title: 円柱状のフルカラーLEDイルミネーション
 date: 2019-04-01T23:00:37.462Z
 description: 円柱状のフルカラーLEDイルミネーションの作例を紹介します。
 image: /img/matrix-cylinder.jpg
+tags:
+  - LED
 ---
 [CYLINDRICAL LED DISPLAY COMES FULL CIRCLE](https://hackaday.com/2019/03/05/cylindrical-led-display-comes-full-circle/)から発見。画像もここから転載。
 

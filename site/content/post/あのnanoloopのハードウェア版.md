@@ -5,6 +5,7 @@ description: あのnanoloopのハードウェア版がKickstarterに出ていま
 image: /img/nanoloop.jpg
 tags:
   - 音楽
+  - クラウドファンディング
 ---
 [nanoloop](https://www.kickstarter.com/projects/734721310/nanoloop)から発見。画像もここから転載。
 

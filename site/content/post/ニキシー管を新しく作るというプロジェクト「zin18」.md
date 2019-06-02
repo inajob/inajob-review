@@ -3,6 +3,8 @@ title: ニキシー管を新しく作るというプロジェクト「ZIN18」
 date: 2019-03-17T23:00:43.455Z
 description: ニキシー管を新しく作るというプロジェクト「ZIN18」を紹介します。
 image: /img/zin18.jpg
+tags:
+  - クラウドファンディング
 ---
 [ZIN18 - the new Nixie Tube & clocks](https://www.kickstarter.com/projects/1989465642/zin18-the-new-nixie-tube-and-clocks)から発見。画像もここから転載。
 

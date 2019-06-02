@@ -3,6 +3,10 @@ title: いい感じのLED照明キット
 date: 2019-03-30T23:00:10.562Z
 description: 3Dプリンタの透明フィラメントを活用したいい感じのLED照明キットの紹介
 image: /img/magiccube.jpg
+tags:
+  - 3Dプリンタ
+  - LED
+  - atmega328
 ---
 [MagicCube - Tap to Change Color](https://www.instructables.com/id/MagicCube-Tap-to-Change-Color/)にて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
 

@@ -5,6 +5,7 @@ description: Espruinoを使って開発できる小さなWordClockを紹介し�
 image: /img/f579e436-f9fa-4afc-823f-f881412ff0eb.jpeg
 tag:
   - WordClock
+  - Espruino
 ---
 [Tiny Word Clock](http://www.espruino.com/Tiny+Word+Clock)から発見。画像もここから転載。
 

@@ -5,9 +5,9 @@ description: 意外と面倒な7セグLEDの制御を簡単にするモジュー
 image: /img/addressable-7seg.png
 tags:
   - 7セグ
+  - クラウドファンディング
 ---
-[Addressable 7-Segment Display
-](https://shop.idlehandsdev.com/products/addressable-7-segment-display)
+[Addressable 7-Segment Display](https://shop.idlehandsdev.com/products/addressable-7-segment-display)
 で発見。
 残念ながらもうキャンペーン期間は終わってしまっている。
 

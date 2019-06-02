@@ -3,6 +3,8 @@ title: とてもかわいいLISPポケコン
 date: 2019-02-09T02:17:04.566Z
 description: ATmega1284製のとてもかわいいLISPポケコンを紹介します
 image: /img/lisp-badge.jpg
+tags:
+  - atmega1284
 ---
 [Lisp Badge](http://www.technoblogy.com/show?2AEE) にて発見。
 
