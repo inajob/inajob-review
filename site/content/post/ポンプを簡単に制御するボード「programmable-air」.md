@@ -1,6 +1,6 @@
 ---
 title: ポンプを簡単に制御するボード「Programmable-Air」
-date: 2019-05-29T12:50:43.937Z
+date: 2019-06-03T23:00:43.937Z
 description: ポンプを簡単に制御するボード「Programmable-Air」を紹介します。
 image: /img/programmable-air.jpg
 tags:
