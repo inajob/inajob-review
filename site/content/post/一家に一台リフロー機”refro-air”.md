@@ -1,6 +1,6 @@
 ---
 title: 一家に一台リフロー機”REFRO Air”
-date: 2019-05-29T13:02:22.659Z
+date: 2019-06-04T23:00:22.659Z
 description: 絶賛クラウドファンディング中のリフロー機”REFRO Air”を紹介します。
 image: /img/reflow-air.jpg
 tags:
