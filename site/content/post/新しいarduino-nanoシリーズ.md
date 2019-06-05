@@ -1,6 +1,6 @@
 ---
 title: 新しいArduino Nanoシリーズ
-date: 2019-05-29T12:29:06.410Z
+date: 2019-06-05T23:00:06.410Z
 description: 新しいArduino Nanoシリーズについて紹介します。
 image: /img/new-arduino-nano.jpg
 tags:
