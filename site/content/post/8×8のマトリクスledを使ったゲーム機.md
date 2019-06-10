@@ -1,6 +1,6 @@
 ---
 title: 8×8のマトリクスLEDを使ったゲーム機
-date: 2019-03-17T13:28:38.874Z
+date: 2019-06-10T23:00:38.874Z
 description: 8×8のマトリクスLEDを使ったミニマルなゲーム機の作例を紹介します。
 image: /img/8x8matix-game.jpg
 tags:
