@@ -6,6 +6,7 @@ image: /img/8x8matix-game.jpg
 tags:
   - ゲーム機
   - PIC12F683
+  - 3Dプリンタ
 ---
 [Retro Pocket Game Console](https://www.instructables.com/id/Retro-Handheld-Game-Console/)から発見。画像もここから引用（CC BY-NC-SA By hobbyman）
 
