@@ -5,6 +5,7 @@ description: 限界まで小さいサイズのATmega32U4モジュールを紹介
 image: /img/atto.png
 tags:
   - atmega32u4
+  - 開発ボード
 ---
 [ATTO](https://nionics.com/)から発見。画像もここから転載。
 
