@@ -2,8 +2,6 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 
-
-
 {{ define "main" }}
 <!-- Title -->
 <div class="Subhead">
@@ -32,6 +30,8 @@
     <img src="{{ .Params.Image }}" />
     {{ .Content }}
   </section>
+
+  {{ partial "related.html" . }}
 
   <section>
   {{ if .Site.Params.ShareTo }}
@@ -69,9 +69,8 @@
     {{ end }}
   </section>
 </article>
+
 {{ end }}
-
-
 
 {{ define "side" }}
   {{ if and (gt .WordCount 0 ) (ne .Params.toc "false") }}
