@@ -10,7 +10,7 @@ tags:
 ---
 [Tiny Wooden Laptop](https://www.instructables.com/id/Tiny-Wooden-Laptop/)から発見。画像もここから転載（CC BY-NC-SA By makefailrepeat）
 
-Raspberry Pi 3を使ったコンソールです。
+Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで800x480。キーボードはBluetoothの無線キーボードを使っています。
 
 ディスプレイの裏側にRaspberry Piをマウントし、キーボードの下には余ったケーブルやバッテリーを入れているようです。
 
