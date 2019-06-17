@@ -1,8 +1,10 @@
 ---
 title: 8ビットプログラミングができる定規「Digirule2」
-date: 2019-03-03T02:45:06.757Z
+date: 2019-06-17T23:00:06.757Z
 description: 8ビットプログラミングができる定規型のボード「Digirule2」を紹介します。
 image: /img/digirule2.png
+tags:
+  - 開発ボード
 ---
 [Digirule2 - The 8-bit Programmable Binary Ruler](https://www.tindie.com/products/bradsprojects/digirule2-the-8-bit-programmable-binary-ruler/)から発見。画像もここから転載。
 
