@@ -7,3 +7,9 @@ tags:
   - 7セグ
 ---
 [TinyLED Displays](https://hackaday.io/project/165873-tinyled-displays)から発見。画像もここから転載。
+
+7セグメントLEDを表面実装LEDで実現しています。見た目も一風変わっていてプロダクトに組み込むといい雰囲気が演出できそうです。
+
+
+
+
