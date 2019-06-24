@@ -1,6 +1,6 @@
 ---
 title: 限界まで小さいATmega32U4モジュール
-date: 2019-06-02T06:28:24.224Z
+date: 2019-06-23T23:00:24.224Z
 description: 限界まで小さいサイズのATmega32U4モジュールを紹介します。
 image: /img/atto.png
 tags:
