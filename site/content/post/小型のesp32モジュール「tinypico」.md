@@ -1,8 +1,11 @@
 ---
 title: 小型のESP32モジュール「TinyPico」
-date: 2019-03-24T12:48:23.130Z
+date: 2019-06-26T23:00:23.130Z
 description: 使いやすいサイズのESP32モジュール「TinyPico」を紹介します。
 image: /img/tinypico.jpg
+tags:
+  - 開発ボード
+  - ESP32
 ---
 [TinyPICO A tiny, mighty ESP32 development board](https://www.crowdsupply.com/unexpected-maker/tinypico)から発見。画像もここから転載。
 
@@ -12,4 +15,4 @@ USB端子はあの「もげる」MicroUSBなのがやや不安です。
 
 日本においては技適が通っていないと電波を発することができないので、そのあたりが気になるところですが、この大きさは魅力的です。
 
-近いうちにプロジェクトがスタートするようです。気になる人は要チェックです。
+クラウドファンディングは成功し、無事製品が作られることになったようです。
