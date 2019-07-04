@@ -1,8 +1,10 @@
 ---
 title: I2C接続のOLEDを少ないピンで複数制御する裏技
-date: 2019-03-03T02:40:41.695Z
+date: 2019-07-04T23:00:41.695Z
 description: I2C接続のOLEDを少ないピンで複数制御する裏技を紹介します
 image: /img/multi_oled.jpg
+tags:
+  - OLED
 ---
 [Controlling lots of OLED displays with a few GPIO pins 
 ](http://bitbanksoftware.blogspot.com/2019/01/controlling-lots-of-oled-displays-with.html)から発見。写真もここから転載
@@ -19,5 +21,5 @@ I2C接続のOLEDは非常に安く手に入るので、これらを複数組み�
 ぜひこのライブラリで挑戦してみてください。
 
 
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/adc9y-w7V3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
