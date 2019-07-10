@@ -1,8 +1,10 @@
 ---
 title: RaspberryPiに簡単に取り付けられるサーマルカメラモジュール
-date: 2019-03-03T02:35:43.600Z
+date: 2019-07-10T23:00:43.600Z
 description: RaspberryPiに簡単に取り付けられるサーマルカメラモジュールを紹介します
 image: /img/thermal-camera.jpeg
+tags:
+  - Raspberry Pi
 ---
 [Making a DIY thermal camera based on a Raspberry Pi
 ](https://habr.com/en/post/441050/)から発見。画像もここから掲載。
