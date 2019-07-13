@@ -14,3 +14,5 @@ tags:
 注目すべきは洗練されたケースです。3Dプリンタの作例としては非常にきれいにまとまっており高い完成度となっています。
 
 フィラメントの色合いや、基板を表に出さないなど、いくつかの要点を抑えると3Dプリンタでもそこそこの完成度のものが作れるのだなと感じました。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/oNqWfiP2yg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
