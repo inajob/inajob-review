@@ -7,3 +7,9 @@ tags:
   - ゲーム機
 ---
 [The Arduboy Mini, Coming Soon!](https://blog.hackster.io/the-arduboy-mini-coming-soon-efd0286efbb9)から発見。画像もここから転載。
+
+Arduboyは十分小さく、薄いと思っていたのですが、どうやらさらに小さなバージョンが登場するようです。
+
+基本的は回路や設計はArduboyと同じですが、特徴的なのはflash modです。これはArduboyの有名な改造例の1つで、外付けのフラッシュROMにたくさんのゲームを入れておくことができるというものです。
+
+Arduboy界隈はコミュニティが活発で、みんなに愛されているゲーム機なんだなと感じます。
