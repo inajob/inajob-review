@@ -2,7 +2,7 @@
 title: 表面実装LEDを使った7セグメントLED
 date: 2019-06-11T05:58:58.412Z
 description: 表面実装LEDを使った7セグメントLEDの作例を紹介します。
-image: /img/smd-7seg.jpg
+image: /img/smd-7seg2.jpg
 tags:
   - 7セグ
 ---
@@ -12,4 +12,4 @@ tags:
 
 
 
-
+![](/img/smd-7seg.jpg)
