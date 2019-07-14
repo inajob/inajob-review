@@ -8,3 +8,8 @@ tags:
   - attiny1634
 ---
 [ATtiny1634 Development Board](https://www.tindie.com/products/leonerd/attiny1634-development-board/)から発見。画像もここから転載
+
+ATtiny1634というICを使いやすくするためのボードを紹介します。
+このICは16KBのフラッシュ、1KBのRAM、ADCなどを搭載した使いやすそうなものです。
+
+ATtinyにはいくつかラインアップがありますが、1634は知らなかったため、このボードに興味を持ちました。
