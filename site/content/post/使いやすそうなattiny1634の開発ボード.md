@@ -13,3 +13,6 @@ ATtiny1634というICを使いやすくするためのボードを紹介しま�
 このICは16KBのフラッシュ、1KBのRAM、ADCなどを搭載した使いやすそうなものです。
 
 ATtinyにはいくつかラインアップがありますが、1634は知らなかったため、このボードに興味を持ちました。
+
+[WikipediaのATtinyの項目](https://en.wikipedia.org/wiki/ATtiny_microcontroller_comparison_chart#Timeline)を見るとATtiny1634は2011年に発表されたもののようで、最近もたくさんの種類のATtinyが発表されることを知りました。
+一度じっくりスペックを比較したいなと思いました。
