@@ -15,3 +15,5 @@ Organelleは2016年に発表された電子楽器で、内部にコンピュー�
 
 ボードはRaspberry Pi ComputeModule 3+に、それによりCPUやRAMが強化されます。また、WiFiが標準装備されたり、スピーカー、マイク、バッテリーが内蔵されるなど、今までのOrganelleから大幅にアップグレードされています。
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VZgwvx-fHWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
