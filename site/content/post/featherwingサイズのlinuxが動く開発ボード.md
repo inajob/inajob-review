@@ -1,6 +1,6 @@
 ---
 title: FeatherWingサイズのLinuxが動く開発ボード
-date: 2019-07-13T10:54:36.021Z
+date: 2019-07-15T23:00:36.021Z
 description: FeatherWingサイズのLinuxが動く開発ボードを紹介します。
 image: /img/giant-board-pin-out.jpg
 tags:
