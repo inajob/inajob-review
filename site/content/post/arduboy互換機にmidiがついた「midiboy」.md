@@ -1,6 +1,6 @@
 ---
 title: Arduboy互換機にMidiがついた「midiboy」
-date: 2019-07-13T12:47:47.888Z
+date: 2019-07-17T23:00:47.888Z
 description: Arduboyの互換機にMidi端子をつけたmidiboyを紹介します。
 image: /img/midiboy.png
 tags:
