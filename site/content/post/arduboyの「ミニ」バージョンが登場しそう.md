@@ -1,6 +1,6 @@
 ---
 title: Arduboyの「ミニ」バージョンが登場しそう
-date: 2019-07-13T12:47:28.048Z
+date: 2019-07-21T23:00:28.048Z
 description: Arduboyの「ミニ」バージョンが登場しそうです。
 image: /img/arduboy-mini.jpg
 tags:
@@ -13,3 +13,5 @@ Arduboyは十分小さく、薄いと思っていたのですが、どうやら�
 基本的は回路や設計はArduboyと同じですが、特徴的なのはflash modです。これはArduboyの有名な改造例の1つで、外付けのフラッシュROMにたくさんのゲームを入れておくことができるというものです。
 
 Arduboy界隈はコミュニティが活発で、みんなに愛されているゲーム機なんだなと感じます。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QZWbvs52lYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
