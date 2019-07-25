@@ -1,8 +1,10 @@
 ---
 title: 3Dプリンタで作ったスイスアーミー風SDカード入れ
-date: 2019-03-03T02:47:38.841Z
+date: 2019-07-25T23:00:38.841Z
 description: 3Dプリンタで作ったスイスアーミー風SDカード入れを紹介します
 image: /img/sd-card-swiss-army.jpg
+tags:
+  - 3Dプリンタ
 ---
 [PACK YOUR SD CARDS SWISS ARMY STYLE](https://hackaday.com/2019/03/01/pack-your-sd-cards-swiss-army-style/)から発見。写真もここから掲載。
 
