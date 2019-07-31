@@ -11,4 +11,6 @@ tags:
 [以前紹介した](https://inajob.netlify.com/post/esp32%E3%81%A7vga%E8%A1%A8%E7%A4%BA%E3%82%92fabgl/)ESP32でVGA出力するライブラリ、FabGLですがGUIのサンプルが追加されています。
 
 一見するとWindows風の画面ですが、ESP32で生成しVGA出力しているものです。
-うまくすればESP32をディスプレイポートに刺すだけで利用できるOSのようなものが作れそうです。
+うまくすればESP32をディスプレイポートに刺すだけで利用できるスティックPCのようなものが作れそうです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/84ytGdiOih0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
