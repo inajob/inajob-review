@@ -5,6 +5,7 @@ description: Raspberry Piを据え置き機にするPiTop4を紹介します。
 image: /img/pitop4.jpg
 tags:
   - Raspberry Pi
+  - クラウドファンディング
 ---
 [pi-top [4] the smarter way to design, code & make anything!](https://www.kickstarter.com/projects/pi-top/pi-top-4-the-new-go-anywhere-do-anything-computer)から発見。画像もここから転載。
 
