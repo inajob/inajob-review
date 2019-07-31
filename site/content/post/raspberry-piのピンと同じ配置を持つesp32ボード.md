@@ -1,6 +1,6 @@
 ---
 title: Raspberry Piのピンと同じ配置を持つESP32ボード
-date: 2019-07-31T03:28:21.649Z
+date: 2019-07-31T23:00:21.649Z
 description: Raspberry Piのピンと同じ配置を持つESP32ボードを紹介します。
 image: /img/obsidianesp32.jpg
 tags:
