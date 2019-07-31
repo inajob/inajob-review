@@ -9,4 +9,5 @@ tags:
 ---
 [Obsidian ESP32 Bridges Platforms](https://www.crowdsupply.com/thomas-mckahan/obsidian-esp32)から発見。画像もここから転載。
 
-https://blog.hackster.io/obsidian-esp32-bridges-platforms-af97b08929b2
+ESP32を搭載した開発ボードです。特筆すべきはRaspberryPi互換のピンヘッダです。
+これによりRaspberryPi用の様々な拡張ボードを利用することができます。
