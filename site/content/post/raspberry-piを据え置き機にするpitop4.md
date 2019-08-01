@@ -1,5 +1,5 @@
 ---
-title: Raspberry Piを据え置き機にするPiTop4
+title: Raspberry PiをモバイルにするPiTop4
 date: 2019-08-01T23:00:31.896Z
 description: Raspberry Piを据え置き機にするPiTop4を紹介します。
 image: /img/pitop4.jpg
