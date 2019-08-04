@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi 4にPCI Expressのボードを接続する裏技
-date: 2019-07-14T08:57:40.999Z
+date: 2019-08-04T23:00:40.999Z
 description: Raspberry Pi 4にPCI Expressのボードを接続する裏技を紹介します。
 image: /img/raspberry-pi-4-get-pciexpress.jpg
 tags:
