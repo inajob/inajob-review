@@ -16,3 +16,5 @@ Arduinoからディスプレイに映像を映すには様々なテクニック�
 説明を見るとRA8876という液晶コントローラのチップで映像を作り、このチップから出てくるRGB信号をCH7035Bを使ってHDMIに変換しているようです。
 
 まぁしかし普通にこういうことをするならRaspberry Piを使うのが簡単なんだろうなぁという感想です。ともあれこういう挑戦は非常に興味深いと感じました。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MUeIY_gLn3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
