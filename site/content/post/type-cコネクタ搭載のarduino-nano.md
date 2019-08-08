@@ -11,4 +11,4 @@ tags:
 Seeed作った新しいArduino NanoはUSBコネクタがType-Cなのが特徴です。Grooveの端子も1つ用意されており、プロトタイピングにちょうど良さそうです。
 
 Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いため、Type-Cなのはありがたいです。
-自作キーボードでよく使われているArduino Microとは違うようなので、キーボード畑の方は良くチェックしてから買ってください。（USB-Serial ICが何かが明記されていません、UNOと同じと書かれているのでATmega16U2なのだろうか？）
+自作キーボードでよく使われているArduino Microとは違うようなので、キーボード畑の方は良くチェックしてから買ってください。（USB-Serial ICはSeeduinoと同じだとするとATmega16U2かな？）
