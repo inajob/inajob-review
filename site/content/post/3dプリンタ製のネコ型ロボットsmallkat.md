@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタ製のネコ型ロボットSmallKat
-date: 2019-04-13T06:26:52.432Z
+date: 2019-08-08T23:00:52.432Z
 description: 3Dプリンタ製のネコ型ロボットSmallKatを紹介します。
 image: /img/small-katjpg.jpg
 tags:
