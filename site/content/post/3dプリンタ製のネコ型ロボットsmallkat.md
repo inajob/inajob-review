@@ -15,6 +15,6 @@ SmallKatは3Dプリンタで作られた猫型のロボットです。
 
 確かにロボットを一気に作り上げるより、パソコンから簡単に試行錯誤できるようなプラットフォームを作るというのは良い方法だと感じました。
 
-オープンソースで[公開されている](https://github.com/OperationSmallKat/SmallKat_V2)ので、気になる方は作ってみてはどうでしょう？
+オープンソースで[公開されて](https://github.com/OperationSmallKat/SmallKat_V2)おり、さらには[キットも販売している](https://www.tindie.com/products/madhephaestus/smallkat-an-dynamics-oriented-robot-cat-kit/)ので、気になる方は作ってみてはどうでしょう？
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0kAPtRiv94w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
