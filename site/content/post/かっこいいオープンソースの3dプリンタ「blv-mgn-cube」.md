@@ -1,8 +1,10 @@
 ---
 title: かっこいいオープンソースの3Dプリンタ「BLV mgn Cube」
-date: 2019-03-03T02:51:18.457Z
+date: 2019-08-14T23:00:18.457Z
 description: かっこいいオープンソースの3Dプリンタ「BLV mgn Cube」を紹介します。
 image: /img/blv-mgn-cube.jpg
+tags:
+  - 3dプリンタ
 ---
 [BLV mgn Cube - 3d printer](https://www.thingiverse.com/thing:3382718)にて発見。画像もここから転載（CC BY-NC-SA, by Blv）
 
