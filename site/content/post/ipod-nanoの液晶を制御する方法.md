@@ -1,6 +1,6 @@
 ---
 title: iPod Nanoの液晶を制御する方法
-date: 2019-03-09T13:40:38.935Z
+date: 2019-08-20T23:00:38.935Z
 description: ESP32でiPad Nanoの液晶を制御する方法を紹介します。
 image: /img/nano-display.jpg
 ---
