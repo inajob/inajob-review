@@ -1,6 +1,6 @@
 ---
 title: 最新のTeensy4.0はすごい性能らしい
-date: 2019-08-21T12:03:49.801Z
+date: 2019-08-29T23:00:49.801Z
 description: 最新のTeensy4.0が発売されました。すごい性能です。
 image: /img/teensy40.jpg
 tags:
