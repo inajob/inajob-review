@@ -18,3 +18,4 @@ tags:
 
 近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3smr5CEdksc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
