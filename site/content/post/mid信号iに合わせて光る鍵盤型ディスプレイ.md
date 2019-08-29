@@ -1,6 +1,6 @@
 ---
 title: MID信号に合わせて光る鍵盤型ディスプレイ
-date: 2019-07-31T03:25:49.307Z
+date: 2019-08-28T23:00:49.307Z
 description: MID信号Iに合わせて光る鍵盤型ディスプレイの作例を紹介します。
 image: /img/midilightkeyboard800.jpg
 tags:
