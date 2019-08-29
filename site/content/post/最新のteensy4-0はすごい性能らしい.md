@@ -8,5 +8,12 @@ tags:
 ---
 [Teensy 4.0 Development Board](https://www.pjrc.com/store/teensy40.html)から発見。画像もここから転載。
 
+Teensyはもともと性能の良いボードでしたが、新しいTeensy4.0はさらにすごいです。
 
-https://hackaday.com/2019/08/07/new-teensy-4-0-blows-away-benchmarks-implements-self-recovery-returns-to-smaller-form/
+- ARM Cortex-M7 600MHz
+- 1024KB RAM
+- 2048KB Flash
+
+などなど
+これだけ性能が高いと今まではできなかった面白い電子工作が実現できそうです。
+気になるお値段も$19.95とかなりお買い得です。
