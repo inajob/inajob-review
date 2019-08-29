@@ -7,3 +7,7 @@ tags:
   - Raspberry Pi
 ---
 [CutiePi tablet](https://cutiepi.io/)から発見。画像もここから転載。
+
+Raspberry Piを使ったタブレット端末のプロジェクトです。
+
+利用しているのはRaspberry Pi 3 Compute Moduleです。 Compute Moduleを使うことで薄型のデバイスに簡単に内蔵できる非常に良い例です。
