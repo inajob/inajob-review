@@ -1,8 +1,11 @@
 ---
 title: YMZ294をならすためのArduinoボード
-date: 2019-03-17T13:33:29.219Z
+date: 2019-09-03T23:00:29.219Z
 description: ヤマハの音源IC YMZ294をならすためのコンパクトなArduinoボードを紹介します
 image: /img/chiptune-player.jpg
+tags:
+  - 音楽
+  - YMZ294
 ---
 [Simple chiptune player](https://www.tindie.com/products/microwavemont/simple-chiptune-player/)から発見。画像もここから転載。
 
@@ -14,4 +17,4 @@ USBシリアルICであるCP2102が搭載されており、Arduinoとしてプ�
 
 一般的なポータブルプレイヤーとは違う、チップチューン専用の音楽プレイヤーが欲しい人にはうってつけの開発ボードといえる。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H7E54aC54pw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/H7E54aC54pw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
