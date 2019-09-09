@@ -1,6 +1,6 @@
 ---
 title: Linux携帯ゲーム機RetroStone 2
-date: 2019-08-29T09:11:31.169Z
+date: 2019-09-08T23:00:31.169Z
 description: Linuxの動く携帯ゲーム機風ガジェットを紹介します。
 image: /img/retrostone2.jpg
 tags:
