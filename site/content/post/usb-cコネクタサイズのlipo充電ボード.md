@@ -7,3 +7,5 @@ tags:
   - 開発ボード
 ---
 [Ant USB-C LiPo Charger](https://www.tindie.com/products/beastdevices/ant-usb-c-lipo-charger/)から発見。画像もここから転載。
+
+USB-C端子サイズのLiPo充電ボードを紹介します。ICはMCP73831T-2ATI/MCを利用しています。自作の電子デバイスでバッテリーを扱いたい時などには役に立ちそうです。
