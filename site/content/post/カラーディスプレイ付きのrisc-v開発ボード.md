@@ -13,3 +13,5 @@ RISC-Vのチップが次々と発表されています。その一つであるGD
 
 USB-CとSDカードスロット、小さいですが160x80でフルカラーのLCDが搭載されています。
 Flashは128KB、RAMは32KBと非常にパワフルなCPUですが、お値段$4.9ということで、ついつい衝動買いしたくなってしまいます。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0F4-3X4bet0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
