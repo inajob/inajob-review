@@ -1,6 +1,6 @@
 ---
 title: カラーディスプレイ付きのRISC-V開発ボード
-date: 2019-09-08T00:54:57.253Z
+date: 2019-09-16T23:00:57.253Z
 description: カラーディスプレイ付きのRISC-V開発ボードを紹介します
 image: /img/risc-v-nano.jpg
 tags:
