@@ -54,7 +54,7 @@
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="{{ .Permalink }}"
+            data-href="{{ .URL }}"
             data-layout="button_count">
           </div>
         {{ end }}
@@ -103,7 +103,7 @@
 
         {{ if in . "Facebook" }}
           <div class="fb-share-button" 
-            data-href="{{ .Permalink }}"
+            data-href="{{ .URL }}"
             data-layout="button_count">
           </div>
         {{ end }}
