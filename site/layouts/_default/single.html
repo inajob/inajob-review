@@ -36,6 +36,7 @@
   <section>
   {{ if .Site.Params.ShareTo }}
     {{ $baseURL := .Site.BaseURL }}
+    {{ $URL := .URL }}
     {{ with .Site.Params.ShareTo }}
       <div>
         {{ if in . "Twitter" }}
@@ -54,6 +55,7 @@
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
+            data-href="{{ $URL }}" 
             data-layout="button_count">
           </div>
         {{ end }}
@@ -94,6 +96,7 @@
 
   {{ if .Site.Params.ShareTo }}
     {{ $baseURL := .Site.BaseURL }}
+    {{ $URL := .URL }}
     {{ with .Site.Params.ShareTo }}
       <div>
         {{ if in . "Twitter" }}
@@ -102,6 +105,7 @@
 
         {{ if in . "Facebook" }}
           <div class="fb-share-button" 
+            data-href="{{ $URL }}" 
             data-layout="button_count">
           </div>
         {{ end }}
