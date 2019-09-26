@@ -8,4 +8,8 @@ tags:
   - CircuitPython
   - atsamd21
 ---
-[Rapidly Prototype Projects with the Serpente CircuitPython Dev Board](https://blog.hackster.io/rapidly-prototype-projects-with-the-serpente-circuitpython-dev-board-bd4e5268ac60)から発見。画像もここから転載。
+[Serpente - A Tiny CircuitPython Prototyping Board](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/)から発見。画像もここから転載。
+
+電子工作界隈でも流行り始めているCircuitPythonが動作するコンパクトな開発ボードです。
+
+USB端子程度の大きさのモジュールですが、ATSAMD21E18A を搭載しておりCircuitPythonが動きます。さらに4MByteのフラッシュストレージや、フルカラーLEDが搭載されており、ちょっとしたプロトタイピングに便利そうです。
