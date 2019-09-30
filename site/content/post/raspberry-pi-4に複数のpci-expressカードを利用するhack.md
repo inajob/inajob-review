@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi 4でPCI Expressカードを利用するさらなるHACK
-date: 2019-09-08T04:45:44.221Z
+date: 2019-09-30T23:00:44.221Z
 description: Raspberry Pi 4でPCI Expressカードを利用するHACKの続編を紹介します。
 image: /img/raspi-multi-pci-express.jpg
 tags:
