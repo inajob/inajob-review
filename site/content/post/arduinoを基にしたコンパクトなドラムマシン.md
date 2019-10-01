@@ -1,10 +1,11 @@
 ---
 title: Arduinoを基にしたコンパクトなドラムマシン
-date: 2019-09-19T12:33:18.777Z
+date: 2019-10-01T23:00:18.777Z
 description: Arduinoを基にしたコンパクトなドラムマシンの作例を紹介します。
 image: /img/drumkid.jpg
 tags:
   - 音楽
+  - Arduino
 ---
 [DrumKid: aleatoric drum machine](https://hackaday.io/project/164521-drumkid-aleatoric-drum-machine)から発見。画像もここから転載。
 
