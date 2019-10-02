@@ -8,6 +8,7 @@ tags:
 ---
 [NEW PART DAY: ESPRESSIF ANNOUNCES ESP32-S2 WITH USB](https://hackaday.com/2019/05/21/new-part-day-espressif-announces-esp32-s2-with-usb/)から発見。画像もここから転載。
 
+まだ市場には出ていませんが、
 ESP32の後継チップであるESP32-S2の紹介です。
 
 - 240MHz
