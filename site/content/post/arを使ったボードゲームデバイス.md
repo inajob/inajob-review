@@ -13,4 +13,6 @@ AR技術を使ったボードゲームデバイスです。
 
 専用のスマートグラスと、ARマーカー付きのボードを使い、現実の机の上で、バーチャルな演出入りのボードゲームを遊ぶことができるようです。
 
+ボードゲーム特化というよりは、AR時代の新しい「ディスプレイ」という感じです。こういうものが出てくると、今の「ディスプレイ」と「マウス」を使ったパソコンも近いうちに全く違ったものになるのでは？とワクワクしました。
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lRGHBtshVEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
