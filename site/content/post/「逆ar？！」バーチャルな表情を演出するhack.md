@@ -8,4 +8,8 @@ tags:
 ---
 [MONSTER M4SK Toon Hat](https://learn.adafruit.com/monster-mask-augmented-eyes-toon-hat/reflection-surface)から発見。画像もここから転載。
 
-https://www.hackster.io/news/use-adafruit-s-monster-m4sk-and-reverse-augmented-reality-for-a-creepy-halloween-costume-777ee5ce5df1
+写真の通り「目」をコミカルに演出できる「逆AR」なディスプレイです。
+
+目の前には実際にはハーフミラーが斜め45度に配置されており、帽子のつばの部分にあるディスプレイの映像が反射するようになっているようです。
+
+シンプルですが応用が利きそうなテクニックです。
