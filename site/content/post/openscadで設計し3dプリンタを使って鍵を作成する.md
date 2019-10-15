@@ -9,4 +9,8 @@ tags:
 ---
 [Protec 3D Printing](https://hackaday.io/project/167726-protec-3d-printing)から発見。画像もここから転載。
 
-https://hackaday.com/2019/09/24/copying-high-security-keys-with-openscad-and-light/
+今や単純な形状の鍵であれば3Dプリンタで簡単に複製が作れてしまうようです。
+
+この記事では特定の種類の鍵について、鍵のパターンを生成するロジックをOpenSCADのライブラリとして作成し、簡単に3Dプリンタ用の鍵のモデルデータを作成できるということを紹介しています。
+
+鍵の複製は、ものがあれば今までも比較的簡単にできていましたが、3Dプリンタの普及によりさらに簡単に複製できるようになってきていると言えそうです。
