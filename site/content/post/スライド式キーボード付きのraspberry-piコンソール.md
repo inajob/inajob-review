@@ -5,6 +5,7 @@ description: スライド式のギミックがかっこいいRaspberry Piコン�
 image: /img/mutantc.png
 tags:
   - Raspberry Pi
+  - 3Dプリンタ
 ---
 [mutantC](https://mutantc.gitlab.io/index.html)から発見。画像もここから転載。
 
