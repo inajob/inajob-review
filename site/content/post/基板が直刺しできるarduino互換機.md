@@ -1,8 +1,11 @@
 ---
-title: 基板が直刺しできるArduino互換機
-date: 2019-03-31T11:44:54.763Z
-description: 基板が直刺しできるArduino互換機を紹介します。
+title: 基板がUSBポートに直刺しできるArduino互換機
+date: 2019-10-24T23:00:54.763Z
+description: 基板がUSBポートに直刺しできるArduino互換機を紹介します。
 image: /img/miniduino-usb.png
+tags:
+  - 開発ボード
+  - Arduino
 ---
 [miniduino USB](https://www.open-electronics.org/miniduino-usb/)から発見。画像もここから転載。
 
