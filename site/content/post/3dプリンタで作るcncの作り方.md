@@ -1,8 +1,10 @@
 ---
 title: 3Dプリンタで作るCNCの作り方
-date: 2019-03-31T11:48:06.947Z
+date: 2019-10-27T23:00:06.947Z
 description: 丁寧に解説された3Dプリンタで作るCNCの作例を紹介します。
 image: /img/dremelcnc.jpg
+tags:
+  - 3Dプリンタ
 ---
 [DIY 3D Printed Dremel CNC](https://www.instructables.com/id/DIY-3D-Printed-Dremel-CNC/)から発見。画像もここから転載（CC BY-NC-SA By Nikus）
 
@@ -18,5 +20,5 @@ CNCの制御には[CNCjs](https://cnc.js.org/)というWebブラウザベース�
 
 3Dプリンタは持っているけど、CNCはまだ・・という方はこの記事を覗いてみてください。
 
-<iframe width="560" height="auto" src="https://www.youtube.com/embed/I7woln6urVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/I7woln6urVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
