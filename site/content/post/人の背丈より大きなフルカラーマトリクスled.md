@@ -13,3 +13,5 @@ tags:
 安くで手に入るフルカラーLEDを並べることでそこそこ安価に実現しています。
 
 電源回りのパーツなど、似たようなものを作りたい人には有用な情報が記載されています。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3EyEqmgnaU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
