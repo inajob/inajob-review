@@ -1,6 +1,6 @@
 ---
 title: オープンなDIYドラムマシン「SHAPESHIFTER」
-date: 2019-04-13T06:43:53.459Z
+date: 2019-11-13T23:00:53.459Z
 description: Teensyを使ったオープンなDIYドラムマシンを紹介します。
 image: /img/shapeshifter.jpg
 tags:
