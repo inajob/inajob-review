@@ -3,6 +3,9 @@ title: オープンなDIYドラムマシン「SHAPESHIFTER」
 date: 2019-04-13T06:43:53.459Z
 description: Teensyを使ったオープンなDIYドラムマシンを紹介します。
 image: /img/shapeshifter.jpg
+tags:
+  - 音楽
+  - Teensy
 ---
 [SHAPESHIFTER](http://www.faselunare.com/shapeshifter)から発見。画像もここから転載。
 
@@ -15,3 +18,5 @@ CPUボードはTeensy3.6を使っています。Teensyはオーディオ向け�
 ワークショップなども開催されているようで、コミュニティが活発なようです。
 
 ボードもファームウェアもオープンソースで[公開されている](https://gitlab.com/Faselunare/shapeshifter)ので似たようなものを作ってみたい方は要チェックです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NXAxMY7L5G8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
