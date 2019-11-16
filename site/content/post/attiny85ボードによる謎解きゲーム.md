@@ -8,3 +8,5 @@ tags:
   - HACK
 ---
 [Capture The Flag Shitty Add-On](https://blog.wokwi.com/capture-the-flag-shitty-add-on/)から発見。画像もここから転載。
+
+https://hackaday.com/2019/11/07/tiny-sao-tough-ctf-challenge/
