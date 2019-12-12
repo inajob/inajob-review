@@ -5,6 +5,7 @@ description: MIDI端子に内蔵された超小さな音源の作例を紹介し
 image: /img/flash-synth.jpg
 tags:
   - 音楽
+  - HACK
 ---
 [Flash Synth](https://mitxela.com/projects/flash_synth)から発見。画像もここから転載。
 
