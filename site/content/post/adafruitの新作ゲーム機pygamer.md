@@ -1,6 +1,6 @@
 ---
 title: Adafruitの新作ゲーム機PyGamer
-date: 2019-05-29T13:00:57.042Z
+date: 2019-12-23T23:00:57.042Z
 description: Adafruitの新作ゲーム機「PyGamer」を紹介します。
 image: /img/pygamer.jpg
 tags:
