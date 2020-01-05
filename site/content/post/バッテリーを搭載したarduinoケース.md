@@ -1,6 +1,6 @@
 ---
 title: バッテリーを搭載したArduinoケース
-date: 2019-06-02T06:15:20.186Z
+date: 2020-01-05T23:00:20.186Z
 description: 便利そうなバッテリーを搭載したArduinoケースの作例を紹介します。
 image: /img/portable-arduino-labjpg.jpg
 tags:
