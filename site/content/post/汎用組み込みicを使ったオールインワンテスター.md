@@ -1,6 +1,6 @@
 ---
 title: 汎用組み込みICを使ったオールインワンテスター
-date: 2019-06-11T05:34:37.415Z
+date: 2020-01-14T23:00:37.415Z
 description: 汎用8bitCPUを使ったオールインワンのテスターを紹介します。
 image: /img/labrador.jpg
 tags:
