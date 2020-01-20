@@ -1,6 +1,6 @@
 ---
-title: 日本人が作ったキーボード付きRaspberryPiコンソール
-date: 2019-06-11T05:43:03.421Z
+title: 日本人が作ったキーボード付きRaspberryPiコンソール「Hyper Keyboard Pi」
+date: 2020-01-20T23:00:03.421Z
 description: 日本人が作ったキーボード付きRaspberryPiコンソールを紹介します。
 image: /img/keyboard-pi.jpg
 tags:
