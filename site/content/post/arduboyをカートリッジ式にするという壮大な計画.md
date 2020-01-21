@@ -1,6 +1,6 @@
 ---
 title: Arduboyをカートリッジ式にするという壮大な計画
-date: 2019-06-11T05:46:16.475Z
+date: 2020-01-21T23:00:16.475Z
 description: 現在コミュニティベースで開発されているArduboyにカートリッジを搭載するプロジェクトを紹介します。
 image: /img/arducart.jpg
 tags:
