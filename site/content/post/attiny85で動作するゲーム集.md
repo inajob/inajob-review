@@ -1,6 +1,6 @@
 ---
 title: ATtiny85で動作するゲーム集
-date: 2019-06-11T05:48:28.415Z
+date: 2020-01-22T23:00:28.415Z
 description: 8ピンの8ビットCPU、ATtiny85で動作するゲーム集を紹介します。
 image: /img/attiny85-game.png
 tags:
