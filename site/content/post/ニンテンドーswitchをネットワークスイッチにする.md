@@ -7,3 +7,5 @@ tags:
   - HACK
 ---
 [The Nintendo Switch Switch](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)から発見。画像もここから転載。
+
+https://hackaday.com/2019/12/16/nintendo-switch-doubles-as-network-switch/
