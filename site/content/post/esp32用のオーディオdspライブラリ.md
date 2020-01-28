@@ -5,6 +5,7 @@ description: ESP32用のオーディオDSPライブラリ「yummyDSP」を紹介
 image: /img/yummy-dsp.png
 tags:
   - 音楽
+  - ESP32
 ---
 [yummyDSP](https://hackaday.io/project/165919-yummydsp)から発見。画像もここから転載。
 
