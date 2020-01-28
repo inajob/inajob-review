@@ -1,6 +1,6 @@
 ---
 title: ESP32用のオーディオDSPライブラリ
-date: 2019-06-11T06:03:11.313Z
+date: 2020-01-28T23:00:11.313Z
 description: ESP32用のオーディオDSPライブラリ「yummyDSP」を紹介します。
 image: /img/yummy-dsp.png
 tags:
