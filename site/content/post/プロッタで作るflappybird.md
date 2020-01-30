@@ -1,6 +1,6 @@
 ---
 title: プロッタで作るFlappyBird
-date: 2019-06-17T01:59:28.042Z
+date: 2020-01-30T23:00:28.042Z
 description: プロッタで描画をしながらFlappyBirdで遊べる仕掛けを紹介します。
 image: /img/plotter-bird.jpg
 tags:
