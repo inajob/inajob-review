@@ -1,6 +1,6 @@
 ---
 title: 洗濯ばさみのような基板書き込み装置「SOICbite」
-date: 2019-06-17T02:10:47.146Z
+date: 2020-02-04T23:00:47.146Z
 description: 洗濯ばさみのような基板書き込み装置「SOICbite」を紹介します。
 image: /img/soicbite.jpg
 tags:
