@@ -1,6 +1,6 @@
 ---
 title: スマートフォンに追加のスイッチを簡単に追加するHACK
-date: 2019-06-27T12:42:25.257Z
+date: 2020-02-11T23:00:25.257Z
 description: スマートフォンに追加のスイッチを簡単に追加するHACKを紹介します。
 image: /img/smartphone-enchant-switch.jpg
 tags:
