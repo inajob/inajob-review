@@ -31,6 +31,9 @@
     {{ .Content }}
   </section>
 
+  <div>{{with .Prev}}<a href="{{.URL}}">&lt;- 前の記事 - {{.Title}}</a>{{end}}</div>
+  <div style="text-align:right;">{{with .Next}}<a href="{{.URL}}">次の記事 - {{.Title}} - &gt;</a>{{end}}</div>
+
   {{ partial "related.html" . }}
 
   <section>
