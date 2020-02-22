@@ -15,8 +15,11 @@
   </div>
   <div class="text-gray">
     <!-- summary -->
-    {{ .Params.Description }}
-    <img src="{{ .Params.Image }}" />
+    <div style="float:left;">
+      <img width="200px" height="auto" src="{{ .Params.Image }}" />
+    </div>
+    <div style="margin-left:210px;">{{ .Params.Description }}</div>
     <a class="muted-link" href="{{ .URL }}"></a>
+    <br style="clear:both;">
   </div>
 </div>
