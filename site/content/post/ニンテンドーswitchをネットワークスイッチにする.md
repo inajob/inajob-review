@@ -8,4 +8,5 @@ tags:
 ---
 [The Nintendo Switch Switch](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)から発見。画像もここから転載。
 
-https://hackaday.com/2019/12/16/nintendo-switch-doubles-as-network-switch/
+ニンテンドーSwitchをネットワーク「スイッチ」にするという、どう考えてもこのダジャレが言いたいだけのプロジェクトです。
+といいつつ、ちゃんと仕事をするのがハッカーです。スイッチをハックする[switchroot](https://switchroot.org/)を利用してLinuxを導入し、ドッキングステーションのUSBポートにイーサーネットアダプタを接続してネットワークスイッチに仕上げています。
