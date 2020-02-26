@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi Zero WをつかったDIYなスマートグラス
-date: 2019-07-13T11:37:10.607Z
+date: 2020-02-26T23:00:10.607Z
 description: Raspberry Pi Zero WをつかったDIYなスマートグラスを紹介します。
 image: /img/smartglass.png
 tags:
