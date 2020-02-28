@@ -7,3 +7,9 @@ tags:
   - 音楽
 ---
 [HYBRID TRACKER SEQUENCER FOR EURORACK](https://xor-electronics.com/nerdseq/)から発見。画像もここから転載。
+
+いわゆるトラッカーと呼ばれるシーケンサを内蔵したユーロラック向けのモジュールです。
+
+テキストコンソールベースのトラッカーの画面は8bitな音楽にぴったりの見た目で、筐体を見るだけでピコピコ音が聞こえてきそうです。
+
+姉妹製品っぽいポータブルな8bitシンセサイザーである[NERDSYNTH](https://xor-electronics.com/nerdsynth/)も非常にかっこいいので要チェックです。
