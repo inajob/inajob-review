@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタとレーザーカッターで作るPCケース
-date: 2019-07-13T11:41:12.166Z
+date: 2020-03-01T23:00:12.166Z
 description: 3Dプリンタとレーザーカッターで作るPCケースの作例を紹介します。
 image: /img/pc-case.jpg
 tags:
