@@ -1,6 +1,6 @@
 ---
 title: ARで基板の仕様が「見える」アプリ
-date: 2019-07-13T11:42:58.937Z
+date: 2020-03-02T23:00:58.937Z
 description: ARで基板の仕様が「見える」アプリを紹介します。
 image: /img/board-ar.jpg
 tags:
