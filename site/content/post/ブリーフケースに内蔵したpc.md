@@ -1,6 +1,6 @@
 ---
 title: ブリーフケースに内蔵したPC
-date: 2019-07-13T12:37:48.891Z
+date: 2020-03-05T23:00:48.891Z
 description: ブリーフケースにRaspberry Piやキーボード、モニタを組み込んだ作例を紹介します。
 image: /img/briefcase-pi.jpg
 tags:
