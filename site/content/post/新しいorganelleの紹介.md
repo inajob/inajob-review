@@ -1,6 +1,6 @@
 ---
 title: 新しいOrganelleの紹介
-date: 2019-07-13T12:43:25.153Z
+date: 2020-03-09T23:00:25.153Z
 description: 高機能なシンセサイザー兼楽器である「Organelle」の最新モデルが出たようです。
 image: /img/new-organelle.jpg
 tags:
