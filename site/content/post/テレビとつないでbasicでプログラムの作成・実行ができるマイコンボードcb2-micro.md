@@ -5,6 +5,7 @@ description: テレビに接続しBASICでプログラムの作成・実行が�
 image: /img/cb2-micro.jpg
 tags:
   - 開発ボード
+  - ゲーム機
 ---
 [CB2 micro](http://cb2.qrp.gr/index.htm)から発見。画像もここから転載。
 
