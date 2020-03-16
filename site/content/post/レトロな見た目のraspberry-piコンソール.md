@@ -1,6 +1,6 @@
 ---
 title: レトロな見た目のRaspberry Piコンソール
-date: 2019-07-14T08:07:51.996Z
+date: 2020-03-16T23:00:51.996Z
 description: レトロな見た目のRaspberry Piコンソールを紹介します
 image: /img/retro-style-pi.jpg
 tags:
