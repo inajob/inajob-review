@@ -5,6 +5,7 @@ description: ディープラーニングを使った強いじゃんけんAI搭�
 image: /img/rnn-rps.png
 tags:
   - 機械学習
+  - attiny1614
 ---
 [Neural Network Device ‘Solves’ Rock-Paper-Scissors](https://blog.hackster.io/neural-network-device-solves-rock-paper-scissors-e37cabafd69)から発見。画像もここから転載。
 
