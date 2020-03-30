@@ -1,6 +1,6 @@
 ---
 title: フレックス基板を使った自身で振動するPOVディスプレイ
-date: 2019-07-14T08:51:28.004Z
+date: 2020-03-29T23:00:28.004Z
 description: フレックス基板を使った自身で振動するPOVディスプレイの作例を紹介します。
 image: /img/flex-pov.jpg
 tags:
@@ -15,3 +15,5 @@ POVディスプレイは電子工作界隈では有名な作例です。
 フレキシブル基板自体にコイル状のパターンを形成し、それにより電磁誘導でフレキシブル基板自体を振動させます。この振動に合わせて先っぽについた2色のLEDを制御してPOVを実現しています。
 
 フレキシブル基板は基板自体がたわむので、今までの基板ではできなかったこういう技ができるという良い例です。結果として安くでこういう複雑な仕組みを実現できそうです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WFdmsJZsbOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
