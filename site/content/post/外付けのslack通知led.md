@@ -1,6 +1,6 @@
 ---
 title: 外付けのSlack通知LED
-date: 2019-07-14T12:21:02.929Z
+date: 2020-04-06T23:00:02.929Z
 description: パソコンに外付けするSlack通知LEDの作例を紹介します
 image: /img/slack-notification.jeg.jpeg
 tags:
