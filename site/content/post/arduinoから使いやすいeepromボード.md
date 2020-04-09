@@ -1,6 +1,6 @@
 ---
 title: Arduinoから使いやすいEEPROMボード
-date: 2019-07-31T03:20:05.654Z
+date: 2020-04-09T23:00:05.654Z
 description: Arduinoから簡単に利用できるEEPROMボードを紹介します。
 image: /img/dataflashuno.jpg
 tags:
