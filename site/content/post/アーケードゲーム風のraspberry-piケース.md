@@ -6,6 +6,7 @@ image: /img/compactpi.jpg
 tags:
   - Raspberry Pi
   - ゲーム機
+  - 3Dプリンタ
 ---
 [CompactPi Mini Arcade - CPi01](https://www.tindie.com/products/kumodot/compactpi-mini-arcade-cpi01/)から発見。画像もここから転載。
 
