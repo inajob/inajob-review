@@ -8,3 +8,4 @@ tags:
 ---
 [Reviiser V.1.3 Cyberdeck Master Post](https://reviiser.com/reviiser-v1-cyberdeck-update.html)から発見。画像もここから転載。
 
+https://hackaday.com/2020/01/10/a-luggable-computer-for-the-raspberry-pi-era/
