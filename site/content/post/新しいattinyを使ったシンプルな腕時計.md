@@ -1,0 +1,10 @@
+---
+title: 新しいATTinyを使ったシンプルな腕時計
+date: 2020-04-16T01:30:16.450Z
+description: 新しいATTinyであるATtiny414を使った腕時計の作例を紹介します。
+image: /img/megatimewatch.jpg
+tags:
+  - 時計
+  - ATtiny414
+---
+[Mega Tiny Time Watch](http://www.technoblogy.com/show?2OKF)から発見。画像もここから転載。
