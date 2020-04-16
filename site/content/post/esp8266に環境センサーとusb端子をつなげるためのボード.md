@@ -1,0 +1,9 @@
+---
+title: ESP8266に環境センサーとUSB端子をつなげるためのボード
+date: 2020-04-16T01:51:57.165Z
+description: ESP8266に環境センサーとUSBシリアルをつなげるための開発ボードを紹介します。
+image: /img/espusb.jpg
+tags:
+  - ESP8266
+---
+[AN ESP8266 ENVIRONMENTAL MONITOR IN YOUR USB PORT](https://hackaday.com/2020/01/08/an-esp8266-environmental-monitor-in-your-usb-port/)から発見。画像もここから転載。
