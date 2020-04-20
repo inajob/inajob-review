@@ -1,6 +1,6 @@
 ---
 title: Attiny3217の開発ボード
-date: 2019-07-31T03:41:55.631Z
+date: 2020-04-19T23:00:55.631Z
 description: Attiny3217の開発ボードを紹介します。
 image: /img/attiny3217-board.jpg
 tags:
