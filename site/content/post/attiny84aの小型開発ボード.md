@@ -1,6 +1,6 @@
 ---
 title: ATtiny84aの小型開発ボード
-date: 2019-07-31T03:47:21.264Z
+date: 2020-04-20T23:00:21.264Z
 description: ATtiny84aの小型開発ボードを紹介します。
 image: /img/attiny84a-board.jpg
 tags:
