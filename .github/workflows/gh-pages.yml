@@ -19,6 +19,11 @@ jobs:
         with:
           hugo-version: '0.64.0'
 
+      - name: Use Node.js 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+
       - name: Setup Modules
         run: yarn install
 
