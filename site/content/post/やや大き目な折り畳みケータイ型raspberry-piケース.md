@@ -1,6 +1,6 @@
 ---
 title: やや大き目な折り畳みケータイ型Raspberry Piケース
-date: 2019-08-08T10:53:55.569Z
+date: 2020-04-22T23:00:55.569Z
 description: やや大き目の折り畳みケータイ型Raspberry Piケースの作例を紹介します
 image: /img/bigphone.jpg
 tags:
