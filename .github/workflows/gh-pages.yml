@@ -42,5 +42,5 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_REMOTE_KEY }}
           external_repository: inajob/inajob.github.io
           publish_branch: master
-          publish_dir: ./
+          publish_dir: ./dist
 
