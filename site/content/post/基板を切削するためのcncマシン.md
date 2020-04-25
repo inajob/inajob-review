@@ -1,6 +1,6 @@
 ---
 title: 基板を切削するためのCNCマシン
-date: 2019-08-08T12:17:54.723Z
+date: 2020-04-24T23:00:54.723Z
 description: 基板切削に特化したCNCマシンの作例を紹介します
 image: /img/antcnc.jpg
 tags:
