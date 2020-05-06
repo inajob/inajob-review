@@ -1,6 +1,6 @@
 ---
 title: DEFCON27のBadgeは磁力で通信する
-date: 2019-08-21T12:09:27.802Z
+date: 2020-05-05T23:00:27.802Z
 description: DEFCON27のBADGEが面白そうです。
 image: /img/def_con_27_official-badge.jpg
 tags:
