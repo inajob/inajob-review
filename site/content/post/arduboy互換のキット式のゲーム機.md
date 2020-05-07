@@ -1,6 +1,6 @@
 ---
 title: Arduboy互換のキット式のゲーム機
-date: 2019-08-21T12:11:39.257Z
+date: 2020-05-06T23:00:39.257Z
 description: Arduboy互換のキット式のゲーム機を紹介します。
 image: /img/peanuts.jpg
 tags:
