@@ -1,6 +1,6 @@
 ---
 title: かっこいい形状の小型のRaspberryPiラップトップ
-date: 2019-08-21T12:13:49.839Z
+date: 2020-05-11T23:00:49.839Z
 description: かっこいい形状の小型のRaspberryPiラップトップの作例を紹介します。
 image: /img/portable-pijpg.jpg
 tags:
