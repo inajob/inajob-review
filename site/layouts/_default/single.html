@@ -27,7 +27,7 @@
 <article>
   <!-- Content -->
   <section class="pb-6 mb-3 border-bottom">
-    <img src="{{ .Params.Image }}" />
+    <img src="{{ .Site.BaseURL }}{{ .Params.Image }}" />
     {{ .Content }}
   </section>
 

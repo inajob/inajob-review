@@ -16,7 +16,7 @@
   <div class="text-gray">
     <!-- summary -->
     <div style="float:left;">
-      <img width="200px" height="auto" src="{{ .Params.Image }}" />
+      <img width="200px" height="auto" src="{{ .Site.BaseURL }}{{ .Params.Image }}" />
     </div>
     <div style="margin-left:210px;">{{ .Params.Description }}</div>
     <a class="muted-link" href="{{ .URL }}"></a>
