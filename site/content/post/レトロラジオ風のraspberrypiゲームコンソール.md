@@ -12,3 +12,5 @@ tags:
 レトロラジオとアーケードゲームをくっつけたようなユニークな形状のRaspberry Piコンソールの作例です。レトロな外観のラジオ部分は実際に古いラジオを分解して再利用しているようです。
 
 コントローラの内部にRaspberry Piを内蔵するアイデアは応用が利きそうです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ys04Nz6xxxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
