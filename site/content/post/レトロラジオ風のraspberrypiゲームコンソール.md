@@ -1,10 +1,11 @@
 ---
 title: レトロラジオ風のRaspberryPiゲームコンソール
-date: 2019-08-21T12:17:08.803Z
+date: 2020-05-14T23:00:08.803Z
 description: レトロラジオ風のRaspberryPiゲームコンソールの作例を紹介します。
 image: /img/radio-pi.jpg
 tags:
   - Raspberry Pi
+  - ゲーム機
 ---
 [1963 Pi Tourer Game Console](https://www.instructables.com/id/1963-Pi-Tourer-Game-Console/)から発見。画像もここから転載（CC BY-NC-SA By MisterM）
 
