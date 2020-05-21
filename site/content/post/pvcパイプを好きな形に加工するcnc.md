@@ -1,6 +1,6 @@
 ---
 title: PVCパイプを好きな形に加工するCNC
-date: 2019-08-21T12:23:39.804Z
+date: 2020-05-20T23:00:39.804Z
 description: PVCパイプを好きな形に加工するCNCの作例を紹介します。
 image: /img/pvc-pipe-cnc.jpg
 tags:
