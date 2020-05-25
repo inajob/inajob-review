@@ -1,6 +1,6 @@
 ---
 title: なぜ作った！？炎が噴き出すNintendo64
-date: 2019-08-21T12:31:12.081Z
+date: 2020-05-24T23:00:12.081Z
 description: Nintendo64を改造して炎を噴射できるようにしたものを紹介します。
 image: /img/fire64.jpg
 tags:
