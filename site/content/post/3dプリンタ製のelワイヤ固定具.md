@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタ製のELワイヤ固定具
-date: 2019-08-21T12:33:41.703Z
+date: 2020-05-25T23:00:41.703Z
 description: ELワイヤの固定のためのボードを3Dプリンタで作った作例を紹介します。
 image: /img/elwire-mount.jpg
 tags:
