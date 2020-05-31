@@ -1,6 +1,6 @@
 ---
 title: MIDIを出力できるコンサーティーナ
-date: 2019-08-29T09:08:24.201Z
+date: 2020-05-30T23:00:24.201Z
 description: MIDIを出力できるコンサーティーナを紹介します
 image: /img/bandneon-midi.jpg
 tags:
