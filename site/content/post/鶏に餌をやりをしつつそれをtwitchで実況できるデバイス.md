@@ -1,6 +1,6 @@
 ---
 title: 鶏に餌をやりをしつつそれをTwitchで実況できるデバイス
-date: 2019-08-29T09:18:14.036Z
+date: 2020-06-01T23:00:14.036Z
 description: 鶏に餌をやりをしつつそれをTwitchで実況できるデバイスを紹介します。
 image: /img/chiken-feeder.jpg
 ---
