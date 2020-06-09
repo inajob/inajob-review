@@ -1,6 +1,6 @@
 ---
 title: USB-CコネクタサイズのLiPo充電ボード
-date: 2019-09-08T01:07:44.380Z
+date: 2020-06-08T23:00:44.380Z
 description: USB-Cコネクタサイズに収まる小さなLiPo充電ボードを紹介します。
 image: /img/ant-usb-c.jpg
 tags:
