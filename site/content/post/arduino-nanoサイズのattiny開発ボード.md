@@ -1,6 +1,6 @@
 ---
 title: Arduino NanoサイズのATtiny開発ボード
-date: 2019-09-08T02:26:20.214Z
+date: 2020-06-10T23:00:20.214Z
 description: Arduino NanoサイズのATtiny開発ボードを紹介します。
 image: /img/attiny-nano.png
 tags:
