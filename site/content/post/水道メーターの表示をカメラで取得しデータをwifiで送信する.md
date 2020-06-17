@@ -1,6 +1,6 @@
 ---
 title: 水道メーターの表示をカメラで取得しデータをWiFiで送信する
-date: 2019-09-08T02:46:44.808Z
+date: 2020-06-16T23:00:44.808Z
 description: ESP8285を使って水道メーターのデータをWiFiで送信する作例を紹介します。
 image: /img/water-mater.png
 tags:
