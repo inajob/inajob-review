@@ -1,6 +1,6 @@
 ---
 title: OLEDによるスマートグラス
-date: 2019-09-08T04:54:56.750Z
+date: 2020-06-21T23:00:56.750Z
 description: よくあるOLEDを使ったお手製のスマートグラスの作例を紹介します。
 image: /img/oled-smart-glass.jpg
 tags:
