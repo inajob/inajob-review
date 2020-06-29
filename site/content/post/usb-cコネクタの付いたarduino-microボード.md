@@ -1,6 +1,6 @@
 ---
 title: USB-Cコネクタの付いたArduino Microボード
-date: 2019-09-08T03:14:04.717Z
+date: 2020-06-28T23:00:04.717Z
 description: USB-Cコネクタが搭載されたArduino Microボードを紹介します。
 image: /img/arduino-micro-c.jpg
 tags:
