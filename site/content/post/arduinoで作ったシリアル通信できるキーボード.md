@@ -1,6 +1,6 @@
 ---
 title: Arduinoで作ったシリアル通信できるキーボード
-date: 2019-09-08T02:59:03.246Z
+date: 2020-06-29T23:00:03.246Z
 description: Arduinoで作ったシリアル通信できるキーボードの作例を紹介します。
 image: /img/arduino-keyboard.jpg
 tags:
