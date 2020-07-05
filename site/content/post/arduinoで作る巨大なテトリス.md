@@ -1,6 +1,6 @@
 ---
 title: Arduinoで作る巨大なテトリス
-date: 2019-09-08T04:48:54.262Z
+date: 2020-07-04T23:00:54.262Z
 description: ArduinoとWS2812により大きなテトリスを作成する方法を紹介します。
 image: /img/big-tetris.jpg
 tags:
