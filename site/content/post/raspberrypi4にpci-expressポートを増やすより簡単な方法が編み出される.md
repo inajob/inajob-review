@@ -1,6 +1,6 @@
 ---
-title: RaspberryPi4にPCI Expressポートを増やすより簡単な方法が編み出される
-date: 2020-07-06T08:11:51.505Z
+title: RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される
+date: 2020-07-05T23:00:51.505Z
 description: 以前紹介したRaspberryPi4にPCI Expressポートを増やす方法を、より簡単に実施する方法が編み出されました。
 image: /img/rpi4_bridge_chip.jpg
 tags:
