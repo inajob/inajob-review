@@ -1,6 +1,6 @@
 ---
 title: 結構小型のCircuitPythonが動く開発ボード
-date: 2019-09-24T13:43:09.333Z
+date: 2020-07-14T23:00:09.333Z
 description: コンパクトなCircuitPythonが動作する開発ボードを紹介します。
 image: /img/serpente.png
 tags:
