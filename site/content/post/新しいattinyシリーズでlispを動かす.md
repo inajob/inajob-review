@@ -1,7 +1,7 @@
 ---
 title: 新しいATtinyシリーズでLispを動かす
-date: 2019-10-03T07:51:17.773Z
-description: 当たらしいATtinyシリーズでLispを動作させる方法を紹介します。
+date: 2020-07-20T23:00:17.773Z
+description: 新しいATtinyシリーズでLispを動作させる方法を紹介します。
 image: /img/attinylisp.jpg
 tags:
   - attiny
