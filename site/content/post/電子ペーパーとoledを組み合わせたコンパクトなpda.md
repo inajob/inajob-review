@@ -1,6 +1,6 @@
 ---
 title: 電子ペーパーとOLEDを組み合わせたコンパクトなPDA
-date: 2019-09-24T13:59:58.385Z
+date: 2020-07-27T23:00:58.385Z
 description: 電子ペーパーとOLEDを組み合わせたコンパクトなPDAの作例を紹介します。
 image: /img/jakiro.png
 tags:
