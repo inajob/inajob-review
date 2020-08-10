@@ -9,3 +9,7 @@ tags:
   - 開発ボード
 ---
 [Seeeduino Crypto (ATmega4809 & ECC608)](https://www.seeedstudio.com/Seeeduino-Crypto-ATmega4809-ECC608-p-4369.html)から発見。画像もここから転載。
+
+Arduino互換の面白いボードです。新しいArduino Nano Everyなどにも使われているAATめが4809をコアとし、暗号化に特化したECC608というチップも搭載しています。
+
+この暗号化チップはSHA-256 & HMAC Hash / AES-128を素早く計算することができるもののようで、メインCPUに負荷をかけることなく暗号化を実現することができます。
