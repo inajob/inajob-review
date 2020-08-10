@@ -7,6 +7,9 @@ tags:
   - Arduino
   - 時計
 ---
-[iO Watch (Arduino IDE Powered Wristwatch)](https://www.hackster.io/marijoblaz/io-watch-arduino-ide-powered-wristwatch-d4cc92)から発見。画像もここから転載。
+[ARDUINO WRISTWATCH HAS LED HANDS](https://hackaday.com/2020/01/05/arduino-wristwatch-has-led-hands/)から発見。画像もここから転載。
 
-https://hackaday.com/2020/01/05/arduino-wristwatch-has-led-hands/
+12個のLEDを搭載したArduinoで動く腕時計です。CR2032で動作し、RTCとATMegaのICが搭載されています。
+
+電池を無駄に消費しないように、ボタンを押したときのみLEDが点灯するようです。
+Arduino互換なので、自分の好きなようにロジックを変更できるところが面白そうです。
