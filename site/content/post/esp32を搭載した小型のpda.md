@@ -9,3 +9,10 @@ tags:
   - 開発ボード
 ---
 [Low Power ESP32 Handheld](https://hackaday.io/project/169103-low-power-esp32-handheld)から発見。画像もここから転載。
+
+ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32のULPを活用することで、低電力での動作を実現しています。
+
+加速度センサーも内蔵しており、それによるキーボード入力なども紹介されています。
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/IB07gSAHnkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
