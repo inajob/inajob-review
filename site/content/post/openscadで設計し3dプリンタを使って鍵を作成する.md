@@ -1,6 +1,6 @@
 ---
 title: OpenSCADで設計し3Dプリンタを使って鍵を作成する
-date: 2019-10-03T07:53:29.785Z
+date: 2020-08-19T23:00:29.785Z
 description: OpenSCADで特定の鍵の形状を生成するスクリプトを作成し3Dプリンタを使って鍵を作成する事例を紹介します。
 image: /img/3d-printed-keys.jpg
 tags:
