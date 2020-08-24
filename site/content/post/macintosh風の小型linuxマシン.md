@@ -1,6 +1,6 @@
 ---
 title: Macintosh風の小型Linuxマシン
-date: 2019-10-15T09:10:31.350Z
+date: 2020-08-23T23:00:31.350Z
 description: Macintosh風の小型筐体に収められたLinux機の作例を紹介します
 image: /img/macintosh-mini.jpg
 tags:
