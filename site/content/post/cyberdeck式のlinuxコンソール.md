@@ -1,6 +1,6 @@
 ---
 title: Cyberdeck式のLinuxコンソール
-date: 2019-10-15T09:22:59.767Z
+date: 2020-08-27T11:00:59.767Z
 description: キーボード一体型のモバイルLinuxコンピュータの作例を紹介します。
 image: /img/cyberdeck.jpg
 tags:
