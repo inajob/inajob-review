@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi 3のPoEを安くで実現するHACK
-date: 2019-10-15T02:11:03.050Z
+date: 2020-08-30T23:00:03.050Z
 description: Raspberry Pi 3でPoEを安くで実現する方法を紹介します。
 image: /img/poor-poe.jpg
 tags:
