@@ -1,6 +1,6 @@
 ---
 title: USB Type-C周りの回路図
-date: 2019-11-16T03:53:41.216Z
+date: 2020-09-01T23:00:41.216Z
 description: USB Type-Cを利用するための回路図を紹介します。
 image: /img/usbccct-600x483.png
 tags:
