@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタ製のモジュラー式ピンポン玉ドットマトリクスLED
-date: 2019-11-16T03:22:33.217Z
+date: 2020-09-07T23:00:33.217Z
 description: 3Dプリンタで作成されたモジュラー式の8x8のピンポン玉ドットマトリクスLEDです。
 image: /img/3d-printed-moduler-led.jpg
 tags:
