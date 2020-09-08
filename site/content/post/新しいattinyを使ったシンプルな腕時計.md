@@ -8,3 +8,7 @@ tags:
   - ATtiny414
 ---
 [Mega Tiny Time Watch](http://www.technoblogy.com/show?2OKF)から発見。画像もここから転載。
+
+ATTiny1414を使ったミニマルな腕時計です。ATTiny1414にはRTCが内蔵されているため、ワンチップでこのような時計を作る事ができるようです。
+
+LEDを常時つけっぱなしにすると電池の消費が激しいため、スイッチを押したときだけ時刻を表示するという仕様のようです。
