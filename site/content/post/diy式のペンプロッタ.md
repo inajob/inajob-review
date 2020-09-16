@@ -1,6 +1,6 @@
 ---
 title: DIY式のペンプロッタ
-date: 2019-11-11T10:05:15.098Z
+date: 2020-09-15T23:00:15.098Z
 description: 木材など比較的簡単に作れそうな部品で構成されたDIY式のペンプロッタの作例を紹介します。
 image: /img/diy-pen-plotter.jpg
 tags:
