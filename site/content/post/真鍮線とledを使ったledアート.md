@@ -1,6 +1,6 @@
 ---
 title: 真鍮線とLEDを使ったLEDアート
-date: 2019-11-11T09:49:15.507Z
+date: 2020-09-19T23:00:15.507Z
 description: 真鍮線にLEDをはんだ付けされた非常にかわいいオブジェを紹介します。
 image: /img/ledart.jpg
 tags:
