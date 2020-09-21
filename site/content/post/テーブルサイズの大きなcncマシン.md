@@ -1,6 +1,6 @@
 ---
 title: テーブルサイズの大きなCNCマシン
-date: 2019-11-16T03:29:42.221Z
+date: 2020-09-20T23:00:42.221Z
 description: テーブルサイズの非常に大きなCNCマシンの作例を紹介します。
 image: /img/big-cnc.jpg
 tags:
