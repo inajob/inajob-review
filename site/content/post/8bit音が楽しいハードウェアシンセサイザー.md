@@ -17,4 +17,4 @@ ELZ_1というシンセサイザーを作っているチームの新作です。
 ELZ_1よりは低価格路線での販売を考えているようですが、8bitのかっこいいサウンドを使ってライブ作曲が実用的にできるマシンのように見えます。
 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/r78hdiXby5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ohU9rHj0IFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
