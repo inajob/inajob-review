@@ -29,5 +29,22 @@ tags:
 
 （以下この手法に挑戦されている方のTwitを載せておきます。）
 
+加熱がまずかったのか、変形してしまっているけど、あと一息？
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3Dプリント塩釜焼きテストその二。<br>ムクで造形した四角パイプがこうなりました…ました？？？<br><br>オーブン設定は230度の20分<br>前回と違い塩の中から浮き上がっては来なくなったのでムク造形でないといけないというのは確か。後は温度と時間か <a href="https://t.co/6DzuE34tQJ">pic.twitter.com/6DzuE34tQJ</a></p>&mdash; 45ACPなる、遥けき便り、うち捨てむ、そは呪われし、回文にして (@Giro_45ACP) <a href="https://twitter.com/Giro_45ACP/status/1310143345096761344?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+これから挑戦される様子・・どうなるでしょうか？
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とりあえずこいつを塩漬けにしてみますぜ。 <a href="https://t.co/Vg1ngnvn6e">pic.twitter.com/Vg1ngnvn6e</a></p>&mdash; NN (@kiiimlo) <a href="https://twitter.com/kiiimlo/status/1310126242708951040?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+こちらも挑戦中です。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">塩実験、やっていこう。 <a href="https://t.co/2M3FCoWsyO">pic.twitter.com/2M3FCoWsyO</a></p>&mdash; Nii (@neet2121) <a href="https://twitter.com/neet2121/status/1310139085172797443?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+積層痕は残っているようですが、表面の性質が変化したようで、やすり掛けするとつるつるになったようです。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">塩による積層痕処理試してみました<br>予想はできてたけどもっと細かい塩でやらんとダメですね<br>こんがり美味しそうな色になったのは温度か時間か...<br>なんにしても色々検証すればつかえそう <a href="https://t.co/riiiUNN7ad">https://t.co/riiiUNN7ad</a> <a href="https://t.co/gnltv4wjHE">pic.twitter.com/gnltv4wjHE</a></p>&mdash; 手のひと ハマー (@hama_lo_0l) <a href="https://twitter.com/hama_lo_0l/status/1310083062282121221?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+かなりうまくいっているのでは・・？
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ABSの塩焼き2回目(^^)<br><br>前回より良くなったかな<br>ツルツルな面とザラザラな面が有るのと<br>端が外側に広がってるのは塩を固める力が足りてないのかな？？<br><br>何にせよ一回目よりは良くなった(^^)<br>次はより強く塩を固める方法を考えるか… <a href="https://t.co/K3GAt88IJ2">pic.twitter.com/K3GAt88IJ2</a></p>&mdash; 🦮いけのり / sion-e (@sione21230094) <a href="https://twitter.com/sione21230094/status/1310138706322366464?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
