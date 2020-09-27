@@ -51,3 +51,4 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">うぉおお！積層跡が消えて、ショットブラスト肌みたいになってる！(右下) <a href="https://t.co/6y89PLmzmS">pic.twitter.com/6y89PLmzmS</a></p>&mdash; Nii (@neet2121) <a href="https://twitter.com/neet2121/status/1310169332370923520?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+皆さん行動が早くてすごいですね・・
