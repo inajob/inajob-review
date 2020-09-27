@@ -35,9 +35,9 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3Dプリント塩釜焼きテストその二。<br>ムクで造形した四角パイプがこうなりました…ました？？？<br><br>オーブン設定は230度の20分<br>前回と違い塩の中から浮き上がっては来なくなったのでムク造形でないといけないというのは確か。後は温度と時間か <a href="https://t.co/6DzuE34tQJ">pic.twitter.com/6DzuE34tQJ</a></p>&mdash; 45ACPなる、遥けき便り、うち捨てむ、そは呪われし、回文にして (@Giro_45ACP) <a href="https://twitter.com/Giro_45ACP/status/1310143345096761344?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-これから挑戦される様子・・どうなるでしょうか？
+表面がざらざらのようですが、なかなか良さそうです。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とりあえずこいつを塩漬けにしてみますぜ。 <a href="https://t.co/Vg1ngnvn6e">pic.twitter.com/Vg1ngnvn6e</a></p>&mdash; NN (@kiiimlo) <a href="https://twitter.com/kiiimlo/status/1310126242708951040?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">完了。<br><br>積層は完全に消えた。<br>ただ、塩粒子がまだまだ粗いせいと思われる肌荒れ（マット感。むしろ炭みたい。）ができた。<br><br>あと、上にしていた部分に凹みがあったので、溶けたときに流れ落ちたと思われる。<br>インフィル100%だけど印刷自体の調整が必要。<br><br>課題はあるけど、塩処理自体は成功と言える。 <a href="https://t.co/1ROPKGINN7">pic.twitter.com/1ROPKGINN7</a></p>&mdash; NN (@kiiimlo) <a href="https://twitter.com/kiiimlo/status/1310205174997069829?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 積層痕は残っているようですが、表面の性質が変化したようで、やすり掛けするとつるつるになったようです。
 
