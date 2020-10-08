@@ -1,6 +1,6 @@
 ---
 title: NESを内蔵したNES型プロジェクタ
-date: 2019-11-16T03:33:00.431Z
+date: 2020-10-07T23:00:00.431Z
 description: NESを内蔵した一回り大きめのNES型のプロジェクタを紹介します。
 image: /img/nesprojector.jpg
 tags:
