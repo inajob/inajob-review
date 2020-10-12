@@ -3,5 +3,14 @@ title: 大きなジョグダイアル付きの8x8マトリクスLEDゲーム機
 date: 2019-05-29T11:42:45.331Z
 description: 大きなジョグダイアルが特徴的な8x8マトリクスLEDゲーム機を紹介します。
 image: /img/big-dial-game.jpg
+tags:
+  - ゲーム機
+  - Arduino
 ---
-[TeleBall - Retro Handheld Game Console](https://hackaday.io/project/165136-teleball-retro-handheld-game-console)から発見。画像もここから転載。
+[TeleBall - Retro Handheld Game Console](http://teleball.org/index.html)から発見。画像もここから転載。
+
+上下左右のキーとABボタンという標準的なゲームのコントローラにとらわれないモバイルゲームコンソールです。つまみを回すことでゲーム内のパドルを左右に動かすことができます。
+
+中身はArduino Nanoと2.4GHz通信モジュールで構成されており、2台あれば通信対戦もできるようです。
+
+3Dプリンタで作成された筐体はバッテリーケースも兼ねており、DIYでゲーム機を作る際の参考になりそうです。
