@@ -1,6 +1,6 @@
 ---
 title: ニンテンドーSwitchをネットワークスイッチにする
-date: 2020-01-26T10:06:46.865Z
+date: 2020-10-11T23:00:46.865Z
 description: ニンテンドーSwitchをネットワークスイッチにしてしまう作例を紹介します。
 image: /img/switch-switch.jpg
 tags:
