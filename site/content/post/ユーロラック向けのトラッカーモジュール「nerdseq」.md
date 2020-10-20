@@ -14,4 +14,4 @@ tags:
 
 姉妹製品っぽいポータブルな8bitシンセサイザーである[NERDSYNTH](https://xor-electronics.com/nerdsynth/)も非常にかっこいいので要チェックです。
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/HUiIJ4jFzpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AlVHEK6fXO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
