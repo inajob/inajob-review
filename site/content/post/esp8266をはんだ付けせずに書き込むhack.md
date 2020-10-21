@@ -1,6 +1,6 @@
 ---
 title: ESP8266をはんだ付けせずに書き込むHACK
-date: 2020-01-26T09:12:15.377Z
+date: 2020-10-20T23:00:15.377Z
 description: ESP8266にはんだ付けすることなく書き込みを行うためのジグの作例を紹介します。
 image: /img/pogoesp.jpg
 tags:
