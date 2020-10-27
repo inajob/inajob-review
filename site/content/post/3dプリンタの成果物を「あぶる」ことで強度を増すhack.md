@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタの成果物を「あぶる」ことで強度を増すHACK
-date: 2020-01-26T10:17:15.903Z
+date: 2020-10-26T23:00:15.903Z
 description: 3Dプリンタの成果物を「あぶる」ことで強度を増すHACKを紹介します。
 image: /img/annealing-3d-printer.jpg
 tags:
