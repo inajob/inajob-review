@@ -1,6 +1,6 @@
 ---
 title: 小型ラック風のモバイルRaspberryPiケース
-date: 2020-01-23T23:49:32.518Z
+date: 2020-10-27T23:00:32.518Z
 description: キーボード・モニタをビルトインした懐かしい形のモバイルRaspberryPiケースを紹介します。
 image: /img/portablepi.jpg
 tags:
