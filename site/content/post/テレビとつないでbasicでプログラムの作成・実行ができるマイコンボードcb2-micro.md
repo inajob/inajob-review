@@ -16,3 +16,5 @@ BASICで作られたプログラムが遊べるようで、日本だと[IchigoJa
 マイコンはAtmega644を利用しています。これ一つでPC/2端子によるキーボード入力、SCART端子による音声・映像出力を実現しています。PCとの接続はRS232端子が利用できます。
 
 パーツはすべてDIPで構成されているため、簡単に組み立てできそうです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/eNvAw-O5Zr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
