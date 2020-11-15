@@ -7,3 +7,9 @@ tags:
   - HACK
 ---
 [i2c on your unused/legacy VGA output](http://vogelchr.blogspot.com/2019/01/i2c-on-your-unusedlegacy-vga-output.html)から発見。画像もここから転載。
+
+ディスプレイを接続するためのVGA端子ですが、そのピンの中にI2Cの機能のピンがあることを知っていますか？
+
+本来はモニタのサポートしている解像度などをPCとやり取りするために使われるもののようですが、この記事ではLinuxで、このI2Cを厚克方法を紹介しています。
+
+カーネルモジュールをロードするだけで、使えるようになり、記事の中では気温・湿度センサーの値をこのVGA端子から読み取っている様子が紹介されています。
