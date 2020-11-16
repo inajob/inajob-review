@@ -1,6 +1,6 @@
 ---
 title: ESP32を搭載した小型のPDA
-date: 2020-03-15T06:38:05.188Z
+date: 2020-03-14T23:00:05.188Z
 description: ESP32を搭載した省電力な小型のPDAの作例を紹介します。
 image: /img/esp32-pda-board.jpg
 tags:
