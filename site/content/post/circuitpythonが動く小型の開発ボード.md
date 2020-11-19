@@ -9,4 +9,6 @@ tags:
 ---
 [CircuitBrains Deluxe](https://kevinneubauer.com/portfolio/circuitbrains-deluxe/)から発見。画像もここから転載。
 
-https://hackaday.com/2019/12/21/diy-circuitpython-brain-snakes-into-small-spaces/
+ATSAMD51を搭載したCircuitPythonが動作するボードです。8MBのSPIFlashや水晶発振器、3.3Vレギュレータも搭載しており、単なるブレイクアウトボードではなく、開発ボードとしてそのまま利用できます。
+
+ATSAMD51を使いたいけど、退屈な周辺回路の設計はやりたくない・・という方にはぴったりのボードです。
