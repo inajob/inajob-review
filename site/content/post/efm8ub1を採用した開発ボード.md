@@ -1,6 +1,6 @@
 ---
 title: EFM8UB1を採用した開発ボード
-date: 2019-10-15T09:41:26.238Z
+date: 2020-11-22T22:00:26.238Z
 description: USBをサポートしたマイコンEFM8UB1のコンパクトな開発ボードを紹介します。
 image: /img/efm8ub1_thumb.jpg
 tags:
