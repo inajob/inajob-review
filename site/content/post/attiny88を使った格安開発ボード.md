@@ -1,6 +1,6 @@
 ---
 title: ATtiny88を使った格安開発ボード
-date: 2019-04-13T05:28:46.032Z
+date: 2020-11-28T23:00:46.032Z
 description: ATtiny88を使った格安開発ボードを紹介します。
 image: /img/mh-tiny-board.png
 ---
