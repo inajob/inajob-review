@@ -5,6 +5,7 @@ description: Kickstarterでキャンペーン中の高機能な携帯ゲーム�
 image: /img/32bit-game.jpg
 tags:
   - ゲーム機
+  - クラウドファンディング
 ---
 [32blit: retro-inspired handheld with open-source firmware](https://www.kickstarter.com/projects/pimoroni/32blit-retro-inspired-handheld-with-open-source-fi)から発見。画像もここから転載。
 
