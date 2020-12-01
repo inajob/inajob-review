@@ -1,6 +1,6 @@
 ---
 title: 大きなジョグダイアル付きの8x8マトリクスLEDゲーム機
-date: 2019-05-29T11:42:45.331Z
+date: 2020-11-30T23:00:45.331Z
 description: 大きなジョグダイアルが特徴的な8x8マトリクスLEDゲーム機を紹介します。
 image: /img/big-dial-game.jpg
 tags:
