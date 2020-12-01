@@ -14,3 +14,5 @@ tags:
 中身はArduino Nanoと2.4GHz通信モジュールで構成されており、2台あれば通信対戦もできるようです。
 
 3Dプリンタで作成された筐体はバッテリーケースも兼ねており、DIYでゲーム機を作る際の参考になりそうです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JpwP330C6q0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
