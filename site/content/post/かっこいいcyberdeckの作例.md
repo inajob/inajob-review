@@ -8,4 +8,8 @@ tags:
 ---
 [The Cyberdeck Mark 2: the dream of the '80s is alive.](https://imgur.com/gallery/Nx1dnUw)から発見。画像もここから転載。
 
-https://hackaday.com/2019/12/24/advancing-the-state-of-cyberdeck-technology/
+一般的なノートパソコンとは違う形の、かっこいいLinuxマシンです。マザーボードはNUCを使い、キーボードはErgodoxを搭載しているようです。
+
+筐体は3Dプリンタで作られており、はめ込み式の筐体によりキーボードを分割して配置することもできるようになっています。
+
+NUCやRaspberryPiなど小型のLinuxボードが簡単に入手できるようになったため、この手のガジェットがぐっと作りやすくなっています。皆さんもおひとつ作ってみてはどうでしょうか？
