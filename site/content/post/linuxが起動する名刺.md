@@ -5,7 +5,18 @@ description: Linuxが起動する名刺の作例を紹介します。
 image: /img/businesscard.jpg
 tags:
   - 開発ボード
+  - Linux
+  - F1C100s
 ---
-[My Business Card Runs Linux](https://hackaday.com/2019/12/24/now-even-your-business-card-can-run-linux/)から発見。画像もここから転載。
+[My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)から発見。画像もここから転載。
 
-https://hackaday.com/2019/12/24/now-even-your-business-card-can-run-linux/
+RaspberryPiに代表されるシングルボードコンピュータ(SBC)が、ずいぶん身近になりましたが、基板から自作するとなるとまだまだハードルが高そうに思います。
+
+この記事で紹介しているのはLinuxが起動する名刺サイズのボードです。
+コアとなるCPUはF1C100sでこの記事では、この基板を中国製の安いリフロー炉で実装しています。
+
+なんと原価で言うとこのボードはたった$2.88で作れるようです。（部品の実装は自分でやっているので0円という計算です）
+
+名刺の角の部分がUSBコネクタの形状になっており、ここから電源の供給と、マスストレージとしてのアクセスや、シリアルポートのアクセスができるようです。
+
+これを作るためには膨大なLinuxとARM周りの知識が必要層ですが、必要なパーツやソースコードは公開されているので、挑戦してみるのも面白そうです。
