@@ -5,6 +5,7 @@ description: かっこいいCyberdackの作例を紹介します。
 image: /img/cyberdack-mk2.jpg
 tags:
   - 3Dプリンタ
+  - Cyberdeck
 ---
 [The Cyberdeck Mark 2: the dream of the '80s is alive.](https://imgur.com/gallery/Nx1dnUw)から発見。画像もここから転載。
 
