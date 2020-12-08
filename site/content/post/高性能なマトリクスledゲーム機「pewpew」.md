@@ -1,6 +1,6 @@
 ---
 title: 高性能なマトリクスLEDゲーム機「PewPew」
-date: 2019-06-27T13:08:47.302Z
+date: 2020-12-07T23:00:47.302Z
 description: 高性能なマトリクスLEDゲーム機「PewPew」を紹介します。
 image: /img/pewpew-standalone.jpg
 tags:
