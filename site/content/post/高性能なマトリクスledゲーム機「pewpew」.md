@@ -15,6 +15,6 @@ Atmel SAMD21がコアでCircuitPythonでプログラミングすることが出�
 
 8x8のローレゾなディスプレイですが、CPUは結構高性能です。このバランスをうまく生かしたゲームができると面白そうです。
 
-価格も結構お手軽なので試してみたい人は、買ってみてはいかがでしょうか？ [Small PewPew Standalone
+価格も結構お手軽なので試してみたい人は、買ってみてはいかがでしょうか？ → [Small PewPew Standalone
 ](https://www.tindie.com/products/Makerfabs/small-pewpew-standalone-2/)
 
