@@ -1,8 +1,10 @@
 ---
 title: ATTiny84で作る温度計
-date: 2019-04-13T05:18:42.977Z
+date: 2020-12-09T23:00:42.977Z
 description: ATTiny84で作る温度計の作例を紹介します。
 image: /img/twodigitthermometer2.jpg
+tags:
+  - attiny84
 ---
 [Two-Digit Thermometer](http://www.technoblogy.com/show?2G8T)から発見。画像もここから転載。
 
