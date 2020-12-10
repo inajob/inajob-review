@@ -31,8 +31,8 @@
     {{ .Content }}
   </section>
 
-  <div>{{with .Prev}}<a href="{{.URL}}">&lt;- 前の記事 - {{.Title}}</a>{{end}}</div>
-  <div style="text-align:right;">{{with .Next}}<a href="{{.URL}}">次の記事 - {{.Title}} - &gt;</a>{{end}}</div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">{{with .Prev}}<a href="{{.URL}}">&lt;- 前の記事 - {{.Title}}<img class="rect" src="{{ .Site.BaseURL }}{{ .Params.Image }}" /></a>{{end}}</div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">{{with .Next}}<a href="{{.URL}}"><img class="rect" src="{{ .Site.BaseURL }}{{ .Params.Image }}" />次の記事 - {{.Title}} - &gt;</a>{{end}}</div>
 
   {{ partial "related.html" . }}
 
