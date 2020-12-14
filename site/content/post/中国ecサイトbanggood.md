@@ -1,6 +1,6 @@
 ---
 title: 中国ECサイトBanggoodとは？
-date: 2020-12-14T04:47:41.350Z
+date: 2020-12-14T11:00:41.350Z
 description: 中国ECサイトの一つ「Banggood」について紹介しつつ、面白そうな商品を安く買えるクーポンについて紹介します。
 image: /img/banggood.png
 tags:
