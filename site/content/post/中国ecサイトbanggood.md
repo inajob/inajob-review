@@ -34,7 +34,7 @@ Twitterで意見を募集したところ様々なアドバイスをもらいま�
 
 早速一つ、手元のクーポン一覧の中から面白そうな商品を紹介します。
 
-![](/img/banggood-air-quality-meters.jpg)
+![](../../img/banggood-air-quality-meters.jpg)
 
 [二酸化炭素検出器室内空気質モニターReal時間CO2検出器TFTカラースクリーンインテリジェント空気質センサーテスター](https://jp.banggood.com/Carbon-Dioxide-Detector-Indoor-Air-Quality-Monitor-Real-Time-CO2-Detector-TFT-Color-Screen-Intelligent-Air-Quality-Sensor-Tester-p-1742340.html?p=0M092355466124202012)
 
