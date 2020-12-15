@@ -6,7 +6,7 @@ image: /img/banggood.png
 tags:
   - Banggood
 ---
-私は普段AliExpressをよく利用しているのですが、先日[Banggood](https://jp.banggood.com/)というECサイトを教えてもらいました。
+私は普段AliExpressをよく利用しているのですが、先日[Banggood](https://jp.banggood.com/?p=0M092355466124202012)というECサイトを教えてもらいました。
 
 日本にAmazonやYahoo!ショッピング、楽天市場があるように、中国にも様々なECサイトがあるようです。
 それぞれに特徴があるので、欲しいものに応じて適切なECサイトを利用するのが賢いのですが、果たしてBanggoodはどのようなECサイトなのでしょうか？
