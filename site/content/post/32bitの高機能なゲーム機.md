@@ -1,6 +1,6 @@
 ---
 title: 高機能なオープン携帯ゲーム機
-date: 2019-05-29T12:05:43.809Z
+date: 2020-12-16T23:00:43.809Z
 description: Kickstarterでキャンペーン中の高機能な携帯ゲーム機を紹介します。
 image: /img/32bit-game.jpg
 tags:
