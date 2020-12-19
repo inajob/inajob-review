@@ -16,3 +16,5 @@ tags:
 MIDI-IN端子や2つのロータリーエンコーダ、オーディオ出力端子、SDカードスロットなど、音源で遊ぶ際に必要そうなインターフェースは十分備えています。
 
 コントローラとなるICはBluePill(STM32F103)のように見えます。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FmDePNZ2atE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
