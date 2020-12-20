@@ -1,6 +1,6 @@
 ---
 title: コンパクトなRaspberryPiコンソール
-date: 2019-05-29T12:03:01.747Z
+date: 2020-12-19T23:00:01.747Z
 description: コンパクトにまとまったRaspberryPiコンソールを紹介します。
 image: /img/small-raspi-console.jpg
 tags:
