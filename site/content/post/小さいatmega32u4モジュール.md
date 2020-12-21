@@ -9,4 +9,8 @@ tags:
 ---
 [Atto: An incredibly tiny, Arduino compatible board with USB!](https://www.kickstarter.com/projects/bnbe/atto-an-incredibly-tiny-arduino-compatible-board-with-usb)から発見。画像もここから転載。
 
-[以前も似たようなボードをしょうかいしました](../../限界まで小さいatmega32u4モジュール/)が
+非常に小さなATMega32u4の開発ボードです。小さいボードながらUSBポートも搭載されており、使いやすそうです。
+
+[以前も似たようなボードを紹介しました](../../限界まで小さいatmega32u4モジュール/)が、これらは微妙に異なっています。
+
+こちらのボードのほうが少し大きいですが、ピン間隔がブレッドボードと同じなので、さっと使う分にはこちらの方が便利そうです。
