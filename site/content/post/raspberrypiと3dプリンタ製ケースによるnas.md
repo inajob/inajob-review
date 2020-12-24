@@ -2,6 +2,7 @@
 title: RaspberryPiと3Dプリンタ製ケースによるNAS
 date: 2020-12-24T03:30:28.304Z
 description: RaspberryPiと3Dプリンタ製ケースによるNASの作例を紹介します。
+image: /img/3dprinted-nas.jpg
 tags:
   - RaspberryPi
   - 3Dプリンタ
