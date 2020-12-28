@@ -10,13 +10,13 @@ tags:
 ---
 この記事はBanggoodの提供でお届けします。
 
-[以前紹介したように](..//post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/)このブログはBanggoodと提携させていただいており、今回紹介するGamePi20はBanggoodからいただいたものとなります。
+[以前紹介したように](../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/)このブログはBanggoodと提携させていただいており、今回紹介する[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)はBanggoodからいただいたものとなります。
 
-（GamePi20のレビューがしたい！と言ったのは自分なので、Banggoodが無理やりGamePi20を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+（[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、Banggoodが無理やりGamePi20を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
-さらに・・あとで紹介しますが、「ちょっと他より高いんじゃない？」と相談したところ、**2021/01/31まで利用できるクーポン**をいただくことが出来たので、この機会にBanggoodでお得にGamePi20を購入してみるのも良いのではないでしょうか？
+さらに・・あとで紹介しますが、「ちょっと他より高いんじゃない？」と相談したところ、**2021/01/31まで利用できるクーポン**をいただくことが出来たので、この機会にBanggoodでお得に[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)を購入してみるのも良いのではないでしょうか？
 
-# GamePi20の特徴・仕様
+# [GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)の特徴・仕様
 
 このブログでも多くのRaspberryPiを搭載したポータブルゲーム機の作例を紹介してきましたが、GamePi20もそういったものの一つです。
 
@@ -35,6 +35,8 @@ tags:
 
 # 外観
 
+(この製品は組み立て済みですが、ここではあえて分解して内部を紹介しています。分解のための工具も製品に同梱されているので、誰でも分解できます。)
+
 筐体はアクリル製のフロントパネルと、金属製のボディにより構成されています。
 フロントパネルにそれっぽい印刷がされていますが、このセンスは日本人にはちょっと合わないかもしれません・・、一方金属製のボディはしっかりとした作りで、個人で作る事は難しそうな、製品ならではの安定感のあるものとなっています。
 
@@ -43,8 +45,6 @@ tags:
 十字キーと4ボタンは、普通のゲームコントローラのようにラバードーム式のスイッチになっており、使用感はとても良いです。一方スタート・セレクトボタンとL/Rボタンはいわゆる普通の中国製の硬めのタクトスイッチなので、違和感を覚える人も多そうです。
 
 # 内部基板
-
-(この製品は組み立て済みですが、ここではあえて分解して内部を紹介しています。分解のための工具も製品に同梱されているので、誰でも分解できます。)
 
 ケースの中にはRaspberry Pi Zeroと、それをマウントするメインボードが入っています。
 このメインボードは、ゲーム機の自作を試みたことがある人には、非常に参考になる作りとなっています。
@@ -70,7 +70,7 @@ Raspberry Pi Zeroとはロープロファイルのピンソケットで接続さ
 
 # Recalbox
 
-\[Recalbox](https://www.recalbox.com/)はゲームエミュレータ専用のLunuxベースのOSで、よく似たものとしては\[RetroPie](https://retropie.org.uk/)が挙げられます。
+[Recalbox](https://www.recalbox.com/)はゲームエミュレータ専用のLunuxベースのOSで、よく似たものとしては[RetroPie](https://retropie.org.uk/)が挙げられます。
 実際のところGamePi20は、RecalboxもRetroPieもどちらも動かすことが出来るようです。(自分はRecalboxしか試していないですが・・）
 
 このRecalbox。非常によくできていて、様々なレトロゲーム機のエミュレータが搭載されていることはもちろん、Sambaでのファイル共有や、Web経由での設定変更などもできます。
@@ -93,13 +93,21 @@ Raspberry Pi Zeroとはロープロファイルのピンソケットで接続さ
 
 などなど、ゲームエミュレータ機としてより、むしろそれ以外の使い方のほうが面白そうに感じます。
 
+![](/img/gamepi-tic80.jpg)
+
 ゲームエミュレータとしても遊べるし、飽きたら持ち運べる汎用Linuxマシンとしても利用できる、この「GamePi20」。玄人向きだとは思いますが、個人的には「買い」のアイテムだと思いました。
 
 # クーポンコード！
 
-さて、ここまで紹介してきたGamePi20ですが、Banggoodでは$76.44で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。
-まぁ、Banggoodは配送も比較的早いし、Paypalで支払えるなど、良いところもたくさんあるので、多少高いのは仕方がないかな・・？と思いつつ、恐る恐る「ちょっと人に勧めるには高すぎません？・・」と聞いてみたところ、このブログのために$54.99へ値下げできるクーポンコードを頂きました！！！
+さて、ここまで紹介してきたGamePi20ですが、Banggoodでは**$76.44**で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。
+まぁ、Banggoodは配送も比較的早いし、Paypalで支払えるなど、良いところもたくさんあるので、多少高いのは仕方がないかな・・？と思いつつ、恐る恐る「ちょっと人に勧めるには高すぎません？・・」と聞いてみたところ、このブログのために**$54.99**へ値下げできるクーポンコードを頂きました！！！
+
+コード：<span style="color:red;">**BGJPrg281**</a>
+
+GamePi20をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
 有効期限は2021/01/31なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うので早めに！）
+
+[GamePi20の購入はこちら](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)
 
 （ここから買ってもらえると、自分もまたBanggoodの面白い製品をレビューできるので！このブログを応援していただける方もぜひ！買って応援してください！）
