@@ -10,7 +10,7 @@ tags:
 ---
 この記事はBanggoodの提供でお届けします。
 
-[以前紹介したように](../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/)このブログはBanggoodと提携させていただいており、今回紹介する[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)はBanggoodからいただいたものとなります。
+[以前紹介したように](../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/)このブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。
 
 （[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、Banggoodが無理やりGamePi20を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
@@ -102,7 +102,7 @@ Raspberry Pi Zeroとはロープロファイルのピンソケットで接続さ
 さて、ここまで紹介してきたGamePi20ですが、Banggoodでは**$76.44**で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。
 まぁ、Banggoodは配送も比較的早いし、Paypalで支払えるなど、良いところもたくさんあるので、多少高いのは仕方がないかな・・？と思いつつ、恐る恐る「ちょっと人に勧めるには高すぎません？・・」と聞いてみたところ、このブログのために**$54.99**へ値下げできるクーポンコードを頂きました！！！
 
-コード：<span style="color:red;">**BGJPrg281**</a>
+コード: <span style="color:red;">**BGJPrg281**</a>
 
 GamePi20をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
