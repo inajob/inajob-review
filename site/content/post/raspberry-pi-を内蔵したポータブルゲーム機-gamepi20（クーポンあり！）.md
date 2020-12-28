@@ -68,8 +68,8 @@ Raspberry Pi Zeroとはロープロファイルのピンソケットで接続さ
 
 # Recalbox
 
-Recalboxはゲームエミュレータ専用のLunuxベースのOSで、よく似たものとしてはRetropieが挙げられます。
-実際のところGamePi20は、RecalboxもRetropieもどちらも動かすことが出来るようです。(自分はRecalboxしか試していないですが・・）
+\[Recalbox](https://www.recalbox.com/)はゲームエミュレータ専用のLunuxベースのOSで、よく似たものとしては\[RetroPie](https://retropie.org.uk/)が挙げられます。
+実際のところGamePi20は、RecalboxもRetroPieもどちらも動かすことが出来るようです。(自分はRecalboxしか試していないですが・・）
 
 このRecalbox。非常によくできていて、様々なレトロゲーム機のエミュレータが搭載されていることはもちろん、Sambaでのファイル共有や、Web経由での設定変更などもできます。
 
