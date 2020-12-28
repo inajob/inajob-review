@@ -10,7 +10,7 @@ tags:
 ---
 この記事はBanggoodの提供でお届けします。
 
-[以前紹介したように](../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/)このブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。
+[以前紹介したように](../../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/)このブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。
 
 （[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、Banggoodが無理やりGamePi20を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
@@ -22,7 +22,7 @@ tags:
 
 開発元はWaveShareというRaspberryPiやArduino向けの液晶ディスプレイモジュールなどを作っている会社です。
 
-![](/img/cover.jpg)
+![](../../img/cover.jpg)
 
 * 2インチの320x240 ディスプレイ
 * 14500リチウムバッテリー（800mAh）
@@ -40,7 +40,7 @@ tags:
 筐体はアクリル製のフロントパネルと、金属製のボディにより構成されています。
 フロントパネルにそれっぽい印刷がされていますが、このセンスは日本人にはちょっと合わないかもしれません・・、一方金属製のボディはしっかりとした作りで、個人で作る事は難しそうな、製品ならではの安定感のあるものとなっています。
 
-![](/img/case.jpg)
+![](../../img/case.jpg)
 
 十字キーと4ボタンは、普通のゲームコントローラのようにラバードーム式のスイッチになっており、使用感はとても良いです。一方スタート・セレクトボタンとL/Rボタンはいわゆる普通の中国製の硬めのタクトスイッチなので、違和感を覚える人も多そうです。
 
@@ -51,13 +51,13 @@ tags:
 
 Raspberry Pi Zeroとはロープロファイルのピンソケットで接続されており、充電用IC、オーディオアンプ、バッテリー、イヤホンジャック、電源スイッチ、と必要十分な部品が無理なく配置されています。
 
-![](/img/inside-1.jpg)
+![](../../img/inside-1.jpg)
 
 バッテリーは14500サイズで、800mAhのものが搭載されてています。
 
 バッテリーは基板に直接はんだ付けしてあり、スペース節約のために、基板が凹状にカットされています。
 
-![](/img/inside-2.jpg)
+![](../../img/inside-2.jpg)
 
 # ソフトウェア
 
@@ -93,13 +93,13 @@ Raspberry Pi Zeroとはロープロファイルのピンソケットで接続さ
 
 などなど、ゲームエミュレータ機としてより、むしろそれ以外の使い方のほうが面白そうに感じます。
 
-![](/img/gamepi-tic80.jpg)
+![](../../img/gamepi-tic80.jpg)
 
-ゲームエミュレータとしても遊べるし、飽きたら持ち運べる汎用Linuxマシンとしても利用できる、この「[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)」。玄人向きだとは思いますが、個人的には「買い」のアイテムだと思いました。
+ゲームエミュレータとしても遊べるし、飽きたら持ち運べる汎用Linuxマシンとしても利用できる、この「GamePi20」。玄人向きだとは思いますが、個人的には「買い」のアイテムだと思いました。
 
 # クーポンコード！
 
-さて、ここまで紹介してきた[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)ですが、Banggoodでは**$76.44**で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。
+さて、ここまで紹介してきたGamePi20ですが、Banggoodでは**$76.44**で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。
 まぁ、Banggoodは配送も比較的早いし、Paypalで支払えるなど、良いところもたくさんあるので、多少高いのは仕方がないかな・・？と思いつつ、恐る恐る「ちょっと人に勧めるには高すぎません？・・」と聞いてみたところ、このブログのために**$54.99**へ値下げできるクーポンコードを頂きました！！！
 
 コード: <span style="color:red;">**BGJPrg281**</a>
