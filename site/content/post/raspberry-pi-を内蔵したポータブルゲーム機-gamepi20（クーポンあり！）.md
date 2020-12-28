@@ -104,10 +104,10 @@ Raspberry Pi Zeroとはロープロファイルのピンソケットで接続さ
 
 コード: <span style="color:red;">**BGJPrg281**</a>
 
-GamePi20をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
+[GamePi20](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
 有効期限は2021/01/31なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うので早めに！）
 
 [GamePi20の購入はこちら](https://jp.banggood.com/Waveshare-GamePi20-16GB-2_0-inch-IPS-Display-Handheld-Video-Game-Console-Based-on-Raspberry-Pi-Zero-Zero-W-Zero-WH-p-1662179.html?p=0M092355466124202012)
 
-（ここから買ってもらえると、自分もまたBanggoodの面白い製品をレビューできるので！このブログを応援していただける方もぜひ！買って応援してください！）
+（ここから買ってもらえると、自分もまた[Banggood](https://jp.banggood.com/?p=0M092355466124202012)の面白い製品をレビューできるので！このブログを応援していただける方もぜひ！買って応援してください！）
