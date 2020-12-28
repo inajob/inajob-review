@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi を内蔵したポータブルゲーム機 GamePi20（クーポンあり！）
-date: 2020-12-28T05:39:22.384Z
+date: 2020-12-28T10:00:22.384Z
 description: RaspberryPiZeroを内蔵したポータブルゲーム機である GamePi20の紹介と、お得に購入できるクーポンの紹介です。
 image: /img/gamepi20-cover.jpg
 tags:
