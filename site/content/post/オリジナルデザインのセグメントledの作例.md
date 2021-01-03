@@ -1,0 +1,16 @@
+---
+title: オリジナルデザインのセグメントLEDの作例
+date: 2021-01-03T06:52:59.814Z
+description: オリジナルデザインのセグメントLEDの作例を紹介します
+image: /img/original-segment-led.jpg
+tags:
+  - LED
+  - レーザーカッター
+---
+[25-Hour Digital Myst Clock/Chronometer](https://hackaday.io/project/169627-25-hour-digital-myst-clockchronometer)から発見。画像もここから転載。
+
+ゲーム「Myst」の世界の時計表示を実現するためのオリジナルのセグメントLEDの作例です。
+
+PCB基板にチップLEDを配置し、その上にアクリル板を重ねることでセグメントLEDを構成しています。
+
+光をいい感じに拡散せるために、石膏の粉をレジンに溶かしたものを利用しているようです。
