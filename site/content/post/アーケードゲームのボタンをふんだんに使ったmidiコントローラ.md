@@ -10,6 +10,7 @@ tags:
 [HARMONICADE PROJECT CODE, CAD FILES, AND BUILD GUIDE](https://www.koopinstruments.com/instrument-projects/harmonicade)から発見。画像もここから転載。
 
 たくさんのアーケードゲームのボタンが並んだMIDIコントローラです。ボタンの配置はWicki-Haydenレイアウトになっており、慣れれば演奏しやすそうです。
+制御にはTeensy 3.6を利用しています。
 
 アーケードゲームのボタンは軽いタッチで押し込みやすく、耐久性も高そうなので、このようにゲーム以外の用途でも活用できそうです。
 
