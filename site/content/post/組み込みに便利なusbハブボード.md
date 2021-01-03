@@ -2,6 +2,7 @@
 title: 組み込みに便利なUSBハブボード
 date: 2021-01-03T02:33:25.501Z
 description: RaspberryPi Zeroなどと組み合わせて利用すると便利そうなUSBハブボードを紹介します。
+image: /img/usb-hub-board.jpg
 ---
 [Easy DIY Tiny USB Hub For Raspberry Pi Projects](https://www.retrocution.com/2020/01/15/easy-diy-tiny-usb-hub-for-raspberry-pi-projects/)から発見。画像もここから転載。
 
