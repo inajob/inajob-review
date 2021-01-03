@@ -2,6 +2,7 @@
 title: ガラス板に銅箔テープで回路を作ったフルカラーLEDキューブ
 date: 2021-01-03T04:37:49.240Z
 description: ガラス板に銅箔テープで回路を構成したフルカラーLEDキューブの作例を紹介します。
+image: /img/glass-led-cube.jpg
 tags:
   - LED
 ---
