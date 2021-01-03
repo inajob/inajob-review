@@ -14,3 +14,5 @@ tags:
 PCB基板にチップLEDを配置し、その上にアクリル板を重ねることでセグメントLEDを構成しています。
 
 光をいい感じに拡散せるために、石膏の粉をレジンに溶かしたものを利用しているようです。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xDaKi6vqnOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
