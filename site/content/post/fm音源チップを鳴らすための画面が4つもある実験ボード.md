@@ -1,6 +1,6 @@
 ---
 title: FM音源チップを鳴らすための画面が4つもある実験ボード
-date: 2019-11-11T09:15:24.580Z
+date: 2021-01-04T11:00:24.580Z
 description: FM音源チップを鳴らすための画面が4つもある実験ボードを紹介します。
 image: /img/dafm-synth.jpg
 tags:
