@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタのノズルを印刷時に掃除する実験
-date: 2020-01-04T01:06:10.168Z
+date: 2021-01-10T11:00:10.168Z
 description: 3Dプリンタのノズルを印刷時に掃除する実験を紹介します。
 image: /img/wipe-3d-printer.png
 tags:
