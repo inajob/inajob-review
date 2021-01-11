@@ -1,6 +1,6 @@
 ---
 title: 3DプリンタのXY軸移動の最新版Core XYの紹介
-date: 2020-01-03T09:45:28.808Z
+date: 2021-01-10T23:00:28.808Z
 description: 3DプリンタのXY軸を制御する最近の方法の一つであるCore XYについて紹介します。
 image: /img/corexy.png
 tags:
