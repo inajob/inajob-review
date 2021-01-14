@@ -2,6 +2,7 @@
 title: Arduinoでつくる回転数測定器と3Dプリンタ製のケース
 date: 2021-01-14T12:31:40.812Z
 description: 3Dプリンタで作ったケースに収まったArduinoで作られた回転数測定器の作例を紹介します。
+image: /img/tachometer.jpg
 tags:
   - 3Dプリンタ
   - Arduino
