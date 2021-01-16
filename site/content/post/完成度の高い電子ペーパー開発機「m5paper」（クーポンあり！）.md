@@ -154,7 +154,7 @@ void loop()
 しかし！！ さすがBanggood！ このブログのために**$65.99**へ値下げできるクーポンコードを用意してくれました。
 
 コード：
-<span style="color:red">**TODO**</span>
+<span style="color:red">**BGJP2m14**</span>
 
 [M5Paper](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
