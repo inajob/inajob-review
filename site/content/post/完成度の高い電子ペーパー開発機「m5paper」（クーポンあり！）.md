@@ -2,7 +2,7 @@
 title: 完成度の高い電子ペーパー開発機「M5Paper」（クーポンあり！）
 date: 2021-01-15T12:40:52.983Z
 description: 完成度の高い電子ペーパー開発機「M5Paper」についての製品レビューです。
-image: /img/m5paper-demo.jpg
+image: /img/m5paper-cover.png
 tags:
   - 開発ボード
   - banggood
