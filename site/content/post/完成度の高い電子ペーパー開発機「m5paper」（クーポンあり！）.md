@@ -9,14 +9,14 @@ tags:
 ---
 この記事はBanggoodの提供でお届けします。
 
-[以前紹介したように](../../post/中国ecサイトbanggood/)このブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[M5Paper](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。
-（[M5Paper](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりM5Paperを押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+[以前紹介したように](../../post/中国ecサイトbanggood/)このブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[M5Paper](https://www.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。
+[M5Paper](https://www.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりM5Paperを押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
-・・・ といういつもの前置きはそこそこに、[M5Paper](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)について紹介していきます。
+・・・ といういつもの前置きはそこそこに、[M5Paper](https://www.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)について紹介していきます。
 
 そして、今回もこのブログのために2021/02/28まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
 
-# [M5Paper](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)の特徴・仕様
+# （[M5Paper](https://www.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)の特徴・仕様
 
 M5Paperは電子ペーパーを搭載したスマートフォン風ガジェットです。（もうみなさんご存知とは思いますが、AndroidやiOSが動くようなものではありません）
 
@@ -74,23 +74,23 @@ M5Stack社と言えば、代名詞的なプロダクトとしてM5Stack（会社
 
 開発キットにはあるまじき（大体は基板むき出しなので・・）、スタイリッシュな外観です。
 
-![](/img/m5paper-package.jpg)
+![](../../img/m5paper-package.jpg)
 
 普通に携帯ショップに並んでいても違和感がないように思います。
 厚さも普通のスマートフォン程度です。
 
-![](/img/m5paper-package2.jpg)
+![](../../img/m5paper-package2.jpg)
 
 裏面にはワクワクする周辺モジュールの接続図が貼られています。
 
-![](/img/m5paper-back.jpg)
+![](../../img/m5paper-back.jpg)
 
 
 安心の技適マークも印刷されています。
 
 デモプログラムが、これまたよくできていて、この見た目です。
 
-![](/img/m5paper-demo.jpg)
+![](../../img/m5paper-demo.jpg)
 
 普通にAndroidとかを彷彿とさせる画面ですが、これがデモです。
 
@@ -129,7 +129,7 @@ void loop()
 
 これをArduinoIDEからM5Paperに転送すると・・
 
-![](/img/m5stack-own-program.jpg)
+![](../../img/m5stack-own-program.jpg)
 
 動きました！！
 
@@ -156,11 +156,11 @@ void loop()
 コード：
 <span style="color:red">**BGJP2m14**</span>
 
-[M5Paper](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
+[M5Paper](https://www.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
 有効期限は**2021/02/28**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 [M5Paperの購入はこちら
-](https://jp.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)
+](https://www.banggood.com/M5Stack-M5Paper-ESP32-Development-Kit-960X540-4_7-Inch-eInk-Display-235-PPI-IoT-Terminal-E-Book-Industrial-Control-Panel-p-1779386.html?p=0M092355466124202012)
 
 （ここから買ってもらえると、自分もまた[Banggood](https://jp.banggood.com/?p=0M092355466124202012)の面白い製品をレビューできるので！このブログを応援していただける方もぜひ！買って応援してください！）
