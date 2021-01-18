@@ -1,6 +1,6 @@
 ---
 title: ESP32/M5Stack用のメガドライブ音源エミュレータ
-date: 2020-01-26T09:51:58.198Z
+date: 2021-01-18T11:00:58.198Z
 description: ESP32/M5Stack用のメガドライブ音源エミュレータの作例を紹介します。
 image: /img/m5stack-synth.jpg
 tags:
