@@ -2,6 +2,7 @@
 title: 回転ドラムに磁石で鉄球をくっつけるMIDIシーケンサ
 date: 2021-01-19T12:30:40.593Z
 description: 回転ドラムに磁石で鉄球をくっつけてオルゴールのような仕組みでMIDI信号を出力する楽器の作例を紹介します。
+image: /img/mesotune.jpg
 tags:
   - 楽器
   - 音楽
