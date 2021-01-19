@@ -1,11 +1,12 @@
 ---
 title: CircuitPythonが動く小型の開発ボード
-date: 2020-03-15T06:06:07.027Z
+date: 2021-01-19T11:00:07.027Z
 description: CircuitPythonが動作する小型の開発ボードを紹介します。
 image: /img/cb-deluxe.png
 tags:
   - ATSAMD51
   - CircuitPython
+  - 開発ボード
 ---
 [CircuitBrains Deluxe](https://kevinneubauer.com/portfolio/circuitbrains-deluxe/)から発見。画像もここから転載。
 
