@@ -1,6 +1,6 @@
 ---
 title: Linuxが起動する名刺
-date: 2020-03-15T06:09:59.927Z
+date: 2021-01-20T11:00:59.927Z
 description: Linuxが起動する名刺の作例を紹介します。
 image: /img/businesscard.jpg
 tags:
