@@ -17,4 +17,4 @@ tags:
 
 NUCやRaspberryPiなど小型のLinuxボードが簡単に入手できるようになったため、この手のガジェットがぐっと作りやすくなっています。皆さんもおひとつ作ってみてはどうでしょうか？
 
-![](/img/wearable-cyberdeck.jpg)
+![](../../img/wearable-cyberdeck.jpg)
