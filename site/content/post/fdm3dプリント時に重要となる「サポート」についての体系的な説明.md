@@ -2,6 +2,7 @@
 title: FDM3Dプリント時に重要となる「サポート」についての体系的な説明
 date: 2021-01-21T22:49:16.066Z
 description: 積層式の3Dプリンタで印刷する際に重要となる「サポート」についての体系的な説明記事を紹介します。
+image: /img/3dprinter-support.jpg
 tags:
   - 3Dプリンタ
   - Tips
