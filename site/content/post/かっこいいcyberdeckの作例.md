@@ -1,6 +1,6 @@
 ---
 title: かっこいいCyberdeckの作例
-date: 2020-03-15T06:13:10.200Z
+date: 2021-01-21T11:00:10.200Z
 description: かっこいいCyberdackの作例を紹介します。
 image: /img/cyberdack-mk2.jpg
 tags:
@@ -16,3 +16,5 @@ tags:
 筐体は3Dプリンタで作られており、はめ込み式の筐体によりキーボードを分割して配置することもできるようになっています。
 
 NUCやRaspberryPiなど小型のLinuxボードが簡単に入手できるようになったため、この手のガジェットがぐっと作りやすくなっています。皆さんもおひとつ作ってみてはどうでしょうか？
+
+![](/img/wearable-cyberdeck.jpg)
