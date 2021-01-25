@@ -1,6 +1,6 @@
 ---
 title: 新しいWiFiチップCKW04
-date: 2020-03-15T06:23:10.380Z
+date: 2021-01-25T11:00:10.380Z
 description: 新しいWiFiチップCKW04について紹介します。
 image: /img/smartadapter_feat.jpg
 tags:
