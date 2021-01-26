@@ -1,6 +1,6 @@
 ---
 title: アクリル板をうまく使ったWordClock
-date: 2020-03-15T06:25:08.108Z
+date: 2021-01-26T10:00:08.108Z
 description: アクリル板をうまくつかったWordClockの作例を紹介します。
 image: /img/acrylic-wordclock.jpg
 tags:
