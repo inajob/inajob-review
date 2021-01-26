@@ -2,6 +2,7 @@
 title: 軍用コンピュータのガワを利用したRaspberryPiコンソール
 date: 2021-01-26T10:43:46.991Z
 description: 軍用コンピュータであるGRiDの外装を利用して作られたRaspberryPiコンソールの作例を紹介します。
+image: /img/grid-raspberrypi.png
 tags:
   - RaspberryPi
 ---
