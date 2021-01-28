@@ -1,6 +1,6 @@
 ---
 title: ドットマトリクスLEDを活用した時計
-date: 2020-03-15T06:40:47.028Z
+date: 2021-01-28T11:00:47.028Z
 description: 8×8のドットマトリクスLEDを活用したデジタル時計の作例を紹介します。
 image: /img/dotmatrix-clock.jpg
 tags:
