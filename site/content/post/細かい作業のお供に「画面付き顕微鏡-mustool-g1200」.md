@@ -138,6 +138,8 @@ LEDがレンズと一体化しているため、場合によっては他にも�
 
 個人的にはこれが一押しですが、次点だとG600がよさそうですね。 液晶画面が小さいのと、最大倍率が小さいのがデメリットですが、置き場所が狭い場合や、価格を少しでも抑えたいという場合によさそうです。
 
+
+
 「G610 メタルアーム」にはWiFiの機能がついていますが、おそらく技適がついていないので、日本で使うのは難しそうです。購入時は注意してください。
 もう一つ気になるなるのが「G710」です。これはHDMIの機能があるようで、画面を外部ディスプレイに出力できるようです。理科の授業などに良いかもしれません。（HDMIは相性問題とかで動かないような予感もしますが・・ どうなんでしょう？）
 
@@ -149,7 +151,7 @@ LEDがレンズと一体化しているため、場合によっては他にも�
 | ----- | ---------- | ---------- | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | G600  | フレキシブルアーム  | BGJPmst281 | $36.99 | $31.99 | [製品ページ](https://banggood.com/MUSTOOL-G600-600X-Electronic-USB-Microscope-Digital-Soldering-Video-Microscope-Camera-4_3-Inch-LCD-M-p-1337353.html?p=0M092355466124202012)                                                                                     |
 | G600  | メタルアーム     | BG661533JP | $45.99 | $39.99 | [製品ページ](https://www.banggood.com/G600-Digital-1-600X-3_6MP-4_3inch-HD-LCD-Display-Microscope-Continuous-Magnifier-Upgrade-Version-p-1152799.html?p=0M092355466124202012)                                                                                     |
-| G600  | 関節アーム      | BGJPmst282 | $32.99 | $29.99 | [製品ページ](https://banggood.com/Mustool-G600-Digital-Portable-1-600X-3_6MP-Microscope-Continuous-Magnifier-p-1119592.html?p=0M092355466124202012)                                                                                                               |
+| G600  | 関節アーム      | BGJPmst282 | $36.99 | $29.99 | [製品ページ](https://banggood.com/Mustool-G600-Digital-Portable-1-600X-3_6MP-Microscope-Continuous-Magnifier-p-1119592.html?p=0M092355466124202012)                                                                                                               |
 | G610  | メタルアーム     | BGJPmst284 | $49.99 | $43.99 | [製品ページ](https://banggood.com/MUSTOOL-G610-WIFI-2MP-4_3inch-LCD-Microscope-Support-IOS-Android-System-Built-in-Rechargeable-Battery-and-8-Adjustable-Leds-with-Metal-Stand-p-1514713.html?p=0M092355466124202012)                                             |
 | G610  | 関節アーム      | BGJPmst283 | $43.99 | $38.99 | [製品ページ](https://banggood.com/MUSTOOL-G610-2MP-4_3-Inch-LCD-Wifi-Microscope-Support-IOS-Android-System-Built-in-Rechargeable-Battery-and-8-Adjustable-Leds-p-1435698.html?p=0M092355466124202012)                                                             |
 | G700  |            | BGJPmst285 | $53.69 | $48.99 | [製品ページ](https://banggood.com/MUSTOOL-G700-4_3-Inches-HD-1080P-Portable-Desktop-LCD-Digital-Microscope-Support-10-Languages-8-Adjustable-High-Brightness-LED-With-Adjustable-Bracket-Picture-Capture-Video-Recording-p-1360536.html?p=0M092355466124202012)   |
