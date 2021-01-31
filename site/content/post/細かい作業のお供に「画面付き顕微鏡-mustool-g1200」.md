@@ -2,21 +2,22 @@
 title: 細かい作業のお供に「画面付き顕微鏡 MUSTOOL G1200」
 date: 2021-01-28T11:44:38.667Z
 description: 電子工作のお供によさそうな 画面付き顕微鏡の製品レビューです。
+image: /img/mustool-g1200-cover.png
 tags:
   - Banggood
   - 工具
 ---
 この記事はBanggoodの提供でお届けします。
 
-以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するMUSTOOL G1200はBanggoodからいただいたものとなります。 （MUSTOOL G1200のレビューがしたい！と言ったのは自分なので、Banggoodが無理やり画面付き顕微鏡を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+[以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[MUSTOOL G1200](https://www.banggood.com/MUSTOOL-G1200-Digital-Microscope-12MP-7-Inch-Large-Color-Screen-Large-Base-LCD-Display-1-1200X-Continuous-p-1553823.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。 （[MUSTOOL G1200](https://www.banggood.com/MUSTOOL-G1200-Digital-Microscope-12MP-7-Inch-Large-Color-Screen-Large-Base-LCD-Display-1-1200X-Continuous-p-1553823.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やり画面付き顕微鏡を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
-・・・ といういつもの前置きはそこそこに、MUSTOOL G1200について紹介していきます。
+・・・ といういつもの前置きはそこそこに、[MUSTOOL G1200](https://www.banggood.com/MUSTOOL-G1200-Digital-Microscope-12MP-7-Inch-Large-Color-Screen-Large-Base-LCD-Display-1-1200X-Continuous-p-1553823.html?p=0M092355466124202012)について紹介していきます。
 
 そして、今回もこのブログのために2021/02/28まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
 
 # 画面付き顕微鏡とは
 
-MUSTOOL G1200 は画面付き顕微鏡です。
+[MUSTOOL G1200](https://www.banggood.com/MUSTOOL-G1200-Digital-Microscope-12MP-7-Inch-Large-Color-Screen-Large-Base-LCD-Display-1-1200X-Continuous-p-1553823.html?p=0M092355466124202012) は画面付き顕微鏡です。
 
 1mm以下の細かい作業をなどをする際に、手元を拡大してみることが出来るという便利なガジェットです。
 
@@ -26,7 +27,7 @@ MUSTOOL G1200 は画面付き顕微鏡です。
 
 この手の画面付き顕微鏡は、中国市場に無数に存在しますが、それらすべてを比較検討するのは現実的ではないと感じたので、今回はMUSTOOL社の画面付き顕微鏡に的を絞って紹介します。
 
-# MUSTOOL G1200の特徴・仕様
+# [MUSTOOL G1200](https://www.banggood.com/MUSTOOL-G1200-Digital-Microscope-12MP-7-Inch-Large-Color-Screen-Large-Base-LCD-Display-1-1200X-Continuous-p-1553823.html?p=0M092355466124202012)の特徴・仕様
 
 MUSTOOL社はたくさんの種類の 画面付き顕微鏡を販売していますが、このG1200は比較的ハイスペックなものとなっています。
 
