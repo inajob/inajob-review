@@ -2,6 +2,7 @@
 title: 段ボールを思いのままにカットすることが出来るCNCマシン
 date: 2021-02-04T11:17:14.115Z
 description: 段ボールをコンピュータ制御でカットできる自作のCNCマシンの作例を紹介します。
+image: /img/tock_side_by_side.png
 tags:
   - CNC
 ---
