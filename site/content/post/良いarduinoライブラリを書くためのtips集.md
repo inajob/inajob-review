@@ -2,6 +2,7 @@
 title: 良いArduinoライブラリを書くためのTips集
 date: 2021-02-04T12:33:36.911Z
 description: 数多くのArduinoライブラリを作っているSparkfunによる良いArduinoライブラリ作成のためのTips集です。
+image: /img/how-to-write-a-great-arduino-library.png
 tags:
   - Arduino
 ---
