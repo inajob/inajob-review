@@ -1,10 +1,11 @@
 ---
 title: 豆腐をプレスするIoTガジェット
-date: 2020-04-14T01:38:23.408Z
+date: 2021-02-06T23:00:23.408Z
 description: 豆腐をプレスするためのIoTガジェットを紹介します
 image: /img/tofupresto.jpg
 tags:
   - 料理
+  - 3Dプリンタ
 ---
 [TofuPresto](https://devpost.com/software/tofupresto)から発見。画像もここから転載。
 
