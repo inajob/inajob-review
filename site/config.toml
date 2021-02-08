@@ -23,3 +23,4 @@ weight = 50
 [[related.indices]]
 name  = "tags"
 weight = 100
+
