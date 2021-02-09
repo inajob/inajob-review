@@ -1,6 +1,6 @@
 ---
-title: 暗号化チップを搭載したArduinoクローン
-date: 2020-04-14T01:46:00.344Z
+title: 暗号化チップを搭載したArduino互換ボード
+date: 2021-02-09T11:00:00.344Z
 description: ATmega4809と暗号化チップであるECC608を搭載した開発ボードを紹介します
 image: /img/seeed-crypto-atmega4809-ecc608.jpg
 tags:
