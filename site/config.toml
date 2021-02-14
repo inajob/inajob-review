@@ -10,6 +10,9 @@ UseTwitterCard = true
 Twitter = "ina_ani"
 Image = "/img/cover.png"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [related]
 
 threshold = 80
