@@ -3,12 +3,16 @@
 <h3>関連記事</h3>
 <div>
   {{ range . }}
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="{{ .RelPermalink }}">
-      <img class="rect" src="{{ .Site.BaseURL }}{{ .Params.Image }}" />
-      {{ .Title }}
-    </a>
-  </div>
+  <a href="{{ .RelPermalink }}">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="{{ .Site.BaseURL }}{{ .Params.Image }}" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        {{ .Title }}
+      </div>
+    </div>
+  </a>
   {{ end }}
 </div>
 {{ end }}
