@@ -1,6 +1,6 @@
 ---
 title: お古の3DプリンタをCNCマシンに改造する
-date: 2020-04-15T11:54:59.500Z
+date: 2021-02-14T11:00:59.500Z
 description: 3DプリンタをCNCマシンに改造する例を紹介します。
 image: /img/3d-printer-to-cnc.jpg
 tags:
