@@ -1,6 +1,6 @@
 ---
 title: Arduinoで動く腕時計
-date: 2020-04-15T12:30:20.196Z
+date: 2021-02-17T12:00:20.196Z
 description: Arduinoで動くかっこいい腕時計の作例を紹介します。
 image: /img/arduino-watch.jpg
 tags:
