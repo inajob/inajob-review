@@ -1,6 +1,6 @@
 ---
 title: 新しいATTinyを使ったシンプルな腕時計
-date: 2020-04-16T01:30:16.450Z
+date: 2021-02-22T12:00:16.450Z
 description: 新しいATTinyであるATtiny414を使った腕時計の作例を紹介します。
 image: /img/megatimewatch.jpg
 tags:
