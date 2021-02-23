@@ -6,6 +6,7 @@ image: /img/arduino-watch.jpg
 tags:
   - Arduino
   - 時計
+  - 腕時計
 ---
 [ARDUINO WRISTWATCH HAS LED HANDS](https://hackaday.com/2020/01/05/arduino-wristwatch-has-led-hands/)から発見。画像もここから転載。
 

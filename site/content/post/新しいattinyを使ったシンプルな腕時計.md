@@ -5,6 +5,7 @@ description: 新しいATTinyであるATtiny414を使った腕時計の作例を�
 image: /img/megatimewatch.jpg
 tags:
   - 時計
+  - 腕時計
   - ATtiny414
 ---
 [Mega Tiny Time Watch](http://www.technoblogy.com/show?2OKF)から発見。画像もここから転載。
