@@ -1,6 +1,6 @@
 ---
 title: 小型のパワフルなCortex-M0ボードSeeduino XIAO
-date: 2020-04-16T02:02:02.777Z
+date: 2021-03-01T11:00:02.777Z
 description: 小型のパワフルなCortex-M0ボードSeeduino XIAOを紹介します。
 image: /img/seeeduino-xiao.jpg
 tags:
