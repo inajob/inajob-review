@@ -1,6 +1,6 @@
 ---
 title: 8bit音が楽しいハードウェアシンセサイザー
-date: 2020-04-16T02:06:12.962Z
+date: 2021-03-02T11:00:12.962Z
 description: 鍵盤付きの8bit音のシンセサイザーを紹介します。
 image: /img/liven-8bit-wraps.jpg
 tags:
@@ -16,5 +16,6 @@ ELZ_1というシンセサイザーを作っているチームの新作です。
 
 ELZ_1よりは低価格路線での販売を考えているようですが、8bitのかっこいいサウンドを使ってライブ作曲が実用的にできるマシンのように見えます。
 
+[こちら](https://ja.sonicware.jp/products/liven-8bit-warps)から購入できるようです。
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ohU9rHj0IFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
