@@ -1,6 +1,6 @@
 ---
 title: Arduinoの最高峰ボード「PORTENTA H7」
-date: 2021-03-10T09:00:18.002Z
+date: 2021-03-09T21:00:18.002Z
 description: Arduinoのなかでも最高峰の性能を持つ「PORTENTA H7」を紹介します。
 image: /img/portenta.jpg
 tags:
