@@ -19,7 +19,7 @@ tags:
 MeowbitはMicrosoft Makecode Acradeに対応した携帯ゲーム機の1つです。
 かわいらしいネコ型の筐体なのも特徴です。
 
-TODO
+![](/img/meowbit-overview.jpg)
 
 # Makecode Arcadeとは
 
@@ -29,7 +29,7 @@ Blockyを使ったビジュアルプログラミングで、子供でも簡単�
 
 その中でもMakecode Arcade というのは独立したサービスとなっており、レトロ風ゲームを作る専用のプラットフォームとなっています。
 
-TODO
+![](/img/meowbit-arcade1.png)
 
 数多のプログラミング学習プラットフォームとの違いは、「実際のゲーム機をサポートしている」という事です。
 
@@ -43,37 +43,36 @@ TODO
 
 （個人的には、この自分でゲーム機をDIYできるというのは、個人的にはかなり一押しポイントです。）
 
-#外観
+# 外観
 
-TODO
+![](/img/meowbit-overview2.jpg)
 
 写真からはちょっとわかりにくいですが、一般的なゲーム機とは違いこのMeowbitのケースは柔らかいシリコンケースです。
 
 下の白い部分はセパレート式になっており、ここだけ外すことが出来ます。Microbitに対応した周辺機器につなげる際はここを外すのがよさそうです。
 
-TODO
+![](/img/meowbit-overview3.jpg)
 
 操作用のボタンは、上下左右のボタンに加え、A,B。それ以外に側面のシリコンケースの中に2つのスイッチがあります。これはゲームで遊ぶためのものではなく、USB書き込みモードにするためのボタンと、共通メニューを出すためのボタンです。
 
 上下左右のボタンが異常に離れているのが、コンシューマーゲーム機に慣れた自分としては違和感がありますが、こういうのに初めて触る子どもとかは、このくらいボタンにマージンがあるほうが操作しやすいのかな？
 
-
 # スペック
 
 さてMeowbitのスペックを見ていきましょう。
 
-- CPU: STM32F401RET6
-- バッテリー（オプション）
-- 1.8インチディスプレイ、解像度は160x128
-- Mico:bit互換の端子
-- ブザー
-- 十字キー、A,Bキー
-- 書き込み用のUSBポート
-- SDカードスロット
-- 輝度センサー
-- 気温センサー
-- ジャイロスコープ
-- 2MByteのSPIフラッシュ（Unicodeのキャラクタテーブルを入れておくもののようです。）
+* CPU: STM32F401RET6
+* バッテリー（オプション）
+* 1.8インチディスプレイ、解像度は160x128
+* Mico:bit互換の端子
+* ブザー
+* 十字キー、A,Bキー
+* 書き込み用のUSBポート
+* SDカードスロット
+* 輝度センサー
+* 気温センサー
+* ジャイロスコープ
+* 2MByteのSPIフラッシュ（Unicodeのキャラクタテーブルを入れておくもののようです。）
 
 ざっとこんな感じです。
 
@@ -83,12 +82,12 @@ STM32F401RET6は、84MHzのCortexM4、Flashは512KBでRAMは96KBといった性�
 
 MeowbitだけではUSB接続を抜いてしまうと電源が切れてしまいますが、公式が提供しているバッテリーがあればUSB接続なしでもゲームで遊び続けることが出来ます。
 
-TODO
+![](/img/meowbit-battery.jpg)
 
 今回はこのバッテリーも購入し、Meowbitに取り付けました。
 取り付けるとこんな感じです。
 
-TODO
+![](/img/meowbit-battery2.jpg)
 
 # ゲームのダウンロード
 
@@ -105,7 +104,7 @@ https://forum.makecode.com/c/share-your-arcade-projects-here/5
 
 折角なので、自分でもゲームを作ってみましょう。
 
-TODO
+![](/img/meowbit-arcade2.png)
 
 ビジュアルプログラミングなので、ちょっと操作するだけで、簡単にこんな画面が作れます。
 
@@ -113,18 +112,16 @@ TODO
 
 実機でこのゲームが動きます。簡単です！
 
-TODO
+![](/img/meowbit-original-game.jpg)
 
 日本語表示も普通に出来ました。
 
-TODO
+![](/img/meowbit-japnese.jpg)
 
 ブロックではなくJavaScriptやPythonでもプログラムを書くことが出来ます。
 [FAQ](https://arcade.makecode.com/developer) によると、この「JavaScript」というのはTypeScriptのサブセットである「Static TyoeScript」と呼ばれる独自の言語のようです。
 
-
 [言語仕様](https://makecode.com/language)を見てみると、この言語は静的にコンパイルされてゲーム機用のバイナリになるようで、通常のJavaScriptのような動的言語の何倍も高速で省メモリな動作を実現しているようです。
-
 
 単なるゲーム実行プラットフォームという事以外にも、こういった言語仕様やランタイムの設計までこだわっているのはさすがMicrosoftだなと感じます。
 
@@ -134,11 +131,9 @@ TODO
 
 [これ](https://circuitpython.org/board/meowbit_v121/)をインストールして、PCからシリアルコンソールで接続すると、PCから入力した文字をMewbit上のPythonインタプリタで実行することが出来ます。
 
-
 Windowsであれば、TeraTermなどでシリアル接続することで、PythonのREPLに接続できます。
 
-TODO
-
+![](/img/meowbit-circuitpython.jpg)
 
 [このあたり](https://learn.adafruit.com/circuitpython-display-support-using-displayio/draw-pixels)を参考にプログラムをシリアルコンソール経由で入力すると、画面を直接操作することも出来ます。
 
