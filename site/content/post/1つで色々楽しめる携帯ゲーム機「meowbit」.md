@@ -81,7 +81,7 @@ STM32F401RET6は、84MHzのCortexM4、Flashは512KBでRAMは96KBといった性�
 
 # バッテリー
 
-MeowbitだけではUSB接続を抜いてしまうと電源が切れてしまいますが、公式が提供しているバッテリーがあればUSB接続なしでもゲームで遊び続けることが出来ます。
+MeowbitだけではUSB接続を抜いてしまうと電源が切れてしまいますが、[公式が提供しているバッテリー](https://www.banggood.com/Kittenbot-3_7V-400mAh-1S-Lipo-Battery-For-Kittenbot-RC-Robot-Car-p-1561660.html?p=0M092355466124202012)があればUSB接続なしでもゲームで遊び続けることが出来ます。
 
 ![](/img/meowbit-battery.jpg)
 
@@ -96,9 +96,8 @@ Microsoft Makecode ArcadeのWebページから面白そうなゲームを選ん�
 
 するとMeowbitにゲームが書き込まれて、しばらくするとMeowbitでゲームをプレイすることが出来ます。
 
-公式Webページに加えて、下記のフォーラムでもゲームが投稿されています。
+公式Webページに加えて、[フォーラムでもゲームが投稿されています。](https://forum.makecode.com/c/share-your-arcade-projects-here/5)
 
-https://forum.makecode.com/c/share-your-arcade-projects-here/5
 （ゲームの種類は多いのですが「習作」的なものが多く、面白いゲームを探す方法があれば知りたいです・・）
 
 # Makecode Arcadeでゲームを自作する
@@ -164,3 +163,18 @@ Makecode Arcadeに興味があるなら「即買い！」の商品だと思い�
 またMeowbitの十字キーは、一般的なコンシューマゲーム機のものとは違い、ボタンが大きく離れているため、ゲームによっては操作しづらいです。
 
 このあたりに目をつぶることが出来るなら、このスペックでこの値段はかなりお買い得だと思いました。
+
+# クーポンコード！
+
+さて、ここまで紹介してきた [Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)ですが、今回Banggoodの提供という事で、20%OFFの割引のクーポンを頂いています。
+
+コード：
+<span style="color:red">**BGJPkm2559**</span>
+
+[Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
+
+有効期限は**2021/03/31**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
+
+- [Meowbitの購入はこちら](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)
+- [Meowbit用のバッテリーもあわせてどうぞ](https://www.banggood.com/Kittenbot-3_7V-400mAh-1S-Lipo-Battery-For-Kittenbot-RC-Robot-Car-p-1561660.html?p=0M092355466124202012)
+
