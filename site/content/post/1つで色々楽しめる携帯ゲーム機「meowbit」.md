@@ -1,6 +1,6 @@
 ---
 title: 1台で色々楽しめる携帯ゲーム機「Meowbit」
-date: 2021-03-09T10:47:33.596Z
+date: 2021-03-10T11:00:33.596Z
 description: Microsoft Makecode Arcadeで簡単にゲームが作れるゲーム機「Meowbit」の製品レビューです。
 image: /img/meowbit-cover.png
 tags:
