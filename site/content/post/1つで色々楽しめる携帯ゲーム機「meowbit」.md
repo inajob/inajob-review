@@ -20,7 +20,7 @@ tags:
 MeowbitはMicrosoft Makecode Acradeに対応した携帯ゲーム機の1つです。
 かわいらしいネコ型の筐体なのも特徴です。
 
-![](/img/meowbit-overview.jpg)
+![](../../img/meowbit-overview.jpg)
 
 # Makecode Arcadeとは
 
@@ -30,7 +30,7 @@ Blockyを使ったビジュアルプログラミングで、子供でも簡単�
 
 その中でもMakecode Arcade というのは独立したサービスとなっており、レトロ風ゲームを作る専用のプラットフォームとなっています。
 
-![](/img/meowbit-arcade1.png)
+![](../../img/meowbit-arcade1.png)
 
 数多のプログラミング学習プラットフォームとの違いは、「実際のゲーム機をサポートしている」という事です。
 
@@ -46,13 +46,13 @@ Blockyを使ったビジュアルプログラミングで、子供でも簡単�
 
 # 外観
 
-![](/img/meowbit-overview2.jpg)
+![](../../img/meowbit-overview2.jpg)
 
 写真からはちょっとわかりにくいですが、一般的なゲーム機とは違いこのMeowbitのケースは柔らかいシリコンケースです。
 
 下の白い部分はセパレート式になっており、ここだけ外すことが出来ます。Microbitに対応した周辺機器につなげる際はここを外すのがよさそうです。
 
-![](/img/meowbit-overview3.jpg)
+![](../../img/meowbit-overview3.jpg)
 
 操作用のボタンは、上下左右のボタンに加え、A,B。それ以外に側面のシリコンケースの中に2つのスイッチがあります。これはゲームで遊ぶためのものではなく、USB書き込みモードにするためのボタンと、共通メニューを出すためのボタンです。
 
@@ -83,12 +83,12 @@ STM32F401RET6は、84MHzのCortexM4、Flashは512KBでRAMは96KBといった性�
 
 MeowbitだけではUSB接続を抜いてしまうと電源が切れてしまいますが、[公式が提供しているバッテリー](https://www.banggood.com/Kittenbot-3_7V-400mAh-1S-Lipo-Battery-For-Kittenbot-RC-Robot-Car-p-1561660.html?p=0M092355466124202012)があればUSB接続なしでもゲームで遊び続けることが出来ます。
 
-![](/img/meowbit-battery.jpg)
+![](../../img/meowbit-battery.jpg)
 
 今回はこのバッテリーも購入し、Meowbitに取り付けました。
 取り付けるとこんな感じです。
 
-![](/img/meowbit-battery2.jpg)
+![](../../img/meowbit-battery2.jpg)
 
 # ゲームのダウンロード
 
@@ -104,7 +104,7 @@ Microsoft Makecode ArcadeのWebページから面白そうなゲームを選ん�
 
 折角なので、自分でもゲームを作ってみましょう。
 
-![](/img/meowbit-arcade2.png)
+![](../../img/meowbit-arcade2.png)
 
 ビジュアルプログラミングなので、ちょっと操作するだけで、簡単にこんな画面が作れます。
 
@@ -112,11 +112,11 @@ Microsoft Makecode ArcadeのWebページから面白そうなゲームを選ん�
 
 実機でこのゲームが動きます。簡単です！
 
-![](/img/meowbit-original-game.jpg)
+![](../../img/meowbit-original-game.jpg)
 
 日本語表示も普通に出来ました。
 
-![](/img/meowbit-japnese.jpg)
+![](../../img/meowbit-japnese.jpg)
 
 ブロックではなくJavaScriptやPythonでもプログラムを書くことが出来ます。
 [FAQ](https://arcade.makecode.com/developer) によると、この「JavaScript」というのはTypeScriptのサブセットである「Static TyoeScript」と呼ばれる独自の言語のようです。
@@ -133,7 +133,7 @@ Microsoft Makecode ArcadeのWebページから面白そうなゲームを選ん�
 
 Windowsであれば、TeraTermなどでシリアル接続することで、PythonのREPLに接続できます。
 
-![](/img/meowbit-circuitpython.jpg)
+![](../../img/meowbit-circuitpython.jpg)
 
 [このあたり](https://learn.adafruit.com/circuitpython-display-support-using-displayio/draw-pixels)を参考にプログラムをシリアルコンソール経由で入力すると、画面を直接操作することも出来ます。
 
