@@ -5,6 +5,7 @@ description: 気象衛星のデータは個人でも比較的簡単に受信で�
 image: img/noaa.png
 tags:
   - HACK
+  - SDR
 ---
 [GET YOUR WEATHER IMAGES STRAIGHT FROM THE SATELLITE](https://hackaday.com/2020/03/14/get-your-weather-images-straight-from-the-satellite/)から発見。画像もここから転載。
 
