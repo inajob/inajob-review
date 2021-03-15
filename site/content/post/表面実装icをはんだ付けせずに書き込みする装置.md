@@ -1,6 +1,6 @@
 ---
 title: 表面実装ICをはんだ付けせずに書き込みする装置
-date: 2020-12-19T12:33:43.524Z
+date: 2021-03-15T10:00:43.524Z
 description: 3Dプリントした治具を使って、表面実装ICをはんだ付けせずに書き込みする装置を紹介します。
 image: /img/samd21-mangler.jpg
 tags:
