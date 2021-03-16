@@ -1,6 +1,6 @@
 ---
 title: 小さいATmega32U4モジュール
-date: 2020-12-21T00:48:57.342Z
+date: 2021-03-16T10:00:57.342Z
 description: 小型で組み込みやすそうなATmega32u4モジュールを紹介します。
 image: /img/atto-pinout.png
 tags:
