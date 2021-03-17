@@ -13,4 +13,4 @@ Arduinoでサーボモーターを制御して、PVCパイプで作成したフ�
 
 細いワイヤーでフルートの穴の蓋を引っ張ることで自動演奏を実現しています。昔ながらの楽器をコンピュータ制御で演奏するというのは謎の面白さがあります。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J8-qwAzsvn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/J8-qwAzsvn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
