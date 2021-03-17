@@ -1,6 +1,6 @@
 ---
 title: Arduinoを使ったフルートの自動演奏装置
-date: 2020-12-19T12:05:53.461Z
+date: 2021-03-17T11:00:53.461Z
 description: Arduinoを使ったフルートの自動演奏装置の作例を紹介します。
 image: /img/arduino-flute-playing-machine.png
 tags:
