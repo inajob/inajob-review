@@ -1,6 +1,6 @@
 ---
 title: ATTiny85で作るサンプラー
-date: 2020-12-21T01:10:56.257Z
+date: 2021-03-18T11:00:32.713Z
 description: 4つのボタンを押すとそれぞれに対応したサウンドが再生されるサンプラーの作例です。
 image: /img/foursampleplayer.jpg
 tags:
