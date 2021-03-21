@@ -1,6 +1,6 @@
 ---
 title: オープンソースのノートパソコン「Reform」
-date: 2020-12-22T12:03:34.064Z
+date: 2021-03-21T23:33:33.723Z
 description: オープンソースのノートパソコン「Reform」を紹介します。
 image: /img/reform_v2_prototype_top.jpg
 tags:
