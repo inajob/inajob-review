@@ -5,7 +5,6 @@ description: しっかりとした作りが頼もしいノートパソコンス�
 tags:
   - Bangood
 ---
-
 この記事はBanggoodの提供でお届けします。
 
 [以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[BW-ELS4](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。 [BW-ELS4](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりノートパソコンスタンドを押しているわけではなく、inajobの一押しアイテム！、という感じです。）
@@ -13,7 +12,6 @@ tags:
 ・・・ といういつもの前置きはそこそこに、[BW-ELS4](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)について紹介していきます。
 
 そして、今回もこのブログのために2021/04/30まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
-
 
 # 在宅ワークの天敵「姿勢」
 
@@ -46,10 +44,14 @@ tags:
 
 今回紹介するノートパソコンスタンドはBlitzWolfの「[BW-ELS4](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)」です。
 
+![](../../img/bw-els4-overview.jpg)
+
 金属製の板2枚がアームで固定された構造となっており、非常に安定感があるのが特徴です。
 
 アームの硬さは十分で、カタログスペック上「8kg」まで保持することが出来るようです。
 （実際MacBookProでも余裕で乗せられました）
+
+![](../../img/bw-els4-under-storage.jpg)
 
 逆に関節部分が非常に硬いため、角度の調節のために、結構力が必要です。
 
@@ -78,5 +80,4 @@ tags:
 
 有効期限は**2021/04/30**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
-- [BW-ELS4の購入はこちら](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)
-
+* [BW-ELS4の購入はこちら](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)
