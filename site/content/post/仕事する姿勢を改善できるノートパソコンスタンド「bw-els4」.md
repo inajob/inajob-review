@@ -86,3 +86,8 @@ tags:
 有効期限は**2021/04/30**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 * [BW-ELS4の購入はこちら](https://www.banggood.com/BlitzWolfBW-ELS4-Laptop-Stand-Bracket-Foldable-Aluminum-Alloy-Laptop-Stand-Heat-Dissipation-Adjustable-Angle-Hold-up-to-8kg-Broad-Compatibility-p-1764855.html?p=0M092355466124202012)
+
+# Bangood 「桜祭りセール」
+
+[Bangoodは今「桜祭りセール」中です。](https://www.banggood.com/marketing-jpcoupon/tid-8783.html?utmid=17856&p=0M092355466124202012)
+様々な商品を安く買うことが出来るようなので、ぜひ一度見てみてください。
