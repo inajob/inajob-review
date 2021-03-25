@@ -9,7 +9,7 @@ tags:
 ---
 ​この記事はBanggoodの提供でお届けします。
 
-[以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。 （[Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やり画面付き顕微鏡を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+[以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。 （[Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やり携帯ゲーム機を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
 ・・・ といういつもの前置きはそこそこに、[Meowbit](https://www.banggood.com/Kittenbot-Meowbit-Programmable-Python-Game-Controller-Control-Stick-Compatible-With-Microbit-p-1561659.html?p=0M092355466124202012&cur_warehouse=CN&ID=6157212)について紹介していきます。
 
