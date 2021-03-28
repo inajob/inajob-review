@@ -6,4 +6,6 @@ tags:
   - ESP32
   - 開発ボード
 ---
-[MakePython ESP32](https://www.tindie.com/products/makerfabs/makepython-esp32/)
+[MakePython ESP32](https://www.tindie.com/products/makerfabs/makepython-esp32/)から発見。画像もここから転載。
+
+128x64のOLEDを搭載した安価なESP32開発ボードです。PSRAM搭載のWROVER版もあり、普通のDevKitにOLEDを取り付けてプロトタイピングをしている方には最適です。
