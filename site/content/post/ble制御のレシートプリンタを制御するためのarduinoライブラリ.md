@@ -1,6 +1,6 @@
 ---
 title: BLE制御のレシートプリンタを制御するためのArduinoライブラリ
-date: 2020-12-23T12:45:06.173Z
+date: 2021-03-28T22:00:25.479Z
 description: BLE制御のレシートプリンタを制御するためのArduinoライブラリを紹介します。
 image: /img/thermal-printer.jpg
 tags:
