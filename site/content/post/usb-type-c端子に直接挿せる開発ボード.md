@@ -2,6 +2,7 @@
 title: USB Type-C端子に直接挿せる開発ボード
 date: 2021-03-28T01:06:21.383Z
 description: USB Type-C端子に直接挿せるATSAMD11C14の開発ボードを紹介します。
+image: img/usb-c-dixi.jpg
 tags:
   - ATSAMD11C14
   - 開発ボード
