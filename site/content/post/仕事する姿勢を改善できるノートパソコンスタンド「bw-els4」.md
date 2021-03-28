@@ -4,7 +4,7 @@ date: 2021-03-25T11:53:12.350Z
 description: しっかりとした作りが頼もしいノートパソコンスタンド「BW-ELS4」を紹介します。
 image: /img/bw-els4-cover.png
 tags:
-  - Bangood
+  - Banggood
 ---
 この記事はBanggoodの提供でお届けします。
 
