@@ -7,4 +7,9 @@ tags:
   - 開発ボード
   - ATSAMD11
 ---
-[USB-C DiXi - arduino ARM SAM D11 USB stick](https://www.tindie.com/products/bobricius/usb-c-dixi-arduino-arm-sam-d11-usb-stick/)
+[USB-C DiXi - arduino ARM SAM D11 USB stick](https://www.tindie.com/products/bobricius/usb-c-dixi-arduino-arm-sam-d11-usb-stick/)から発見。画像もここから転載。
+
+ATSAMD11を搭載したシンプルな開発ボードです。基板上にUSB Type-Cのパターンが形成されており、基板をそのままUSB Typc-Cポートに刺すことが出来る設計が面白いです。
+プログラムメモリは16KB、SRAMは4KBと性能も十分です。
+
+端子はI2Cとシリアル、電源とリセットしか出ていないので注意が必要です。
