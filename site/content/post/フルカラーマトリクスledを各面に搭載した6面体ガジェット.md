@@ -6,4 +6,12 @@ tags:
   - LED
   - ESP8285
 ---
-[Six Sided PCB LED Dice With WIFI & Gyroscope - PIKOCUBE](https://www.instructables.com/Six-Sided-PCB-LED-Dice-With-WIFI-Gyroscope-PIKOCUB/)
+[Six Sided PCB LED Dice With WIFI & Gyroscope - PIKOCUBE](https://www.instructables.com/Six-Sided-PCB-LED-Dice-With-WIFI-Gyroscope-PIKOCUB/)から発見。画像もここから転載（CC BY-NC-SA By moekoe）。
+
+フルカラーLEDを各面に搭載した6面体ガジェットの作例です。
+
+マイコンや電源ボード、バッテリーは6面体の内側に収納されています。
+
+動画では、この6面体の組み立ての様子を詳細に紹介しており、アイロンを使ったリフローや、ホットエアーガンによるリフローなど、同人ハードウェアを扱う人にはおなじみの工程を見ることが出来ます。
+
+6面体の組み立て時には3Dプリンタで作られた治具をうまく使い、90度の角度で各ボードを固定してはんだ付けしています。
