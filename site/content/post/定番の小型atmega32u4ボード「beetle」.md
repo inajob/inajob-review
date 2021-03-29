@@ -2,6 +2,7 @@
 title: 定番の小型ATMega32u4ボード「Beetle」
 date: 2021-03-29T21:02:18.366Z
 description: 小さなプロダクトにぴったりな定番のATMega32u4開発ボード「Beetle」を紹介します。
+image: img/beetle.jpg
 tags:
   - Arduino
   - 開発ボード
