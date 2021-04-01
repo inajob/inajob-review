@@ -1,6 +1,6 @@
 ---
 title: 新しいオープンソースの回路設計ツールLibrePCB
-date: 2020-12-23T12:57:59.862Z
+date: 2021-04-01T21:00:09.553Z
 description: 新しいオープンソースの回路設計ツールであるLibrePCBを紹介します。
 image: /img/librepcb.png
 tags:
