@@ -1,6 +1,6 @@
 ---
 title: 「だいたいの時間」を教えてくれるWordClock
-date: 2020-12-26T10:53:32.807Z
+date: 2021-04-05T11:00:03.155Z
 description: 3Dプリンタで作られた「だいたいの時間」を教えてくれるWordClockの作例を紹介します。
 image: /img/fuzzy-wordclock.jpg
 tags:
