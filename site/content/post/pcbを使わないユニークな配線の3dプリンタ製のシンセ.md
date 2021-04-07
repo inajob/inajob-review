@@ -2,7 +2,7 @@
 title: PCBを使わないユニークな配線の3Dプリンタ製のシンセ
 date: 2021-04-07T11:00:30.604Z
 description: PCBを使わず3Dプリンタで作られた、筐体の「みぞ」に配線を這わるという手法で作られた面白いシンセサイザーの作例を紹介します。
-image: img/leet-synthesizer.jpg
+image: /img/leet-synthesizer.jpg
 tags:
   - 3Dプリンタ
   - 音楽
