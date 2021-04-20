@@ -1,6 +1,6 @@
 ---
 title: 新しいAVRと大きな7セグメントLEDによる時計ガジェット
-date: 2021-01-03T05:00:51.792Z
+date: 2021-04-20T16:00:39.599Z
 description: 新しいAVRと大きな7セグメントLEDによる時計ガジェットの作例を紹介します。
 image: /img/bigtimefront.jpg
 tags:
