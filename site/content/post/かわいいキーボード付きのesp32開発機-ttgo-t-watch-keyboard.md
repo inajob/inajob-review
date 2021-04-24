@@ -8,7 +8,6 @@ tags:
 ---
 かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard
 
-
 この記事はBanggoodの提供でお届けします。
 
 [以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[TTGO T-Watch Keyboard](https://www.banggood.com/LILYGO-TTGO-T-Watch-Keyboard-ESP32-Programmable-Watch-Main-Chip-Hardware-with-MINI-Expansion-Keyboard-p-1671817.html?p=0M092355466124202012&cur_warehouse=CN)は[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。 [TTGO T-Watch Keyboard](https://www.banggood.com/LILYGO-TTGO-T-Watch-Keyboard-ESP32-Programmable-Watch-Main-Chip-Hardware-with-MINI-Expansion-Keyboard-p-1671817.html?p=0M092355466124202012&cur_warehouse=CN)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
@@ -17,8 +16,9 @@ tags:
 
 そして、今回もこのブログのために2021/05/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
 
-
 # TTGO T-Watch Keyboard とは
+
+![](../../img/t-watch-keyboard-keyboard.jpg)
 
 TTGO T-Watch Keyboardは TTGO T-Watchという製品にキーボードのオプションが搭載された製品です。
 
@@ -32,27 +32,29 @@ TTGO T-Watchというのは、いわゆるスマートウォッチの開発キ�
 
 キーボードはI2CでTTGO T-Watch本体と接続されており、ライブラリを利用することで非常に簡単にキーボードからの入力をハンドリング出来ます。
 
+![](../../img/t-watch-keyboard-keyboard-pcb.jpg)
+
 といったところで、この製品の詳細なスペックを見てみましょう。
 
-- メインCPU: ESP32
-- USBtoシリアル変換: CP2104
-- MicroSDカードスロット
-- 16MBのQSPI接続のフラッシュメモリ
-- メインCPU内蔵の520KBのSRAMと、外付けのPSRAM 8MB
-- 電源ボタンと、もう一つ好きに使えるボタン
-- 40MHzの水晶発振子
-- RTC: PCF8563
-- 1.54inchのタッチ機能付き液晶画面
-- 三軸加速度センサー: BMA423
-- リチウムイオンバッテリ（容量未記載だが200mAh）
-- 技適取得済み
+* メインCPU: ESP32
+* USBtoシリアル変換: CP2104
+* MicroSDカードスロット
+* 16MBのQSPI接続のフラッシュメモリ
+* メインCPU内蔵の520KBのSRAMと、外付けのPSRAM 8MB
+* 電源ボタンと、もう一つ好きに使えるボタン
+* 40MHzの水晶発振子
+* RTC: PCF8563
+* 1.54inchのタッチ機能付き液晶画面
+* 三軸加速度センサー: BMA423
+* リチウムイオンバッテリ（容量未記載だが200mAh）
+* 技適取得済み
 
 と、まぁもりだくさんです。
 
 キーボード部分は
 
-- Blackberryのキーボード
-- ATSAMD20(ここを改造するとキーボードに機能を増やせそうです)
+* Blackberryのキーボード
+* ATSAMD20(ここを改造するとキーボードに機能を増やせそうです)
 
 という感じです。
 キーボード部分はI2Cのピンが出ているので、このキーボードだけを別のプロダクトに流用することも簡単に出来そうです。
@@ -64,12 +66,18 @@ TTGO T-Watchというのは、いわゆるスマートウォッチの開発キ�
 
 しかし、保持力はあまりないようで、中途半端な角度で固定しようとしてもパタンと重たい方に倒れてしまいます。
 
+![](../../img/t-watch-keyboard-back.jpg)
+
 また、キーボードを本体と接続するためのフレキシブルケーブルがむき出しになっているため、このまま乱暴に使用するのは少し怖いです。
+
+![](../../img/t-watch-keyboard-tear-down-c.jpg)
 
 ということで、バリバリキーボード付きの携帯端末として使用できるかというと、そうではなく、どちらかというと、「かっこいいオブジェ」的なガジェットのように感じました。
 
 技適についても本体にシールが貼り付けてあり、日本でも安心して利用できそうです。
 （[Banggoodの商品ページの写真](https://www.banggood.com/LILYGO-TTGO-T-Watch-Keyboard-ESP32-Programmable-Watch-Main-Chip-Hardware-with-MINI-Expansion-Keyboard-p-1671817.html?p=0M092355466124202012&cur_warehouse=CN)にも技適シールが表示されていることから、おそらくすべてのロットにこのシールが貼られているのだと思います。）
+
+![](../../img/t-watch-keyboard-front.jpg)
 
 キーボードにはバックライトも搭載されており、暗い所でも文字を打てそうでした。（まぁ暗いところに持ち込むことはあまりなさそうですが。）
 
@@ -78,9 +86,11 @@ TTGO T-Watchというのは、いわゆるスマートウォッチの開発キ�
 
 # サンプルプログラムを書き込んでみる
 
-https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library を使って開発を行ってみます。
+![](../../img/t-watch-keyboard-sample-app.jpg)
 
-https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/docs/arduino-ide/boards_manager.md によるとArduino IDEのボードマネージャに指定したURLを登録することで Arduino IDEからプログラムを作成できるようになるようです。
+[Xinyuan-LilyGO/TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) を使って開発を行ってみます。
+
+[説明](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/docs/arduino-ide/boards_manager.md) によるとArduino IDEのボードマネージャに指定したURLを登録することで Arduino IDEからプログラムを作成できるようになるようです。
 
 これは普通にESP32を使った開発を行うのと同じ手法なので、すでに設定済みの方も多いと思います。
 
@@ -170,13 +180,15 @@ void loop()
 }
 ```
 
+![](../../img/t-watch-keyboard-original-appimg_0609.jpg)
+
 # こんな使い方が面白そう
 
 もともとはスマートウォッチ開発のために作られたTTGO Watchですが、キーボードを搭載しているこの機種では、ちょっと変わった使い方ができそうです。
 
-- 実際に動作するミニチュアレトロ端末の再現
-- TODOリストや、チャットアプリなどキーボードの使用がメインとなるアプリケーションのプロトタイピング
-- キーボード部分だけを別のマイコンモジュールに流用して自分だけのキーボード付き端末を作る
+* 実際に動作するミニチュアレトロ端末の再現
+* TODOリストや、チャットアプリなどキーボードの使用がメインとなるアプリケーションのプロトタイピング
+* キーボード部分だけを別のマイコンモジュールに流用して自分だけのキーボード付き端末を作る
 
 などなど、ほかのプロトタイピングボードでは難しい作例に挑戦できそうです。
 
