@@ -2,7 +2,7 @@
 title: かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard
 date: 2021-04-24T11:28:46.360Z
 description: かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboardについて紹介します。
-image: /img/t-watch-keyboard-cover.png
+image: img/t-watch-keyboard-cover.png
 tags:
   - Banggood
   - ESP32
