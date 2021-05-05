@@ -1,6 +1,6 @@
 ---
 title: ギター風の簡単MIDI楽器
-date: 2021-01-03T08:37:31.201Z
+date: 2021-05-05T22:00:12.817Z
 description: ギター風の筐体で簡単に音楽理論に基づいた演奏ができる楽器の作例を紹介します。
 image: /img/synthfonio.png
 tags:
