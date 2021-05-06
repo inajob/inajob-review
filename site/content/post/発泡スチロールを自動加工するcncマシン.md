@@ -1,6 +1,6 @@
 ---
 title: 発泡スチロールを自動加工するCNCマシン
-date: 2021-01-04T11:09:37.062Z
+date: 2021-05-06T23:00:47.911Z
 description: Arduinoで制御する発泡スチロールを自動加工するCNCマシンの作例を紹介します。
 image: /img/cnc-foam-cutter-makes-3d-shape.jpg
 tags:
