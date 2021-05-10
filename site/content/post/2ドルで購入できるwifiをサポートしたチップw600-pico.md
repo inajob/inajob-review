@@ -1,6 +1,6 @@
 ---
 title: 2ドルで購入できるWiFiをサポートしたチップW600-PICO
-date: 2021-01-04T11:35:03.747Z
+date: 2021-05-10T18:00:27.292Z
 description: 2ドルで購入できるWiFiをサポートしたチップであるW600-PICOについて紹介します。
 image: /img/w600-pico.png
 tags:
