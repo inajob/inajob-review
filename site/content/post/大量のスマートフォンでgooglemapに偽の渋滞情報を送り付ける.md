@@ -1,6 +1,6 @@
 ---
 title: 大量のスマートフォンでGoogleMapに偽の渋滞情報を送り付ける
-date: 2021-01-04T12:13:31.954Z
+date: 2021-05-11T11:00:40.892Z
 description: GoogleMapの渋滞情報を集計する仕組みを逆手にとって偽の渋滞情報を送り付けるという事例を紹介します。
 image: /img/gmaphackmain800.jpg
 tags:
