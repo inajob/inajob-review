@@ -1,6 +1,6 @@
 ---
 title: ARで基板を「見て」デバッグできるアプリ
-date: 2021-01-04T12:24:52.457Z
+date: 2021-05-12T11:00:07.936Z
 description: ARで基板を「見て」デバッグできるアプリを紹介します。
 image: /img/inspectar.jpg
 tags:
