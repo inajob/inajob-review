@@ -1,6 +1,6 @@
 ---
 title: 既製品のBluetoothスピーカーを利用して音の出る作品を作る
-date: 2021-01-05T12:34:00.738Z
+date: 2021-05-16T13:00:56.339Z
 description: 既製品のBluetoothスピーカーを利用して音の出る作品を作る簡単な方法を紹介します。
 image: /img/arduino-in-bluetooth-speaker.jpg
 tags:
