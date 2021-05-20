@@ -1,6 +1,6 @@
 ---
 title: USB機器をUART接続するためのモジュール
-date: 2021-01-07T12:21:23.246Z
+date: 2021-05-20T11:00:21.926Z
 description: USB機器をUART接続するための安価なモジュールを紹介します。
 image: /img/ch559-module.jpg
 tags:
