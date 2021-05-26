@@ -1,6 +1,6 @@
 ---
 title: XHコネクタの耐性を高めるためにグルーガンで補強する手法
-date: 2021-01-07T12:40:50.271Z
+date: 2021-05-26T10:00:27.508Z
 description: XHコネクタの耐性を高めるためにグルーガンと3Dプリンタで作った型を使って補強する方法を紹介します。
 image: /img/jst-xh-connector-with-hot-glue-strain-relief.png
 tags:
