@@ -20,6 +20,8 @@ tags:
 
 この記事で紹介している[GamaKay K66](https://www.banggood.com/GamaKay-K66-Mechanical-Keyboard-66-Keys-Gateron-Switch-Hot-Swappable-Tyce-C-Wired-RGB-Backlit-Gaming-Keyboard-with-Crystalline-Base-for-PC-Laptop-p-1799872.html?p=0M092355466124202012)は組み立て済みの66キーのメカニカルキーボードです。
 
+TODO: kan aa
+
 スペックは以下です。
 
 * US配列
@@ -95,7 +97,7 @@ tags:
 
 ## VS11K15A N21APR29 という刻印のIC
 
-[http://www.eevision.com/product/detail/96.html](http://www.eevision.com/product/detail/96.html)
+<http://www.eevision.com/product/detail/96.html>
 
 どうやらこれはメカニカルキーボードに特化したCotex-M0のチップのようです。USB HID Deviceのインターフェースを備え、48MHzのクロックで動作し、32KのROMを搭載しています。
 
@@ -103,7 +105,7 @@ tags:
 
 このICにキーボード用のファームウェアが焼かれているようです。周辺に何か所かパッドが存在するので、それらをうまく利用すると中身を書き換えできるかもしれません。
 
-調べてみると、これはSN32F268FというICを元としたもののようです。（ [https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/f0a97917150c421d87e53f392d84eabcad30e0ea/chips.md#sonix-sn32-based-chips](https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/f0a97917150c421d87e53f392d84eabcad30e0ea/chips.md#sonix-sn32-based-chips) ）
+調べてみると、これはSN32F268FというICを元としたもののようです。（ <https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/f0a97917150c421d87e53f392d84eabcad30e0ea/chips.md#sonix-sn32-based-chips> ）
 
 ## VS12L03A 208TNWCOa??e3 という刻印のIC
 
@@ -123,13 +125,13 @@ tags:
 
 ## ファームウェア改造の手がかり
 
-[https://wormier-docs.github.io/](https://wormier-docs.github.io/) このページのキーボードがどうやら同じもののようで、この手法応用するとファームウェアを改造できるかもしれません。（私は試していませんが・・）
+<https://wormier-docs.github.io/> このページのキーボードがどうやら同じもののようで、この手法応用するとファームウェアを改造できるかもしれません。（私は試していませんが・・）
 
 この記事通りであれば、特別に配線を引き出さずともUSB接続してあれば、ファームウェアを書き換えできるように見えます。
 
-QMKという自作キーボード向けファームウェアも [https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66](https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66)や [https://github.com/toastdb/qmk_firmware/tree/womier_k66](https://github.com/toastdb/qmk_firmware/tree/womier_k66) に移植された実装があるように見えます（絶賛開発中のようですが・・）。
+QMKという自作キーボード向けファームウェアも <https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66>や <https://github.com/toastdb/qmk_firmware/tree/womier_k66> に移植された実装があるように見えます（絶賛開発中のようですが・・）。
 
-もう少し見たころ [https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66](https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66) が元祖で、このソースコードだとLEDの点灯が未サポートですが、キーボードとしてはちゃんと使うことが出来るようで、もう一つの [https://github.com/toastdb/qmk_firmware/tree/womier_k66](https://github.com/toastdb/qmk_firmware/tree/womier_k66) のほうが、これを基にしてさらなる改良を加えているもののようです。
+もう少し見たころ <https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66> が元祖で、このソースコードだとLEDの点灯が未サポートですが、キーボードとしてはちゃんと使うことが出来るようで、もう一つの <https://github.com/toastdb/qmk_firmware/tree/womier_k66> のほうが、これを基にしてさらなる改良を加えているもののようです。
 
 ファームウェアを誤って書き込むと、最悪の場合キーボードが機能しなくなって書き換えもできなくなってしまい、いわゆる「文鎮化」してしまう可能性があるので、試す際は自己責任でお願いします。
 
