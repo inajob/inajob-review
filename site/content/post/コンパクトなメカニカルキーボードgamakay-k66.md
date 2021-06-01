@@ -22,14 +22,15 @@ tags:
 
 スペックは以下です。
 
-- US配列
-- Gateronのキーボードスイッチ （軸はBlack/Blue/Brown/Red/Yellowから選べる）
-- キーボードスイッチがホットスワップできる
-- キースイッチごとのフルカラーLED搭載
-- USB Type-C接続
-  - 無線接続機能はありませんが、技適の問題を考えると有線のみのほうが都合が良いです。
-- アクリルプレートをサンドイッチした筐体
-- 文字部分が透明のABS樹脂製のキーキャップ
+* US配列
+* Gateronのキーボードスイッチ （軸はBlack/Blue/Brown/Red/Yellowから選べる）
+* キーボードスイッチがホットスワップできる
+* キースイッチごとのフルカラーLED搭載
+* USB Type-C接続
+
+  * 無線接続機能はありませんが、技適の問題を考えると有線のみのほうが都合が良いです。
+* アクリルプレートをサンドイッチした筐体
+* 文字部分が透明のABS樹脂製のキーキャップ
 
 # キーボードスイッチ
 
@@ -43,9 +44,9 @@ tags:
 
 このキーボードは66キーのキーボードスイッチを持っています。私がこのキーボードを選んだのはいくつかの理由があります。
 
-- BackSpaceキーが角にある
-- 組み合わせキーなしでカーソル操作ができる
-- コンパクトな配列
+* BackSpaceキーが角にある
+* 組み合わせキーなしでカーソル操作ができる
+* コンパクトな配列
 
 他の60%代のキーボードは結構この要件を満たしません。特にカーソルキーについては省略されてしまっているものが多いです。80%にするとこの問題は解決しますが、キーボードが全体的に一回り大きくなってしまいます。
 
@@ -72,11 +73,15 @@ tags:
 
 このアクリル樹脂を固定するためのネジが14個あり、これをすべて緩めることで分解できます。
 
+![](img/gamakay-back.jpg)
+
 ネジ穴は一番上のアクリル板をタッピングして掘られており、あまり何度も開け閉めするとネジ穴が劣化してしまいそうと感じました。ちゃんと作るならインサートナットとかを使うのが良いのかな？と思いました。（とはいえ、頻繁に分解しなければ困ることはなさそうです）
 
 ## フルカラーLED
 
 フルカラーLEDは周辺を囲うように配置されているものと、キースイッチごとに配置されているものの2種類があり、それぞれ違う種類の部品のようです。
+
+![](img/gamakay-led-on.jpg)
 
 周辺を囲っているのは、細長い小さなフルカラーLEDで、あまり見たことのない横向きに光るLEDです。ちょっと大きさが違うように見えますが、SK6812Sideが近そうです。
 
@@ -90,15 +95,19 @@ tags:
 
 ## VS11K15A N21APR29 という刻印のIC
 
-http://www.eevision.com/product/detail/96.html
+[http://www.eevision.com/product/detail/96.html](http://www.eevision.com/product/detail/96.html)
 
 どうやらこれはメカニカルキーボードに特化したCotex-M0のチップのようです。USB HID Deviceのインターフェースを備え、48MHzのクロックで動作し、32KのROMを搭載しています。
 
+![](img/gamakay-ic2.jpg)
+
 このICにキーボード用のファームウェアが焼かれているようです。周辺に何か所かパッドが存在するので、それらをうまく利用すると中身を書き換えできるかもしれません。
 
-調べてみると、これはSN32F268FというICを元としたもののようです。（ https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/f0a97917150c421d87e53f392d84eabcad30e0ea/chips.md#sonix-sn32-based-chips ）
+調べてみると、これはSN32F268FというICを元としたもののようです。（ [https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/f0a97917150c421d87e53f392d84eabcad30e0ea/chips.md#sonix-sn32-based-chips](https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/f0a97917150c421d87e53f392d84eabcad30e0ea/chips.md#sonix-sn32-based-chips) ）
 
 ## VS12L03A 208TNWCOa??e3 という刻印のIC
+
+![](img/gamkay-ic1.jpg)
 
 こちらはLEDドライバのようです。ぱっと見はシリアル接続のフルカラーLEDではなく、単なるLEDをマトリクスで制御するの物ように見えます。明るさの制御に使っているのでしょうか？
 
@@ -114,13 +123,13 @@ http://www.eevision.com/product/detail/96.html
 
 ## ファームウェア改造の手がかり
 
-https://wormier-docs.github.io/ このページのキーボードがどうやら同じもののようで、この手法応用するとファームウェアを改造できるかもしれません。（私は試していませんが・・）
+[https://wormier-docs.github.io/](https://wormier-docs.github.io/) このページのキーボードがどうやら同じもののようで、この手法応用するとファームウェアを改造できるかもしれません。（私は試していませんが・・）
 
 この記事通りであれば、特別に配線を引き出さずともUSB接続してあれば、ファームウェアを書き換えできるように見えます。
 
-QMKという自作キーボード向けファームウェアも https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66 や https://github.com/toastdb/qmk_firmware/tree/womier_k66 に移植された実装があるように見えます（絶賛開発中のようですが・・）。
+QMKという自作キーボード向けファームウェアも [https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66](https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66)や [https://github.com/toastdb/qmk_firmware/tree/womier_k66](https://github.com/toastdb/qmk_firmware/tree/womier_k66) に移植された実装があるように見えます（絶賛開発中のようですが・・）。
 
-もう少し見たころ https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66 が元祖で、このソースコードだとLEDの点灯が未サポートですが、キーボードとしてはちゃんと使うことが出来るようで、もう一つの https://github.com/toastdb/qmk_firmware/tree/womier_k66 のほうが、これを基にしてさらなる改良を加えているもののようです。
+もう少し見たころ [https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66](https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66) が元祖で、このソースコードだとLEDの点灯が未サポートですが、キーボードとしてはちゃんと使うことが出来るようで、もう一つの [https://github.com/toastdb/qmk_firmware/tree/womier_k66](https://github.com/toastdb/qmk_firmware/tree/womier_k66) のほうが、これを基にしてさらなる改良を加えているもののようです。
 
 ファームウェアを誤って書き込むと、最悪の場合キーボードが機能しなくなって書き換えもできなくなってしまい、いわゆる「文鎮化」してしまう可能性があるので、試す際は自己責任でお願いします。
 
