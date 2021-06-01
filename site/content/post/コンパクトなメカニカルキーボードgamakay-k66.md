@@ -20,8 +20,6 @@ tags:
 
 この記事で紹介している[GamaKay K66](https://www.banggood.com/GamaKay-K66-Mechanical-Keyboard-66-Keys-Gateron-Switch-Hot-Swappable-Tyce-C-Wired-RGB-Backlit-Gaming-Keyboard-with-Crystalline-Base-for-PC-Laptop-p-1799872.html?p=0M092355466124202012)は組み立て済みの66キーのメカニカルキーボードです。
 
-TODO: kan aa
-
 スペックは以下です。
 
 * US配列
