@@ -137,7 +137,7 @@ QMKという自作キーボード向けファームウェアも https://github.c
 さて、ここまで紹介してきた[GamaKay K66](https://www.banggood.com/GamaKay-K66-Mechanical-Keyboard-66-Keys-Gateron-Switch-Hot-Swappable-Tyce-C-Wired-RGB-Backlit-Gaming-Keyboard-with-Crystalline-Base-for-PC-Laptop-p-1799872.html?p=0M092355466124202012)ですが、今回Banggoodの提供という事で、<span style="color:red">**$57.99**</span>で購入できるクーポンを頂いています。
 
 コード：
-<span style="color:red">**BGCNK66JP**</span> (5/31まで)
+<span style="color:red">**BGCNK66JP**</span> (8/31まで)
 
 [GamaKay K66](https://www.banggood.com/GamaKay-K66-Mechanical-Keyboard-66-Keys-Gateron-Switch-Hot-Swappable-Tyce-C-Wired-RGB-Backlit-Gaming-Keyboard-with-Crystalline-Base-for-PC-Laptop-p-1799872.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
