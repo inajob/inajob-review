@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタで作ったRaspberryPiを使ったNASのケース
-date: 2021-01-14T11:58:21.668Z
+date: 2021-06-01T12:00:19.599Z
 description: 3Dプリンタで作ったRaspberryPiを使ったNASのケースです
 image: /img/pinas.jpg
 tags:
