@@ -21,7 +21,7 @@ tags:
 
 この記事で紹介している[GamaKay K66](https://www.banggood.com/GamaKay-K66-Mechanical-Keyboard-66-Keys-Gateron-Switch-Hot-Swappable-Tyce-C-Wired-RGB-Backlit-Gaming-Keyboard-with-Crystalline-Base-for-PC-Laptop-p-1799872.html?p=0M092355466124202012)は組み立て済みの66キーのメカニカルキーボードです。
 
-![](img/gamakay-cover.jpg)
+![](../../img/gamakay-cover.jpg)
 
 スペックは以下です。
 
@@ -45,7 +45,7 @@ tags:
 
 # キー配列
 
-![](img/gamakay-layout.jpg)
+![](../../img/gamakay-layout.jpg)
 
 このキーボードは66キーのキーボードスイッチを持っています。私がこのキーボードを選んだのはいくつかの理由があります。
 
@@ -80,7 +80,7 @@ tags:
 
 このアクリル樹脂を固定するためのネジが14個あり、これをすべて緩めることで分解できます。
 
-![](img/gamakay-back.jpg)
+![](../../img/gamakay-back.jpg)
 
 ネジ穴は一番上のアクリル板をタッピングして掘られており、あまり何度も開け閉めするとネジ穴が劣化してしまいそうと感じました。ちゃんと作るならインサートナットとかを使うのが良いのかな？と思いました。（とはいえ、頻繁に分解しなければ困ることはなさそうです）
 
@@ -88,7 +88,7 @@ tags:
 
 フルカラーLEDは周辺を囲うように配置されているものと、キースイッチごとに配置されているものの2種類があり、それぞれ違う種類の部品のようです。
 
-![](img/gamakay-led-on.jpg)
+![](../../img/gamakay-led-on.jpg)
 
 周辺を囲っているのは、細長い小さなフルカラーLEDで、あまり見たことのない横向きに光るLEDです。ちょっと大きさが違うように見えますが、SK6812Sideが近そうです。
 
@@ -106,7 +106,7 @@ tags:
 
 どうやらこれはメカニカルキーボードに特化したCotex-M0のチップのようです。USB HID Deviceのインターフェースを備え、48MHzのクロックで動作し、32KのROMを搭載しています。
 
-![](img/gamakay-ic2.jpg)
+![](../../img/gamakay-ic2.jpg)
 
 このICにキーボード用のファームウェアが焼かれているようです。周辺に何か所かパッドが存在するので、それらをうまく利用すると中身を書き換えできるかもしれません。
 
@@ -114,7 +114,7 @@ tags:
 
 ## VS12L03A 208TNWCOa??e3 という刻印のIC
 
-![](img/gamkay-ic1.jpg)
+![](../../img/gamkay-ic1.jpg)
 
 こちらはLEDドライバのようです。ぱっと見はシリアル接続のフルカラーLEDではなく、単なるLEDをマトリクスで制御するの物ように見えます。明るさの制御に使っているのでしょうか？
 
