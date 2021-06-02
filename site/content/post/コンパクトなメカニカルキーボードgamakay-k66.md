@@ -21,6 +21,8 @@ tags:
 
 この記事で紹介している[GamaKay K66](https://www.banggood.com/GamaKay-K66-Mechanical-Keyboard-66-Keys-Gateron-Switch-Hot-Swappable-Tyce-C-Wired-RGB-Backlit-Gaming-Keyboard-with-Crystalline-Base-for-PC-Laptop-p-1799872.html?p=0M092355466124202012)は組み立て済みの66キーのメカニカルキーボードです。
 
+![](img/gamakay-cover.jpg)
+
 スペックは以下です。
 
 * US配列
@@ -42,6 +44,8 @@ tags:
 ホットスワップに対応しているため、別にキーボードスイッチを買いそろえることで、はんだ付けすることなくキーボードスイッチを変更することが出来ます。
 
 # キー配列
+
+![](img/gamakay-layout.jpg)
 
 このキーボードは66キーのキーボードスイッチを持っています。私がこのキーボードを選んだのはいくつかの理由があります。
 
