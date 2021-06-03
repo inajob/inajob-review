@@ -1,6 +1,6 @@
 ---
 title: コンパクトなメカニカルキーボードGamaKay K66
-date: 2021-06-01T12:15:45.665Z
+date: 2021-06-03T12:00:43.010Z
 description: 組み立て済みのコンパクトなメカニカルキーボードGamaKay K66のレビュー記事です。
 image: /img/gamakay-cover.png
 tags:
