@@ -1,6 +1,6 @@
 ---
 title: Arduinoでつくる回転数測定器と3Dプリンタ製のケース
-date: 2021-01-14T12:31:40.812Z
+date: 2021-06-07T11:00:18.792Z
 description: 3Dプリンタで作ったケースに収まったArduinoで作られた回転数測定器の作例を紹介します。
 image: /img/tachometer.jpg
 tags:
@@ -15,3 +15,5 @@ tags:
 Arduino NanoやOLEDがきちっとハマる枠を3Dプリンタで作り、その枠をブリッジするような橋状の部品をねじで止めることで、部品をきっちりとケースに固定しています。
 
 おかげでこの作例ではユニバーサル基板を使うことなく、しかし部品が取っ散らかる事のない、高い完成度となっています。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0UqHNrqmTRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
