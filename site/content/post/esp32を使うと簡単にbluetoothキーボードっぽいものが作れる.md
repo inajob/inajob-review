@@ -1,6 +1,6 @@
 ---
 title: ESP32を使うと簡単にBluetoothキーボードっぽいものが作れる
-date: 2021-01-17T11:43:48.132Z
+date: 2021-06-09T12:00:47.984Z
 description: ESP32にスイッチをつなげるだけで簡単にBluetoothキーボード的なガジェットが作れてしまいます。
 image: /img/bluetooth-hid.png
 tags:
