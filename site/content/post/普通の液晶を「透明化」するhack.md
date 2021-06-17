@@ -1,6 +1,6 @@
 ---
 title: 普通の液晶を「透明化」するHACK
-date: 2021-01-20T12:31:23.076Z
+date: 2021-06-17T11:00:30.511Z
 description: 普通の液晶を「透明化」する裏技を紹介します。
 image: /img/transparent-display.jpg
 tags:
