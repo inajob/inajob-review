@@ -10,7 +10,7 @@ tags:
 [Make Your Own (kind Of) Transparent Display](https://www.instructables.com/Make-Your-Own-kind-Of-Transparent-Display/)から発見。画像もここから転載（CC BY-NC-SA By Kelsey at Crystalfontz）。
 
 普通の液晶から背面の偏光板をはがして、そこに別の偏光板を絶妙な角度で
-新しい偏光フィルムを貼り付けることで半透明なディスプレイを作る方法を紹介しています。
+貼り付けることで半透明なディスプレイを作る方法を紹介しています。
 
 この記事では新しい偏光フィルムを別の大きなディスプレイから剥がすことで入手しています。
 
