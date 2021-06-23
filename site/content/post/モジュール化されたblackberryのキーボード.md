@@ -15,4 +15,4 @@ BlackBerryと言えばキーボード付きのスマートフォンとして有�
 
 量産製品の部品を流用してモジュールを作るというのは市場に余った在庫を活用できて製造コストも抑えられそうです。
 
-[以前紹介したTTGO T-Watch Keyboard](../../かわいいキーボード付きのesp32開発機-ttgo-t-watch-keyboard/)もこのキーボードを搭載したものでした。
+[以前紹介したTTGO T-Watch Keyboard](../../post/かわいいキーボード付きのesp32開発機-ttgo-t-watch-keyboard/)もこのキーボードを搭載したものでした。
