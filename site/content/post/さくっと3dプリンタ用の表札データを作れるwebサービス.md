@@ -1,6 +1,6 @@
 ---
 title: さくっと3Dプリンタ用の表札データを作れるWebサービス
-date: 2021-01-29T12:57:51.710Z
+date: 2021-07-01T09:30:21.526Z
 description: 3Dプリンタ用の表札を作れるWebサービスを紹介します。
 image: /img/nameplate-maker.jpg
 tags:
