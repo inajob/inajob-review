@@ -2,6 +2,7 @@
 title: 1万円台の「かわいい」3Dプリンタ「Easythreed®K5」の実力は？
 date: 2021-07-02T11:25:55.299Z
 description: 1万円台の「かわいい」3Dプリンタ「Easythreed®K5」について紹介します。
+image: img/k5-cover.png
 tags:
   - Banggood
   - 3Dプリンタ
