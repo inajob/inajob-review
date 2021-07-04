@@ -182,13 +182,13 @@ TODO: 作品写真
 
 # クーポンコード
 
-さて、ここまで紹介してきた[Easythreed®K5](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)ですが、今回Banggoodの提供という事で、<span style="color:red">**$XX**</span>で購入できるクーポンを頂いています。
+さて、ここまで紹介してきた[Easythreed®K5](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)ですが、今回Banggoodの提供という事で、<span style="color:red">**$99**</span>で購入できるクーポンを頂いています。
 
 コード：
-<span style="color:red">**あとで書く**</span> (XX/XXまで)
+<span style="color:red">**BG7fd808**</span> (XX/XXまで)
 
 [Easythreed®K5](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
-有効期限は**2021/XX/XX**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
+有効期限は**2021/7/31**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 * [Easythreed®K5の購入はこちら](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)
