@@ -2,7 +2,7 @@
 title: 1万円台の「かわいい」3Dプリンタ「Easythreed®K5」の実力は？
 date: 2021-07-04T03:00:41.443Z
 description: 1万円台の「かわいい」3Dプリンタ「Easythreed®K5」について紹介します。
-image: img/k5-cover.png
+image: /img/k5-cover.png
 tags:
   - Banggood
   - 3Dプリンタ
@@ -27,7 +27,7 @@ tags:
 
 なんというか「3Dプリンタもいよいよここまで来たか」と感じるエポックメイキングな製品だと感じています。
 
-![](img/k5-overview3.jpg)
+![](../../img/k5-overview3.jpg)
 
 スペックは以下です
 
@@ -54,19 +54,19 @@ tags:
 
 届いたのはこのくらいの箱でした。
 
-![](img/k5-box.jpg)
+![](../../img/k5-box.jpg)
 
 開けてみると、じゃーん！ 製品外観が印刷された段ボールが出てきました。
 
-![](img/k5-box-2.jpg)
+![](../../img/k5-box-2.jpg)
 
 中身は発泡スチロールで梱包されており、製品も無事でした。
 
-![](img/k5-box-3.jpg)
+![](../../img/k5-box-3.jpg)
 
 可動部分は養生テープで固定されていました。
 
-![](img/k5-unboxing.jpg)
+![](../../img/k5-unboxing.jpg)
 
 付属部品はこんな感じ
 
@@ -79,18 +79,18 @@ tags:
 * USBケーブル
 * スクレイパー
 
-![](img/k5-accessary.jpg)
+![](../../img/k5-accessary.jpg)
 
 説明書は日本語のページもありました。
 
 フィラメント固定用部品を搭載して、電源を入れるとこんな感じです。
 腰回りが良い感じに光っていてSFアニメに出てきそうな宇宙人風の外観です。
 
-![](img/k5-with-fillament.jpg)
+![](../../img/k5-with-fillament.jpg)
 
 中身はこんな感じ。小さいながらも一般的な3Dプリンタと同じような構造です。
 
-![](img/k5-inside.jpg)
+![](../../img/k5-inside.jpg)
 
 背面にはこのような端子・ボタンが並んでいます。
 
@@ -98,7 +98,7 @@ ACアダプタの端子、MicroSDスロット、LED点滅パターンの切り�
 
 モード切替スイッチは3状態のスライドスイッチで、一番左が「FEED」、一番右が「RETRACT」、真ん中は何も書いてないですが、通常は真ん中にスライドさせておきます。
 
-![](img/k5-back.jpg)
+![](../../img/k5-back.jpg)
 
 # 印刷してみる
 
@@ -112,11 +112,11 @@ K5が起動したら本体下にある「再生ボタン」のようなスイッ
 
 しばらく待つと印刷が開始されます。
 
-![](img/k5-complete.jpg)
+![](../../img/k5-complete.jpg)
 
 印刷が終わったら、磁石でくっついている土台を外して取り出し、土台から生成物を剥がして、完成です。
 
-![](img/k5-complete-sheet.jpg)
+![](../../img/k5-complete-sheet.jpg)
 
 たったこれだけ！
 
@@ -144,7 +144,7 @@ K5が起動したら本体下にある「再生ボタン」のようなスイッ
 
 しかしこのプリンタの製造元であるEasythreadの公式ページには、このプリンタで造形可能な[様々な3Dデータが公開されています。](https://www.toy123d.com/en/col.jsp?id=103)
 
-![](img/k5-parts-lib.png)
+![](../../img/k5-parts-lib.png)
 
 買ってしばらくは、このページにある3Dデータから面白そうなものを選んで印刷するのがよさそうです。
 
@@ -153,7 +153,7 @@ STL形式のものはそのまま印刷できないので、適当なスライ�
 
 G-Code形式のデータはそのまま印刷できますが、細かい品質の設定ができないので注意が必要です。
 
-![](img/k5-parts-lib2.png)
+![](../../img/k5-parts-lib2.png)
 
 いくつか試してみたのですが、G-Code形式のデータは成果物の下に印刷補助用の「ラフト」を形成するような構造となっており、生成物がベッドに定着しないという問題が起きにくいように工夫されています。
 
@@ -216,7 +216,7 @@ K5ほどの「かわいさ」はありませんが、カバーが無い分メン
 * 価格: <span style="color:red">**$89**</a>
 * [購入はこちらから](https://www.banggood.com/Easythreed-K1-Desktop-Mini-3D-Printer-Kit-100X100X100mm-Print-Size-Four-Keys-Control-for-Household-Education-and-Students-p-1750973.html?p=0M092355466124202012) 
 
-![](img/easythread-k1.jpg)
+![](../../img/easythread-k1.jpg)
 
 ## Easythreed® K7
 
@@ -227,4 +227,4 @@ Z軸が片腕なのが特徴ですね。この点でコストダウンが出来�
 * 価格: <span style="color:red">**$79**</span>
 * [購入はこちらから](https://www.banggood.com/Easythreed-K7-Desktop-Mini-3D-Printer-100+100+100mm-Printing-Size-for-Children-Student-Household-Education-p-1805354.html?p=0M092355466124202012&cur_warehouse=CN&ID=47184)
 
-![](img/easythread-k7.jpg)
+![](../../img/easythread-k7.jpg)
