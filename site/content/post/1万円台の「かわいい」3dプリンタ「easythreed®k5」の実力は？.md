@@ -1,6 +1,6 @@
 ---
 title: 1万円台の「かわいい」3Dプリンタ「Easythreed®K5」の実力は？
-date: 2021-07-02T11:25:55.299Z
+date: 2021-07-04T03:00:41.443Z
 description: 1万円台の「かわいい」3Dプリンタ「Easythreed®K5」について紹介します。
 image: img/k5-cover.png
 tags:
@@ -165,7 +165,11 @@ G-Code形式で印刷するのに慣れたら、STL形式のデータを使い�
 
 大きさの制限があるので、作れる作品は限られますが、このような手のひらサイズの物を作ることが出来ます。
 
-TODO: 作品写真
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">よく見かけるグネグネ動く恐竜を印刷してみた。印刷条件が違うからか可動具合が全然違うな、、<a href="https://t.co/9ZodbfMUm3">https://t.co/9ZodbfMUm3</a><a href="https://twitter.com/hashtag/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#3dプリンター</a> <a href="https://t.co/psCNSiCPkw">pic.twitter.com/psCNSiCPkw</a></p>&mdash; ina_ani@1歳児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1410926536581009412?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">サメ型クリップ<br>データはこちらを使わせてもらいました。<a href="https://t.co/6xPHMuq66V">https://t.co/6xPHMuq66V</a><a href="https://twitter.com/hashtag/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#3dプリンター</a> <a href="https://t.co/4U6UDriEEw">pic.twitter.com/4U6UDriEEw</a></p>&mdash; ina_ani@1歳児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1410504288434982917?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">色違い君を追加<a href="https://twitter.com/hashtag/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#3dプリンター</a> <a href="https://t.co/WTi71tOFct">pic.twitter.com/WTi71tOFct</a></p>&mdash; ina_ani@1歳児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1410502089369739265?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # まとめ
 
@@ -185,13 +189,16 @@ TODO: 作品写真
 さて、ここまで紹介してきた[Easythreed®K5](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)ですが、今回Banggoodの提供という事で、<span style="color:red">**$99**</span>で購入できるクーポンを頂いています。
 
 コード：
-<span style="color:red">**BG7fd808**</span> (XX/XXまで)
+<span style="color:red">**BG7fd808**</span> (7/31まで)
 
 [Easythreed®K5](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
 有効期限は**2021/7/31**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 * [Easythreed®K5の購入はこちら](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)
+
+[Banggood](https://jp.banggood.com/?p=0M092355466124202012)では、7/7 Summer Saleということで、ほかにも様々なガジェットを格安で販売しているようです。気になる人は除いてみてください。
+
 
 # ほかにも1万円以下の3Dプリンタのクーポンが・・・！
 
@@ -206,7 +213,7 @@ K5ほどの「かわいさ」はありませんが、カバーが無い分メン
 実は造形サイズがK5よりも20mm大きいK1です。価格もK5よりも安いです。
 
 * クーポンコード: BG2c79cd （利用期限は2021/7/31）
-* 価格: $89
+* 価格: <span style="color:red">**$89**</a>
 * [購入はこちらから](https://www.banggood.com/Easythreed-K1-Desktop-Mini-3D-Printer-Kit-100X100X100mm-Print-Size-Four-Keys-Control-for-Household-Education-and-Students-p-1750973.html?p=0M092355466124202012) 
 
 ![](img/easythread-k1.jpg)
@@ -217,7 +224,7 @@ K5ほどの「かわいさ」はありませんが、カバーが無い分メン
 Z軸が片腕なのが特徴ですね。この点でコストダウンが出来ているのかもしれません。
 
 * クーポンコード: BGa98d12 （利用期限は2021/7/31）
-* 価格: $79
+* 価格: <span style="color:red">**$79**</span>
 * [購入はこちらから](https://www.banggood.com/Easythreed-K7-Desktop-Mini-3D-Printer-100+100+100mm-Printing-Size-for-Children-Student-Household-Education-p-1805354.html?p=0M092355466124202012&cur_warehouse=CN&ID=47184)
 
 ![](img/easythread-k7.jpg)
