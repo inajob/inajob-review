@@ -205,15 +205,19 @@ K5ほどの「かわいさ」はありませんが、カバーが無い分メン
 
 実は造形サイズがK5よりも20mm大きいK1です。価格もK5よりも安いです。
 
-- クーポンコード: BG2c79cd
-- 価格: $89
-- [購入はこちらから](https://www.banggood.com/Easythreed-K1-Desktop-Mini-3D-Printer-Kit-100X100X100mm-Print-Size-Four-Keys-Control-for-Household-Education-and-Students-p-1750973.html?p=0M092355466124202012) 
+* クーポンコード: BG2c79cd （利用期限は2021/7/31）
+* 価格: $89
+* [購入はこちらから](https://www.banggood.com/Easythreed-K1-Desktop-Mini-3D-Printer-Kit-100X100X100mm-Print-Size-Four-Keys-Control-for-Household-Education-and-Students-p-1750973.html?p=0M092355466124202012) 
+
+![](img/easythread-k1.jpg)
 
 ## Easythreed® K7
 
 こちらも造形サイズがK5よりも20mm大きいK7です。価格もK5よりも安いです。
 Z軸が片腕なのが特徴ですね。この点でコストダウンが出来ているのかもしれません。
 
-- クーポンコード: BGa98d12
-- 価格: $79
-- [購入はこちらから](https://www.banggood.com/Easythreed-K7-Desktop-Mini-3D-Printer-100+100+100mm-Printing-Size-for-Children-Student-Household-Education-p-1805354.html?p=0M092355466124202012&cur_warehouse=CN&ID=47184)
+* クーポンコード: BGa98d12 （利用期限は2021/7/31）
+* 価格: $79
+* [購入はこちらから](https://www.banggood.com/Easythreed-K7-Desktop-Mini-3D-Printer-100+100+100mm-Printing-Size-for-Children-Student-Household-Education-p-1805354.html?p=0M092355466124202012&cur_warehouse=CN&ID=47184)
+
+![](img/easythread-k7.jpg)
