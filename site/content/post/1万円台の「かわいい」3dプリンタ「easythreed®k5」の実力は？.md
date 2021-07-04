@@ -192,3 +192,28 @@ TODO: 作品写真
 有効期限は**2021/7/31**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 * [Easythreed®K5の購入はこちら](https://jp.banggood.com/Easythreed-K5-Mini-Desktop-3D-Printer-80X80X100mm-Print-Size-for-Kids-and-Children-with-Removable-Building-Platform-p-1789678.html?p=0M092355466124202012&cur_warehouse=CN&ID=47757)
+
+# ほかにも1万円以下の3Dプリンタのクーポンが・・・！
+
+さらに1万円以下のEasythread社の3Dプリンタについてもクーポンを頂いています。
+
+送料も無料なので、本当にこの値段で3Dプリンタを購入することが出来ます。
+
+K5ほどの「かわいさ」はありませんが、カバーが無い分メンテナンスはやりやすいかもしれません。
+
+## Easythreed® K1
+
+実は造形サイズがK5よりも20mm大きいK1です。価格もK5よりも安いです。
+
+- クーポンコード: BG2c79cd
+- 価格: $89
+- [購入はこちらから](https://www.banggood.com/Easythreed-K1-Desktop-Mini-3D-Printer-Kit-100X100X100mm-Print-Size-Four-Keys-Control-for-Household-Education-and-Students-p-1750973.html?p=0M092355466124202012) 
+
+## Easythreed® K7
+
+こちらも造形サイズがK5よりも20mm大きいK7です。価格もK5よりも安いです。
+Z軸が片腕なのが特徴ですね。この点でコストダウンが出来ているのかもしれません。
+
+- クーポンコード: BGa98d12
+- 価格: $79
+- [購入はこちらから](https://www.banggood.com/Easythreed-K7-Desktop-Mini-3D-Printer-100+100+100mm-Printing-Size-for-Children-Student-Household-Education-p-1805354.html?p=0M092355466124202012&cur_warehouse=CN&ID=47184)
