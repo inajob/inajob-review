@@ -1,6 +1,6 @@
 ---
 title: FPGAを使って作ったFM音源ボード
-date: 2021-02-01T12:25:27.956Z
+date: 2021-07-05T10:30:44.433Z
 description: FPGAを使って作ったFM音源ボードの作例を紹介します。
 image: /img/fpga-fm-board.jpg
 tags:
