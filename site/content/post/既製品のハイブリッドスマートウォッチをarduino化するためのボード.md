@@ -1,6 +1,6 @@
 ---
 title: 既製品のハイブリッドスマートウォッチをArduino化するためのボード
-date: 2021-02-02T12:31:21.191Z
+date: 2021-07-07T11:00:31.374Z
 description: 既製品のハイブリッドスマートウォッチをHackしやすいArduinoベースに変更するための改造用ボードを紹介します。
 image: /img/open-chronograph.png
 tags:
