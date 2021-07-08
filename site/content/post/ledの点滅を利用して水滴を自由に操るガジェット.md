@@ -1,6 +1,6 @@
 ---
 title: LEDの点滅を利用して水滴を自由に操るガジェット
-date: 2021-02-02T12:53:38.037Z
+date: 2021-07-08T12:00:23.629Z
 description: LEDの点滅を利用して水滴を自由に操るガジェットの作例を紹介します。
 image: /img/fountain.png
 tags:
