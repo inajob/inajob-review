@@ -2,7 +2,7 @@
 title: Raspberry Pi PicoのためのJavaScriptエンジン
 date: 2021-07-13T10:53:29.958Z
 description: Raspberry Pi PicoのためのJavaScriptエンジン「Kaluma」を紹介します。
-image: img/kaluma.png
+image: /img/kaluma.png
 tags:
   - RaspberryPiPico
   - JavaScript
