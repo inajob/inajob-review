@@ -2,7 +2,7 @@
 title: DIPサイズのATTINY3217開発ボード
 date: 2021-07-14T11:21:30.927Z
 description: 使いやすいサイズ・性能の開発ボードです。
-image: img/dily3217.jpg
+image: /img/dily3217.jpg
 tags:
   - attiny3217
   - 開発ボード
