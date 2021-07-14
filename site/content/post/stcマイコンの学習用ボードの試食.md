@@ -2,7 +2,7 @@
 title: STCマイコンの学習用ボードの試食
 date: 2021-07-14T12:22:40.011Z
 description: 中国ではよく利用されているSTCマイコンの学習用ボードを試してみた人の記事を紹介します。
-image: img/stc8-learning-board.jpg
+image: /img/stc8-learning-board.jpg
 tags:
   - STC
   - 開発ボード
