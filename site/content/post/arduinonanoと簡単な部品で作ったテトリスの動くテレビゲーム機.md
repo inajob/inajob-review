@@ -1,6 +1,6 @@
 ---
 title: ArduinoNanoと簡単な部品で作ったテトリスの動くテレビゲーム機
-date: 2021-02-05T11:16:23.006Z
+date: 2021-07-15T11:00:19.385Z
 description: Arduino Nanoと簡単な部品を組み合わせて作ったテトリスが動作するテレビゲーム機の作例を紹介します。
 image: /img/nano-video-game.jpg
 tags:
