@@ -1,6 +1,6 @@
 ---
 title: ATmega328Pを使ったシリアル接続のキーパッド
-date: 2021-02-05T11:37:03.558Z
+date: 2021-07-18T11:00:10.633Z
 description: ATmega328Pをつかったシリアル接続のキーパッドの作例を紹介します。
 image: /img/macro-keypad.jpg
 tags:
