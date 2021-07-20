@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi Zeroをコントローラとした自作キーボード
-date: 2021-02-11T11:15:55.471Z
+date: 2021-07-20T13:00:53.327Z
 description: Raspberry Pi Zeroをコントローラとした自作キーボードの作例を紹介します。
 image: /img/pi-keyboardjpg.jpg
 tags:
