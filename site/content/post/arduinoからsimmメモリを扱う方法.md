@@ -1,6 +1,6 @@
 ---
 title: ArduinoからSIMMメモリを扱う方法
-date: 2021-02-23T12:17:41.574Z
+date: 2021-07-28T14:00:54.751Z
 description: ArduinoからSIMMメモリを扱う方法を紹介します。
 image: /img/ram-arduino3.jpg
 tags:
