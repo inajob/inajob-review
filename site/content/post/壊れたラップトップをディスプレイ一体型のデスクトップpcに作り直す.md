@@ -1,6 +1,6 @@
 ---
 title: 壊れたラップトップをディスプレイ一体型のデスクトップPCに作り直す
-date: 2021-02-23T12:33:44.181Z
+date: 2021-07-29T11:00:07.408Z
 description: 壊れたラップトップをディスプレイ一体型のデスクトップPCに作り直す手法を紹介します。
 image: /img/allinone-recyled-laptop.jpg
 tags:
