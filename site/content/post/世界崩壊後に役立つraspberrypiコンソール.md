@@ -1,6 +1,6 @@
 ---
 title: 世界崩壊後に役立つRaspberryPiコンソール
-date: 2021-02-26T11:38:21.534Z
+date: 2021-08-04T23:00:45.895Z
 description: 世界が崩壊した後でも役立つことをコンセプトに作られたRaspberryPiコンソールの作例を紹介します。
 image: /img/picrash.jpg
 tags:
