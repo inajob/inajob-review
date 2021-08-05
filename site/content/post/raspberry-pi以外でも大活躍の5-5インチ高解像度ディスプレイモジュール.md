@@ -63,10 +63,13 @@ tags:
 ちょうどサブディスプレイが欲しかったので、手元の3Dプリンタを使ってノートPCのモニタの上に載せられるようにしてみました。
 
 ![](img/wareshare-5-5-winnote.jpg)
+(動画はこちら https://www.youtube.com/watch?v=TLkA0RELQ1g )
 
 ![](img/wareshare-5-5-winnote2.jpg)
+Twitterを表示してみた例（ちょっと小さくて読みづらいかな）
 
 ![](img/wareshare-5-5-winnote3.jpg)
+裏面はこんな感じです。
 
 シンデレラフィット！ と言いたくなるような使い勝手です。
 
