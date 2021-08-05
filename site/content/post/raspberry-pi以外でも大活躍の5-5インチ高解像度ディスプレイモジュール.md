@@ -9,7 +9,7 @@ tags:
 ---
 この記事はBanggoodの提供でお届けします。
 
-[以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[Wareshare® 5.5 Inch AMOLED HDMI Display](https://www.banggood.com/Wareshare-5_5-Inch-AMOLED-HDMI-Display-Capacitive-Touch-Screen-with-Tempered-Glass-Support-for-NVIDIA-Jetson-Nano-Raspberry-Pi-p-1526354.html?p=0M092355466124202012)からいただいたものとなります。[Wareshare® 5.5 Inch AMOLED HDMI Display](https://www.banggood.com/Wareshare-5_5-Inch-AMOLED-HDMI-Display-Capacitive-Touch-Screen-with-Tempered-Glass-Support-for-NVIDIA-Jetson-Nano-Raspberry-Pi-p-1526354.html?p=0M092355466124202012))についてはBanggoodから紹介されましたが、自分も面白い製品であると感じたためこのレビューを引き受けたため、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+[以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[Wareshare® 5.5 Inch AMOLED HDMI Display](https://www.banggood.com/Wareshare-5_5-Inch-AMOLED-HDMI-Display-Capacitive-Touch-Screen-with-Tempered-Glass-Support-for-NVIDIA-Jetson-Nano-Raspberry-Pi-p-1526354.html?p=0M092355466124202012)も、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。[Wareshare® 5.5 Inch AMOLED HDMI Display](https://www.banggood.com/Wareshare-5_5-Inch-AMOLED-HDMI-Display-Capacitive-Touch-Screen-with-Tempered-Glass-Support-for-NVIDIA-Jetson-Nano-Raspberry-Pi-p-1526354.html?p=0M092355466124202012))についてはBanggoodから紹介されましたが、自分も面白い製品であると感じたためこのレビューを引き受けたため、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
 ## Wareshare® 5.5 Inch AMOLED HDMI Display とは
 
