@@ -21,6 +21,8 @@ tags:
 
 必要なものはだいたい入っています
 
+![](img/wareshare-5-5-accessory.jpg)
+
 * HDMIケーブル
 * USBケーブル
 * コの字型HDMI端子 2種
