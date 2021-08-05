@@ -2,6 +2,7 @@
 title: Raspberry Pi以外でも大活躍の5.5インチ高解像度ディスプレイモジュール
 date: 2021-08-05T01:57:31.646Z
 description: Raspberry Pi用の5.5インチ高解像度ディスプレイモジュールの活用例を紹介します。
+image: img/wareshare-5-5-cover.png
 tags:
   - Banggood
   - RaspberryPi
@@ -14,6 +15,8 @@ tags:
 
 いわゆるRaspberry Pi用のHDMIディスプレイです。特筆すべきは1080×1920という高解像度です。
 加えて静電容量タッチセンサーにより、画面を触ることでPCの操作ができます。
+
+![](img/wareshare-5-5-raspberrypi.jpg)
 
 この高解像度でありながら、ディスプレイのサイズは5.5インチと小型で、まるでスマートフォンのディスプレイのようです。（というかスマートフォンのディスプレイを転用してこの製品を作ったように見えます。
 
