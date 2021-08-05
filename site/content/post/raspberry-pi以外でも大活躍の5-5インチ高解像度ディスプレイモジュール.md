@@ -21,11 +21,11 @@ tags:
 
 必要なものはだいたい入っています
 
-- HDMIケーブル
-- USBケーブル
-- コの字型HDMI端子 2種
-- コの字型USB端子 2種
-- ディスプレイ固定用スペーサー
+* HDMIケーブル
+* USBケーブル
+* コの字型HDMI端子 2種
+* コの字型USB端子 2種
+* ディスプレイ固定用スペーサー
 
 ## Raspberry Piと接続してみる
 
@@ -37,7 +37,17 @@ tags:
 
 付属品のコの字型のHDMIと、USB端子を使うことで、「スマートフォン」とまではいきませんが、非常にコンパクトにRaspberry Piと接続することが出来ます。
 
+![](img/wareshare-5-5-raspberrypi.jpg)
+
+![](img/wareshare-5-5-raspberrypi-back.jpg)
+
+![](img/wareshare-5-5-raspberrypi-side.jpg)
+
+![](img/wareshare-5-5-raspberrypi-side2.jpg)
+
 高解像度ディスプレイなので、かなり細かい情報を表示することが出来ます。
+
+![](img/wareshare-5-5-raspberrypi-detail.jpg)
 
 ただしRaspberryPiの標準のデスクトップはマウスで操作するように作られているため、タッチパネルでの操作は非常に困難でした。これ専用のアプリケーションを書く必要があるでしょう。
 
@@ -57,12 +67,15 @@ tags:
 
 ディスプレイについては、全くの無知ですが、一応むき出しの基板に乗っているICを見てみました。
 
-- TOSHIBA 358779XBG
-  - 中国製品には珍しい東芝製のICです。これがHDMIの制御をしているようです。
-- FT24C02A
-  - EEPROMのようですが、何に使っているかはわかりませんでした
-- GD32F350CBT6
-  - 最近話題（？）のGigaDrive製のARMマイコンです。タッチパネルの制御をしているようです
+* TOSHIBA 358779XBG
+
+  * 中国製品には珍しい東芝製のICです。これがHDMIの制御をしているようです。
+* FT24C02A
+
+  * EEPROMのようですが、何に使っているかはわかりませんでした
+* GD32F350CBT6
+
+  * 最近話題（？）のGigaDrive製のARMマイコンです。タッチパネルの制御をしているようです
 
 汎用のARMマイコンが乗っているのがちょっと意外でした。うまく書き込みができると、タッチパネルの動作を変更できるかもしれません。
 
@@ -88,6 +101,3 @@ RaspberryPiを使ったリッチなガジェットのお供にはもちろん、
 * [Wareshare® 5.5 Inch AMOLED HDMI Displayの購入はこちら](https://www.banggood.com/Wareshare-5_5-Inch-AMOLED-HDMI-Display-Capacitive-Touch-Screen-with-Tempered-Glass-Support-for-NVIDIA-Jetson-Nano-Raspberry-Pi-p-1526354.html?p=0M092355466124202012)
 
 [Banggood](https://www.banggood.com/marketing-jpcoupon/tid-8783.html?utmid=17856&p=0M092355466124202012)では、8月の「日本限定日替わりセール」ということで、ほかにも様々なガジェットを格安で販売しているようです。気になる人はのぞいてみてください。
-
-
-
