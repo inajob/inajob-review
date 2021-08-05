@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi以外でも大活躍の5.5インチ高解像度ディスプレイモジュール
-date: 2021-08-05T01:57:31.646Z
+date: 2021-08-05T13:00:02.884Z
 description: Raspberry Pi用の5.5インチ高解像度ディスプレイモジュールの活用例を紹介します。
 image: /img/wareshare-5-5-cover.png
 tags:
