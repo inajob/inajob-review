@@ -1,6 +1,6 @@
 ---
 title: 使いやすそうな小型のATSAMD21の開発ボード
-date: 2021-03-06T21:06:54.646Z
+date: 2021-08-10T13:00:11.465Z
 description: 使いやすそうな小型のATSAMD21の開発ボードを紹介します
 image: /img/cb-basic.png
 tags:
