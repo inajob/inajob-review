@@ -1,6 +1,6 @@
 ---
 title: モバイルゲーム機PewPewの液晶付きバージョン「PewPew M4」
-date: 2021-03-06T21:18:46.198Z
+date: 2021-08-11T11:00:32.965Z
 description: モバイルゲーム機PewPewの液晶付きバージョン「PewPew M4」を紹介します。
 image: /img/pewpew-m4.jpg
 tags:
