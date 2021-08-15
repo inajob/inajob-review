@@ -1,19 +1,16 @@
 ---
-title: 3Dプリンタ製の1つの大きな7セグメントLEDによる時計
-date: 2021-08-14T23:42:06.269Z
-description: 3Dプリンタで作られた1つの大きな7セグメントLEDを使った時計の作例です。
-image: img/single-7seg-clock.jpg
+title: プラズマカッターにペンプロッタ機能を実装する
+date: 2021-08-15T00:00:42.992Z
+description: プラズマカッターにペンプロッタの機能を実装し、後加工の指示などを自動で書き込めるようにした作例を紹介します。
 tags:
-  - 時計
-  - 7セグ
-  - Arduino
+  - CNC
+  - HACK
+  - プロッタ
 ---
-[DIY 3D Printed Single Digit Arduino Clock](https://www.instructables.com/DIY-3D-Printed-Single-Digit-Arduino-Clock/)から発見。画像もここから転載。
+[PLASMA CUTTER + SHARPIE IS SURPRISINGLY USEFUL](https://hackaday.com/2020/04/10/plasma-cutter-sharpie-is-surprisingly-useful/)から発見。画像もここから転載。
 
-3Dプリンタで作られた大きな1つの7セグメントLEDを使った時計です。
+プラズマカッターにペンプロッター機能を付け足すというHACKです。
 
-時計を表示するには時、分など複数の7セグメントLEDを使いますが、この作品では、数字を順番に表示することで1つの7セグメントLEDだけで時計を実現しています。
+折り曲げる部分や、穴開けの指示などを、プラズマカッターの加工と同時に行うことが出来るので便利そうです。
 
-3Dプリンタとシリアル制御のLEDを組み合わせて作られた7セグメントLEDの完成度も高く、インテリアとしても面白い作品となっています。
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/7RFMyd88wfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/c3LhK2SAusk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
