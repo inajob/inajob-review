@@ -1,6 +1,6 @@
 ---
 title: 気象衛星の通信データをSDRで受信する
-date: 2021-03-13T11:07:22.355Z
+date: 2021-03-13T11:00:22.355Z
 description: 気象衛星のデータは個人でも比較的簡単に受信できるようです。
 image: /img/noaa.png
 tags:
