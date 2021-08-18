@@ -2,7 +2,7 @@
 title: 対話型のシェルでArduinoを操作する
 date: 2021-03-13T11:41:02.815Z
 description: 対話型のシェルでArduinoを操作できるようになるファームウェア Piconomixを紹介します。
-image: img/piconomix.gif
+image: /img/piconomix.gif
 tags:
   - Arduino
 ---
