@@ -2,7 +2,7 @@
 title: XY軸を2つの腕で操作するという少し変わったタイプの3Dプリンタ
 date: 2021-03-16T21:29:08.989Z
 description: XY軸を2つの腕で操作するという少し変わったタイプの3Dプリンタの作例を紹介します。
-image: img/scara-3d-printer.jpg
+image: /img/scara-3d-printer.jpg
 tags:
   - 3Dプリンタ
   - ""
