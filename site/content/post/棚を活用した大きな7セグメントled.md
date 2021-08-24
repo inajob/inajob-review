@@ -2,7 +2,7 @@
 title: 棚にもなる大きな7セグメントLED
 date: 2021-03-26T11:26:28.212Z
 description: 大きな7セグメントLEDの作例です。7セグメントLED自体が棚になるという構成がナイスアイデアです。
-image: img/hidden-clock-shelf.jpg
+image: /img/hidden-clock-shelf.jpg
 tags:
   - 7セグ
   - 3Dプリンタ
