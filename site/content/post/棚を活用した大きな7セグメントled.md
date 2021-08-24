@@ -1,6 +1,6 @@
 ---
 title: 棚にもなる大きな7セグメントLED
-date: 2021-03-26T11:26:28.212Z
+date: 2021-08-24T11:00:32.409Z
 description: 大きな7セグメントLEDの作例です。7セグメントLED自体が棚になるという構成がナイスアイデアです。
 image: /img/hidden-clock-shelf.jpg
 tags:
