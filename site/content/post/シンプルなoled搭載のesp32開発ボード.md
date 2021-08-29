@@ -1,6 +1,6 @@
 ---
 title: シンプルなOLED搭載のESP32開発ボード
-date: 2021-03-28T00:53:00.402Z
+date: 2021-08-29T11:00:19.398Z
 description: シンプルなOLEDが搭載されたESP32の開発ボードを紹介します。
 image: /img/makepython-esp32.jpg
 tags:
