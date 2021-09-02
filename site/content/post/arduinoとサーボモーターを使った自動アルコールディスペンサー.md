@@ -1,6 +1,6 @@
 ---
 title: Arduinoとサーボモーターを使った自動アルコールディスペンサー
-date: 2021-04-20T18:17:48.406Z
+date: 2021-09-02T10:00:34.941Z
 description: 手をかざすだけでハンドソープを射出する自動アルコールディスペンサーの作例を紹介します。
 image: /img/automatic-hand-sanitizer-dispenser.png
 tags:
