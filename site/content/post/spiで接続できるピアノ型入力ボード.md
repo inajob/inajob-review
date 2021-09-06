@@ -2,7 +2,7 @@
 title: SPIで接続できるピアノ型入力ボード
 date: 2021-08-14T23:28:42.263Z
 description: SPIで接続できるピアノ型の入力ボードを紹介します。
-image: img/piano-board.jpg
+image: /img/piano-board.jpg
 tags:
   - 楽器
 ---
