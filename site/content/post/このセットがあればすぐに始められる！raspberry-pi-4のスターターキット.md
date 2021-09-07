@@ -10,25 +10,27 @@ tags:
 
 [以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)も、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。（[Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
-
 ## Catda® Raspberry pi 4 Development Board 8G Motherboard Computer AI Intelligent Programming Python Kit とは？
 
 要はRaspberryPi4 始めようキット的なものです。
 
 RaspberryPi 4本体に加えて以下が含まれています。
 
-- アクリルサンドイッチのケース
-- USB Type-CのACアダプタ(5V3A、スイッチ付き)
-- microHDMI-HDMIケーブル
-- 32GB microSDカード
-- microSDカードリーダー
-- ファン
-- ヒートシンク4つ
+* アクリルサンドイッチのケース
+* USB Type-CのACアダプタ(5V3A、スイッチ付き)
+* microHDMI-HDMIケーブル
+* 32GB microSDカード
+* microSDカードリーダー
+* ファン
+* ヒートシンク4つ
 
+![](img/raspberry-pi-4-set.jpg)
 
 ケースはアクリル板を重ねて作られた、いわゆる「アクリルサンドイッチ式」のケースです。
 
 アクリル板には薄いフィルムが付いているので、爪でカリカリやって剥がします。
+
+![](img/raspberry-pi-4-film.jpg)
 
 ケースにはファンを取り付けるためのネジ穴があり、結構発熱するRaspberryPi4を冷やしてくれます。
 ファンの電源はRaspberryPi 4のGPIOから取得します。
@@ -36,14 +38,17 @@ RaspberryPi 4本体に加えて以下が含まれています。
 熱くなる部品には、付属しているヒートシンクをつけることで、放熱効率を高めることができます。
 （これがどの程度効果があるのかは、謎ですが・・）
 
+![](img/raspberry-pi-4-assemble.jpg)
 
 ACアダプタは5V3Aとそこそこに大容量で、ケーブル途中にスイッチが付いており、USBケーブルを抜かずに電源をOFF/ON出来て非常に便利です。
+
+![](img/raspberry-pi-4-ac.jpg)
 
 ## セットアップ
 
 まぁ、セットアップは普通ネットを探せばやり方が見つかるので、それに従います。
 
-自分は [https://www.raspberrypi.org/software/](https://www.raspberrypi.org/software/) からRaspberry Pi Imagerをダウンロードして、Raspberry Pi OS(32bit)をインストールしました。
+自分は <https://www.raspberrypi.org/software/> からRaspberry Pi Imagerをダウンロードして、Raspberry Pi OS(32bit)をインストールしました。
 8GBのメモリを最大限に生かすためには、64bitのOSを選択すべきなのでしょうが、ひとまず慣れているRaspberry Pi OSにしました。
 
 付属していたmicroSDカードリーダーで、これまた付属していたmicroSDカードに問題なくOSイメージを書き込むことが出来ました。
@@ -76,4 +81,3 @@ Raspberry Pi 4はかなりパワフルなLinuxボードで、普段使いのパ�
 有効期限は**2021/XX/XX**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 * [Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit の購入はこちら](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)
-
