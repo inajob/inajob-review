@@ -1,6 +1,6 @@
 ---
 title: Arduinoで作るボーカルエフェクタ
-date: 2021-03-28T10:57:56.909Z
+date: 2021-09-07T12:00:36.477Z
 description: 8bitのArduinoで実装されたチープなサウンドが魅力のボーカルエフェクタの作例です
 image: /img/arduino-voice-effector.jpg
 tags:
