@@ -43,7 +43,7 @@ ACアダプタは5V3Aとそこそこに大容量で、ケーブル途中にス�
 
 まぁ、セットアップは普通ネットを探せばやり方が見つかるので、それに従います。
 
-自分は https://www.raspberrypi.org/software/ からRaspberry Pi Imagerをダウンロードして、Raspberry Pi OS(32bit)をインストールしました。
+自分は [https://www.raspberrypi.org/software/](https://www.raspberrypi.org/software/) からRaspberry Pi Imagerをダウンロードして、Raspberry Pi OS(32bit)をインストールしました。
 8GBのメモリを最大限に生かすためには、64bitのOSを選択すべきなのでしょうが、ひとまず慣れているRaspberry Pi OSにしました。
 
 付属していたmicroSDカードリーダーで、これまた付属していたmicroSDカードに問題なくOSイメージを書き込むことが出来ました。
