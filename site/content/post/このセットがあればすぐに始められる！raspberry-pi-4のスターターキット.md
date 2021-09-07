@@ -64,6 +64,8 @@ RaspberryPi 4は5GHzのWiFiにも対応していたので、そちらを設定�
 
 で、手近にあったキーボードとマウスを取り付け、付属していたHDMIケーブルでディスプレイとつないで、付属の電源ケーブルを繋いで、起動させました。
 
+![](img/raspberry-pi-4-work.jpg)
+
 元々持っていたRaspberry Pi 3と比べると明らかに性能が良くなっており、ブラウジング用途などであれば普段使いとしても全く問題なく利用できると感じました。
 
 ## まとめ
@@ -76,15 +78,13 @@ Raspberry Pi 4はかなりパワフルなLinuxボードで、普段使いのパ�
 
 # クーポンコード
 
-さて、ここまで紹介してきた[Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)ですが、今回Banggoodの提供という事で、<span style="color:red">**15%OFF**</span>で購入できるクーポンを頂いています。
+さて、ここまで紹介してきた[Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)ですが、今回Banggoodの提供という事で、<span style="color:red">**$XX.XX**</span>で購入できるクーポンを頂いています。
 
 コード：
-<span style="color:red">**BGec4b3a**</span> (09/30まで)
+<span style="color:red">**XXXXXX**</span> (XX/XXまで)
 
 [Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
-有効期限は**2021/09/30**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
+有効期限は**2021/XX/XX**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
 * [Catda® Raspberry pi 4 Development Board 2G 4G 8G Motherboard Computer AI Intelligent Programming Python Kit の購入はこちら](https://www.banggood.com/Catda-Raspberry-pi-4-Development-Board-2G-4G-8G-Motherboard-Computer-AI-Intelligent-Programming-Python-Kit-p-1838815.html?p=0M092355466124202012)
-
-Banggoodでは、[「15周年記念セール」](https://www.banggood.com/marketing-jpcoupon/tid-8783.html?utmid=17856&p=0M092355466124202012)ということで、ほかにも様々なガジェットを格安で販売しているようです。気になる人はのぞいてみてください。
