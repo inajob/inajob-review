@@ -1,6 +1,6 @@
 ---
 title: このセットがあればすぐに始められる！Raspberry pi 4のスターターキット
-date: 2021-09-07T10:51:45.063Z
+date: 2021-09-08T12:00:45.060Z
 description: Raspberry Pi 4で遊ぶのに必要な部品がすべてそろったスターターキットを紹介します。
 image: img/raspberry-pi-4-cover.png
 tags:
