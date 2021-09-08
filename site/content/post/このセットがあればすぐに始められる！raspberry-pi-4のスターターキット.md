@@ -25,13 +25,13 @@ RaspberryPi 4本体に加えて以下が含まれています。
 * ファン
 * ヒートシンク4つ
 
-![](img/raspberry-pi-4-set.jpg)
+![](../../img/raspberry-pi-4-set.jpg)
 
 ケースはアクリル板を重ねて作られた、いわゆる「アクリルサンドイッチ式」のケースです。
 
 アクリル板には薄いフィルムが付いているので、爪でカリカリやって剥がします。
 
-![](img/raspberry-pi-4-film.jpg)
+![](../../img/raspberry-pi-4-film.jpg)
 
 ケースにはファンを取り付けるためのネジ穴があり、結構発熱するRaspberryPi4を冷やしてくれます。
 ファンの電源はRaspberryPi 4のGPIOから取得します。
@@ -39,15 +39,15 @@ RaspberryPi 4本体に加えて以下が含まれています。
 熱くなる部品には、付属しているヒートシンクをつけることで、放熱効率を高めることができます。
 （これがどの程度効果があるのかは、謎ですが・・）
 
-![](img/raspberry-pi-4-assemble.jpg)
+![](../../img/raspberry-pi-4-assemble.jpg)
 
 ACアダプタは5V3Aとそこそこに大容量で、ケーブル途中にスイッチが付いており、USBケーブルを抜かずに電源をOFF/ON出来て非常に便利です。
 
-![](img/raspberry-pi-4-ac.jpg)
+![](../../img/raspberry-pi-4-ac.jpg)
 
 Raspberry Pi 4は今回はメモリは最大の8GB搭載のものにしました。またRaspberry Pi 4は技適マークがついているものと、付いていないものがあるのですが、私の注文したものについては技適マークがついていることを確認しました。（商品写真には付いていなかったりするので、注文時期などによって違いがあるかもしれません）
 
-![](img/raspberry-pi-4-board.jpg)
+![](../../img/raspberry-pi-4-board.jpg)
 
 ## セットアップ
 
@@ -64,7 +64,7 @@ RaspberryPi 4は5GHzのWiFiにも対応していたので、そちらを設定�
 
 で、手近にあったキーボードとマウスを取り付け、付属していたHDMIケーブルでディスプレイとつないで、付属の電源ケーブルを繋いで、起動させました。
 
-![](img/raspberry-pi-4-work.jpg)
+![](../../img/raspberry-pi-4-work.jpg)
 
 元々持っていたRaspberry Pi 3と比べると明らかに性能が良くなっており、ブラウジング用途などであれば普段使いとしても全く問題なく利用できると感じました。
 
