@@ -1,6 +1,6 @@
 ---
 title: Arduino UNOで作られたWebページが見られる端末
-date: 2021-03-29T20:51:49.274Z
+date: 2021-09-09T12:00:35.995Z
 description: Arduino UNOで作られたWebページが見られる端末の作例を紹介します。
 image: /img/pip-arduino-web-browser.jpg
 tags:
