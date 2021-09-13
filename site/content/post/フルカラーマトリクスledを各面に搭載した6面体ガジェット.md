@@ -2,7 +2,7 @@
 title: フルカラーマトリクスLEDを各面に搭載した6面体ガジェット
 date: 2021-03-29T21:12:32.212Z
 description: フルカラーマトリクスLEDを各面に搭載した6面体ガジェットの作例を紹介します。
-image: img/pikocube.jpg
+image: /img/pikocube.jpg
 tags:
   - LED
   - ESP8285
