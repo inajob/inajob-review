@@ -1,6 +1,6 @@
 ---
 title: ATSAMD20を用いたアナログ風デジタル時計
-date: 2021-04-23T17:36:08.981Z
+date: 2021-09-20T12:00:15.238Z
 description: ATSAMD20を用いたアナログ風デジタル時計の作例を紹介します。
 image: /img/decko.png
 tags:
