@@ -2,7 +2,7 @@
 title: BluePillボードを用いた暗号生成・復号専用ガジェット
 date: 2021-04-23T17:54:07.482Z
 description: BluePillボードを用いた暗号生成・復号専用ガジェットの作例を紹介します。
-image: img/paranoiabox.jpg
+image: /img/paranoiabox.jpg
 tags:
   - BluePill
   - STM32F103
