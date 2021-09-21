@@ -1,6 +1,6 @@
 ---
 title: BluePillボードを用いた暗号生成・復号専用ガジェット
-date: 2021-04-23T17:54:07.482Z
+date: 2021-09-21T11:30:38.011Z
 description: BluePillボードを用いた暗号生成・復号専用ガジェットの作例を紹介します。
 image: /img/paranoiabox.jpg
 tags:
