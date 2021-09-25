@@ -2,6 +2,7 @@
 title: 自作キーボードによさそうなXDAのキーキャップセット
 date: 2021-09-25T11:17:51.572Z
 description: 自作キーボードのキーキャップによさそうなXDAプロファイルのキーキャップのセットを紹介します。
+image: img/autumn-keycaps-cover.png
 tags:
   - Banggood
   - キーボード
