@@ -10,10 +10,11 @@ tags:
 
 [以前紹介した](../../post/中国ecサイトbanggood/)ようにこのブログは[Banggood](https://jp.banggood.com/?p=0M092355466124202012)と提携させていただいており、今回紹介する[129 Keys Yellow Autumn Keycap Set XDA Profile PBT Sublimation Keycaps for Mechanical Keyboards - Yellow](https://www.banggood.com/129-Keys-Yellow-Autumn-Keycap-Set-XDA-Profile-PBT-Sublimation-Keycaps-for-Mechanical-Keyboards-p-1825709.html?p=0M092355466124202012)(以下 「129 Keys Yellow Autumn Keycap Set」)も、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)からいただいたものとなります。（[129 Keys Yellow Autumn Keycap Set](https://www.banggood.com/129-Keys-Yellow-Autumn-Keycap-Set-XDA-Profile-PBT-Sublimation-Keycaps-for-Mechanical-Keyboards-p-1825709.html?p=0M092355466124202012)のレビューがしたい！と言ったのは自分なので、[Banggood](https://jp.banggood.com/?p=0M092355466124202012)が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
-
 ## 129 Keys Yellow Autumn Keycap Set とは？
 
 メカニカルキーボード用のキーキャップのセットです。
+
+![](img/autumun-keycaps-first.jpg)
 
 普通の人には縁の無いかもしれませんが、この商品は「自作キーボード」を楽しむ人のためのものです。
 
@@ -43,6 +44,8 @@ tags:
 
 列によってキーキャップの形が変化しないプロファイルとしては DSAプロファイルや、XDAプロファイルがあります。自作キーボード用のキーキャップとしては、これらのプロファイルを使うことが多いようです。
 
+TODO:
+
 この商品はXDAプロファイルです。
 
 ## キーキャップのサイズ
@@ -58,6 +61,8 @@ tags:
 
 またイラストの付いた、なんでも使えそうなキーキャップもたくさん付属しており、特殊なマクロキーや、足りないキーの代わりに使うこともできます。
 
+![](img/autumn-keycaps-all.jpg)
+
 ## その他
 
 キーに刻印されている記号は英字配列のものです、個人的には日本語配列のものが好きなのですが、海外で出回っているキーキャップで日本語配列の物はないのでそこは仕方がないです。
@@ -67,6 +72,10 @@ tags:
 ## 使ってみた
 
 私が自作した39%キーボードに取り付けてみました。
+
+![](img/autumn-keycaps-impl.jpg)
+
+
 このキーボードはすべてのキーが同じサイズ(1U)なので、各種機能キーも1Uサイズのものが必要です。足りないキーはイラストの刻印のキーを使いましたが、それっぽく仕上げることが出来ました。
 
 ## まとめ
