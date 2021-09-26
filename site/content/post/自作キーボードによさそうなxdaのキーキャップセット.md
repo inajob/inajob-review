@@ -1,6 +1,6 @@
 ---
 title: 自作キーボードによさそうなXDAのキーキャップセット
-date: 2021-09-25T11:17:51.572Z
+date: 2021-09-26T12:00:37.107Z
 description: 自作キーボードのキーキャップによさそうなXDAプロファイルのキーキャップのセットを紹介します。
 image: img/autumn-keycaps-cover.png
 tags:
