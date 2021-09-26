@@ -15,7 +15,7 @@ tags:
 
 メカニカルキーボード用のキーキャップのセットです。
 
-![](img/autumun-keycaps-first.jpg)
+![](../../img/autumun-keycaps-first.jpg)
 
 普通の人には縁の無いかもしれませんが、この商品は「自作キーボード」を楽しむ人のためのものです。
 
@@ -45,7 +45,7 @@ tags:
 
 列によってキーキャップの形が変化しないプロファイルとしては DSAプロファイルや、XDAプロファイルがあります。自作キーボード用のキーキャップとしては、これらのプロファイルを使うことが多いようです。
 
-![](img/autumn-keycap-profile.jpg)
+![](../../img/autumn-keycap-profile.jpg)
 
 この商品はXDAプロファイルです。
 
@@ -60,11 +60,11 @@ tags:
 
 この商品は様々なサイズのキーが用意してあり、例えばShiftキーであれば2.5U(多分), 2.25U（多分）, 2U, 1.75U, 1.25U, 1Uと6つのサイズが入っています。
 
-![](img/autumn-keycap-shifts.jpg)
+![](../../img/autumn-keycap-shifts.jpg)
 
 またイラストの付いた、なんでも使えそうなキーキャップもたくさん付属しており、特殊なマクロキーや、足りないキーの代わりに使うこともできます。
 
-![](img/autumn-keycaps-all.jpg)
+![](../../img/autumn-keycaps-all.jpg)
 
 ## その他
 
@@ -76,7 +76,7 @@ tags:
 
 私が自作した39%キーボードに取り付けてみました。
 
-![](img/autumn-keycaps-impl.jpg)
+![](../../img/autumn-keycaps-impl.jpg)
 
 このキーボードはすべてのキーが同じサイズ(1U)なので、各種機能キーも1Uサイズのものが必要です。足りないキーはイラストの刻印のキーを使いましたが、それっぽく仕上げることが出来ました。
 
