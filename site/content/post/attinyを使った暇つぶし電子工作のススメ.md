@@ -1,6 +1,6 @@
 ---
 title: ATTinyを使った暇つぶし電子工作のススメ
-date: 2021-06-17T12:01:25.578Z
+date: 2021-10-05T22:00:34.578Z
 description: 安くて結構何でもできるATTinyシリーズを使った暇つぶし電子工作の紹介です。
 image: /img/attiny_breads.jpg
 tags:
