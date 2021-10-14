@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタ製の1つの大きな7セグメントLEDによる時計
-date: 2021-08-15T00:00:42.992Z
+date: 2021-10-14T11:00:57.976Z
 description: 3Dプリンタで作られた1つの大きな7セグメントLEDを使った時計の作例です。
 image: /img/single-7seg-clock.jpg
 tags:
