@@ -1,6 +1,6 @@
 ---
 title: 教会のパイプオルガンにMIDI入力がある
-date: 2021-09-08T17:48:27.755Z
+date: 2021-10-20T11:00:15.083Z
 description: この記事で紹介している教会のパイプオルガンにはMIDI入力端子があるようです。
 image: /img/midi_organ.png
 tags:
