@@ -2,7 +2,7 @@
 title: ステッピングモーターをロータリーエンコーダとして利用するHACK
 date: 2021-09-21T11:44:21.735Z
 description: ステッピングモーターをロータリーエンコーダとして利用するHACKを紹介します。
-image: img/step2rotary-encoder.jpg
+image: /img/step2rotary-encoder.jpg
 tags:
   - HACK
   - ステッピングモーター
