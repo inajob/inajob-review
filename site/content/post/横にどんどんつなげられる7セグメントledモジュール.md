@@ -1,6 +1,6 @@
 ---
 title: 横にどんどんつなげられる7セグメントLEDモジュール
-date: 2021-09-25T04:30:13.333Z
+date: 2021-10-28T11:00:52.079Z
 description: 格安マイコンを搭載した、横にどんどんつなげられる7セグメントLEDモジュールの作例を紹介します。
 image: /img/inteligent-7-seg.jpg
 tags:
