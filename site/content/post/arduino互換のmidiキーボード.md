@@ -7,7 +7,6 @@ tags:
   - Arduino
   - 音楽
   - 楽器
-  - MIDI
 ---
 [Mini-Tone Keyboard Badge](https://www.tindie.com/products/cybercitycircuits/mini-tone-keyboard-badge/)から発見。画像もここから転載。
 
