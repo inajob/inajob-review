@@ -2,7 +2,7 @@
 title: Arduino互換のMIDIキーボード
 date: 2021-09-25T04:51:12.418Z
 description: コンパクトなArduino互換のMIDIキーボードの作例を紹介します。
-image: img/arduino-midi-keyboard.jpg
+image: /img/arduino-midi-keyboard.jpg
 tags:
   - Arduino
   - 音楽
