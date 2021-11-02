@@ -2,7 +2,7 @@
 title: ESP32を搭載した携帯ゲーム機「ESPlay Micro」
 date: 2021-09-26T05:44:36.982Z
 description: ESP32をコアとした携帯ゲーム機を紹介します。
-image: img/esplay-micro.jpg
+image: /img/esplay-micro.jpg
 tags:
   - ゲーム機
   - ESP32
