@@ -2,7 +2,7 @@
 title: キーボード付きのLoRa端末
 date: 2021-09-26T07:01:30.570Z
 description: コンパクトでかわいいキーボード付きのLoRa端末の作例を紹介します。
-image: img/armachat.jpg
+image: /img/armachat.jpg
 tags:
   - LoRa
   - SAMD21
