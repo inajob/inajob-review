@@ -1,6 +1,6 @@
 ---
 title: キーボード付きのLoRa端末
-date: 2021-09-26T07:01:30.570Z
+date: 2021-11-03T22:00:55.159Z
 description: コンパクトでかわいいキーボード付きのLoRa端末の作例を紹介します。
 image: /img/armachat.jpg
 tags:
