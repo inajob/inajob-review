@@ -2,7 +2,7 @@
 title: 5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッド
 date: 2021-09-27T11:14:25.647Z
 description: 工夫された基板で5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッドを紹介します。
-image: img/minimacro5.jpg
+image: /img/minimacro5.jpg
 tags:
   - キーボード
   - QMK
