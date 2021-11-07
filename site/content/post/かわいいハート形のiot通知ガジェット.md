@@ -2,6 +2,7 @@
 title: かわいいハート形のIoT通知ガジェット
 date: 2021-11-07T05:36:20.840Z
 description: ドット絵風のハート形がかわいいIoT通知ガジェットの作例です。
+image: img/heart-notifier.jpg
 tags:
   - 3Dプリンタ
   - ESP8266
