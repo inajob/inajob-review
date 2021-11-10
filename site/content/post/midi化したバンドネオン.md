@@ -1,6 +1,6 @@
 ---
 title: MIDI化したバンドネオン
-date: 2021-10-11T10:52:36.163Z
+date: 2021-11-10T11:00:25.557Z
 description: 普通の楽器であるバンドネオンをMIDI出力できるように改造している作例を紹介します。
 image: /img/bandomidi.jpg
 tags:
