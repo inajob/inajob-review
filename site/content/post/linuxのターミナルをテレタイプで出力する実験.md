@@ -1,6 +1,6 @@
 ---
 title: Linuxのターミナルをテレタイプで出力する実験
-date: 2021-10-11T11:19:07.153Z
+date: 2021-11-14T11:00:57.714Z
 description: Linuxのターミナルをレトロなテレタイプで出力する実験を紹介します。
 image: /img/linux-with-real-teletype.jpg
 tags:
