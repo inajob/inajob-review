@@ -2,7 +2,7 @@
 title: Linuxのターミナルをテレタイプで出力する実験
 date: 2021-10-11T11:19:07.153Z
 description: Linuxのターミナルをレトロなテレタイプで出力する実験を紹介します。
-image: img/linux-with-real-teletype.jpg
+image: /img/linux-with-real-teletype.jpg
 tags:
   - Arduino
   - タイプライター
