@@ -2,7 +2,7 @@
 title: ゲームボーイアドバンスをESP32の力でBluetoothゲームコントローラにするHACK
 date: 2021-10-13T11:33:19.755Z
 description: ゲームボーイアドバンスの通信ポートを利用してESP32を接続しBluetoothゲームコントローラとして利用するHACKを紹介します。
-image: img/gba-meets-esp32.jpg
+image: /img/gba-meets-esp32.jpg
 tags:
   - ゲームボーイアドバンス
   - ESP32
