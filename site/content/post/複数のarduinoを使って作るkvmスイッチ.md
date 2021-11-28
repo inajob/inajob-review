@@ -2,7 +2,7 @@
 title: 複数のArduinoを使って作るKVMスイッチ
 date: 2021-10-19T11:16:13.770Z
 description: 複数のArduinoを使って作られたKVMスイッチの作例を紹介します。
-image: img/kvm-arduino.png
+image: /img/kvm-arduino.png
 ---
 [KVM USES MANY ARDUINOS](https://hackaday.com/2020/04/19/kvm-uses-many-arduinos/)から発見。画像もここから転載。
 
