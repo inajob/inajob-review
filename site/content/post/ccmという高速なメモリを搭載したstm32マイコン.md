@@ -1,6 +1,6 @@
 ---
 title: CCMという高速なメモリを搭載したSTM32マイコン
-date: 2021-10-19T11:26:23.063Z
+date: 2021-11-29T11:00:14.332Z
 description: STM32マイコンの中にはCCMと呼ばれる高速なメモリを搭載したものがあるようです。
 image: /img/stm32-ccm.jpg
 tags:
