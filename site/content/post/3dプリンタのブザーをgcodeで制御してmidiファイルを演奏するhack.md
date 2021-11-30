@@ -2,7 +2,7 @@
 title: 3Dプリンタのブザーをgcodeで制御してMIDIファイルを演奏するHACK
 date: 2021-10-19T11:34:36.384Z
 description: 3Dプリンタのブザーをgcodeで制御してMIDIファイルを演奏するHACKを紹介します。
-image: img/midibuzzergcode.jpg
+image: /img/midibuzzergcode.jpg
 tags:
   - 3Dプリンタ
   - HACK
