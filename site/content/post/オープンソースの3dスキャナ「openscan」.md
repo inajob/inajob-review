@@ -2,7 +2,7 @@
 title: オープンソースの3Dスキャナ「OpenSCAN」
 date: 2021-10-28T11:04:26.858Z
 description: 3Dプリンタなどで作った部品で構成されるオープンソースの3Dスキャナを紹介します。
-image: img/openscan.png
+image: /img/openscan.png
 tags:
   - 3Dプリンタ
   - 3Dスキャナ
