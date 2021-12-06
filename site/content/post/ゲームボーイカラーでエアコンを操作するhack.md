@@ -2,7 +2,7 @@
 title: ゲームボーイカラーでエアコンを操作するHACK
 date: 2021-11-07T04:00:49.122Z
 description: ゲームボーイカラーに搭載されている赤外線ポートを利用し、エアコンを操作する作例を紹介します。
-image: img/control-aircon-by-gbc.jpg
+image: /img/control-aircon-by-gbc.jpg
 tags:
   - HACK
   - 赤外線
