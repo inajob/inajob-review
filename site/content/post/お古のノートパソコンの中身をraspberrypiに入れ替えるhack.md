@@ -1,6 +1,6 @@
 ---
 title: お古のノートパソコンの中身をRaspberryPiに入れ替えるHACK
-date: 2021-11-07T04:44:05.634Z
+date: 2021-12-08T11:00:37.241Z
 description: 古くなったノートパソコンの筐体をそのまま利用し、RaspberryPiノートパソコンを作っています。
 image: /img/dellpitop.jpg
 tags:
