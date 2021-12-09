@@ -1,6 +1,6 @@
 ---
 title: NESコントローラを携帯ゲーム機に改造
-date: 2021-11-07T04:53:07.249Z
+date: 2021-12-09T12:00:52.197Z
 description: NESコントローラを改造して携帯ゲーム機に仕立て上げています。
 image: /img/nes-controller-gameconsole.jpg
 tags:
