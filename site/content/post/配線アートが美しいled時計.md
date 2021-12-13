@@ -1,6 +1,6 @@
 ---
 title: 配線アートが美しいLED時計
-date: 2021-11-07T05:29:51.851Z
+date: 2021-12-13T11:00:19.361Z
 description: 配線アートが美しいLED時計の作例です。
 image: /img/tedsclock_build.jpg
 tags:
