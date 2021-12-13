@@ -2,7 +2,7 @@
 title: 配線アートが美しいLED時計
 date: 2021-11-07T05:29:51.851Z
 description: 配線アートが美しいLED時計の作例です。
-image: img/tedsclock_build.jpg
+image: /img/tedsclock_build.jpg
 tags:
   - 時計
   - PIC16F84A
