@@ -1,6 +1,6 @@
 ---
 title: YouTube再生を制御するための無線フットスイッチ
-date: 2021-11-07T05:41:03.883Z
+date: 2021-12-15T11:00:08.079Z
 description: 楽器の練習中にさっとYouTube動画をコントロールするための無線フットスイッチの作例を紹介します。
 image: /img/wireless-youtube-footswitch.jpg
 tags:
