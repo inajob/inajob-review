@@ -2,7 +2,7 @@
 title: DIYリボンコントローラ
 date: 2021-11-11T12:26:03.563Z
 description: DIYでリボンコントローラを作る方法を紹介しています。
-image: img/diy-ribbon-controller.jpg
+image: /img/diy-ribbon-controller.jpg
 tags:
   - DIY
   - センサー
