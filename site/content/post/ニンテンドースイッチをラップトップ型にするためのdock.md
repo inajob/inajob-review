@@ -2,7 +2,7 @@
 title: ニンテンドースイッチをラップトップ型にするためのDock
 date: 2021-11-23T05:10:05.710Z
 description: ニンテンドースイッチをラップトップ型にするためのDockの作例を紹介します。
-image: img/switchlaptop.jpg
+image: /img/switchlaptop.jpg
 tags:
   - HACK
 ---
