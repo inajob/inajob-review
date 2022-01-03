@@ -2,7 +2,7 @@
 title: CNCで作成されたプランターハンガー
 date: 2021-11-23T05:17:24.655Z
 description: CNCを使って板材から作られたプランターハンガーの作例を紹介します。
-image: img/planthanger.jpg
+image: /img/planthanger.jpg
 tags:
   - CNC
 ---
