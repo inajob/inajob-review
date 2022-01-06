@@ -2,7 +2,7 @@
 title: 既存のキーボードをQMK対応するために大改造
 date: 2021-11-23T05:45:58.434Z
 description: 既存のキーボードをQMK対応するために大改造している作例を紹介します。
-image: img/wasdqmk.jpg
+image: /img/wasdqmk.jpg
 tags:
   - キーボード
   - Teensy2.0
