@@ -1,6 +1,6 @@
 ---
 title: 既存のキーボードをQMK対応するために大改造
-date: 2021-11-23T05:45:58.434Z
+date: 2022-01-06T11:00:31.160Z
 description: 既存のキーボードをQMK対応するために大改造している作例を紹介します。
 image: /img/wasdqmk.jpg
 tags:
