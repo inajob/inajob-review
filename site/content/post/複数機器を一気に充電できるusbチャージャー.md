@@ -1,6 +1,6 @@
 ---
 title: 複数機器を一気に充電できるUSBチャージャー
-date: 2022-01-10T11:56:53.312Z
+date: 2022-01-10T12:00:19.268Z
 description: 複数機器を一気に充電できる大容量USBチャージャーを紹介します。
 image: img/usb-charger-docking-station-cover.png
 tags:
@@ -20,6 +20,8 @@ USB機器にはそれぞれACアダプタがついていることが多いです
 
 ## USLION US Plug 8-Port USB Charger Docking Station とは
 
+![](img/usb-charger-docking-station-overview.jpg)
+
 大容量のUSB電源です。
 
 * 最大8.2A
@@ -30,6 +32,8 @@ USB機器にはそれぞれACアダプタがついていることが多いです
 Type-C接続のスマートフォン、USB3.0接続のスマートフォン、その他 Bluetoothイヤホンや、スマートウォッチなどをすべてつなげても余裕で容量が足ります。
 
 デスクに1つあるととても重宝するガジェットです。
+
+![](img/usb-charger-docking-staion-power-on.jpg)
 
 ## クーポンコード
 
