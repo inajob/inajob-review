@@ -7,12 +7,15 @@ tags:
   - LED
   - Wordclock
 ---
-[This Word Clock Is as Small as They Get](https://blog.hackster.io/this-word-clock-is-as-small-as-they-get-45c54ef1e19c)から発見。画像もここから転載。
+[This Word Clock Is as Small as They Get
+](https://blog.hackster.io/this-word-clock-is-as-small-as-they-get-45c54ef1e19c)から発見。画像もここから転載。
 
 電子工作の作例としてWordClockをよく見ますが、これはその中でも群を抜いてかっこいいものです。
 
 [Small Word Clock](https://hackaday.io/project/164406-small-word-clock)により詳しい製作ログが公開されていますが、このアルファベットを表示しているマスク部分も基板として作成しているようです。ソルダーレジストをアルファベット型に抜くことで、この写真のような良い感じの表示を実現しているようです。
 
 CPUはPIC16F887 を使っているようです。
+
+[Small Word Clock Kit](https://www.makerfabs.com/small-word-clock-kit.html)にて格安のキットを販売しているようです。
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/fYtS_n_GhCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
