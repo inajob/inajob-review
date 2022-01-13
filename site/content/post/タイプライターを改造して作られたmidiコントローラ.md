@@ -1,6 +1,6 @@
 ---
 title: タイプライターを改造して作られたMIDIコントローラ
-date: 2021-11-23T06:14:42.070Z
+date: 2022-01-13T12:00:18.016Z
 description: タイプライターを改造してMIDIコントローラを作った事例を紹介します。
 image: /img/midi-typewriter.png
 tags:
