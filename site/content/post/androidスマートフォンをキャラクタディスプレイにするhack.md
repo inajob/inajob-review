@@ -1,6 +1,6 @@
 ---
 title: AndroidスマートフォンをキャラクタディスプレイにするHACK
-date: 2021-12-02T10:57:04.737Z
+date: 2022-01-20T12:00:21.437Z
 description: AndroidスマートフォンをキャラクタディスプレイにするHACKを紹介します。
 image: /img/hd44780-android.jpg
 tags:
