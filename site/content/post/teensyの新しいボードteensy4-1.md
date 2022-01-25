@@ -1,6 +1,6 @@
 ---
 title: Teensyの新しいボードTeensy4.1
-date: 2021-12-13T09:41:05.300Z
+date: 2022-01-25T23:00:06.595Z
 description: Teensyシリーズの中で最もパワフルなボードが登場しました。
 image: /img/teensy-4.1.jpg
 tags:
