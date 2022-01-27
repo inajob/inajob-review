@@ -1,6 +1,6 @@
 ---
 title: 自作のPick And Place マシン
-date: 2021-12-13T11:21:02.960Z
+date: 2022-01-27T22:00:42.068Z
 description: OpenPNPを利用して作られた自作のPick And Placeマシンの作例を紹介します。
 image: /img/open-soure-pick-and-place-machine.jpg
 tags:
