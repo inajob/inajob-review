@@ -44,18 +44,19 @@ WiFiで指示を受け取り、感熱紙に文字や画像を印刷するよう�
 
 この初期ファームウェアのソースコードは以下に存在しています。
 
-https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino
+[https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino](https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino)
 
 このリポジトリをGitを使い手元にCloneし、Arduino IDEで開きます。
 
 Arduino IDEでATOM Liteの開発をするためにはUSBシリアルドライバのインストールと、ボードのインストール・ライブラリのインストールが必要です。以下を参考に設定します。
 
-https://docs.m5stack.com/en/quick_start/atom/arduino
+[https://docs.m5stack.com/en/quick_start/atom/arduino](https://docs.m5stack.com/en/quick_start/atom/arduino)
 
 FactoryTest.inoがビルドできることを確認出来たら、少し内容を修正します。
 
 具体的には、この80行目の後に `preferences.putBool("PRINTER_MODE", APMode);`という行を入れます。
-https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130
+
+[https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130](https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130)
 
 この修正を行ったFactoryTest.inoを一度書き込んで実行すれば、後は元に戻したFactoryTest.inoでもうまく動作します。
 
@@ -131,7 +132,7 @@ ATOM Printerのライブラリを使わずとも、シリアル通信で制御�
 
 この機能を使うためには、プリンタ用に画像ファイルを変換する必要がありますが、うれしいことにこの変換ツールを公開してくれている人がいました。
 
-https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2
+[https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2](https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2)
 
 このツールに2値のビットマップ画像をアップロードすることで、Arduinoで利用できる配列のソースコードに変換することが出来ます。
 
