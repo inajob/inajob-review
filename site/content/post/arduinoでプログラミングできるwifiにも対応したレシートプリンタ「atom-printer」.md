@@ -2,7 +2,7 @@
 title: ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」
 date: 2022-01-31T12:30:48.531Z
 description: M5Stack社のレシートプリンタとATOM Liteを組み合わせた製品である「ATOM Printer」のレビューです。
-image: img/atom-printer-cover.jpg
+image: /img/atom-printer-cover.jpg
 tags:
   - Banggood
   - m5stack
@@ -28,7 +28,7 @@ WiFiで指示を受け取り、感熱紙に文字や画像を印刷するよう�
 * ボール紙による筐体
 * UARTによる制御
 
-![](img/atom-printer-telec.jpg)
+![](../../img/atom-printer-telec.jpg)
 
 ## 使用前の準備
 
@@ -45,7 +45,7 @@ ACアダプタは12V2.5A以上のものが必要と書いてありましたが�
 症状としては、AC12Vで電源を入れた時にプリンタから「Mode: UIFLOW」「WiFi Password Erro！」という文字が延々と印刷されるというものです。
 期待する挙動としてはATOM Liteのボタンを押すことでModeがAPとなることなのですが、どうもこれがうまく動かないようです。
 
-![](img/atom-printer-error.jpg)
+![](../../img/atom-printer-error.jpg)
 
 ここまでの症状が同じ場合は、以下の手順で復旧が出来ます。
 
@@ -95,7 +95,7 @@ APモードで起動したATOM PrinterはWiFiのAPとして振舞います。
 
 英字はもちろん日本語も問題なく印刷することが確認できました。
 
-![](img/atom-printer-first-print.jpg)
+![](../../img/atom-printer-first-print.jpg)
 
 ## 独自のプログラムを書き込んでみる
 
@@ -194,7 +194,7 @@ void loop()
 
 無事画像を印刷することが出来ました
 
-![](img/atom-printer-image-print.jpg)
+![](../../img/atom-printer-image-print.jpg)
 
 ## 思いつく応用例
 
@@ -220,7 +220,7 @@ ATOM Printerは面白い製品ですが、ちょっと訳アリの製品でも�
 自分が受け取ったATOM Printerは角がぶつけられて、曲がってしまっていました。
 これは運送業者が悪いというよりは、この製品の耐久性や、梱包の問題だと感じました。
 
-![](img/atom-printer-package.jpg)
+![](../../img/atom-printer-package.jpg)
 
 本体が壊れて届くことはないと思いますが、筐体が凹んでいるのはもう仕様かな、、という感じでした
 
