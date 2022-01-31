@@ -239,12 +239,12 @@ ATOM Printerは開発者向け製品で、どうせ使っていく中で初期�
 
 この記事を作るにあたりLang-shipさんの記事に非常に助けられました。合わせて読んでみるとATOM　Printerのことがもっと詳しくわかりますよ！
 
-- [ATOM Printerを買った](https://lang-ship.com/blog/work/atom-printer/)
-- [(K118)ATOM PRINTER](http://m5stack.lang-ship.com/catalog/products/base/k118_atom-printer/)
+* [ATOM Printerを買った](https://lang-ship.com/blog/work/atom-printer/)
+* [(K118)ATOM PRINTER](http://m5stack.lang-ship.com/catalog/products/base/k118_atom-printer/)
 
 公式ページもとても参考になりました
 
-- [ATOM Printer](https://docs.m5stack.com/en/atom/atom_printer)
+* [ATOM Printer](https://docs.m5stack.com/en/atom/atom_printer)
 
 ## まとめ
 
@@ -259,7 +259,7 @@ WiFi経由で接続できるという事で、スマートフォンアプリや�
 さて、ここまで紹介してきた[M5Stack ATOM Printer](https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012)ですが、今回Banggoodの提供という事で、<span style="color:red">$69.99 → **$62.99**</span>で購入できるクーポンを頂いています。
 
 コード：
-<span style="color:red">**BGJPM5**</span> (1/31まで)
+<span style="color:red">**BGJPM5**</span> (2/28まで)
 
 [M5Stack ATOM Printer](https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012)をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 
