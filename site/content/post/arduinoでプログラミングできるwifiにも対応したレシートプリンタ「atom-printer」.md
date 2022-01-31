@@ -235,6 +235,17 @@ ATOM Printerは開発者向け製品で、どうせ使っていく中で初期�
 筐体に制御コードが書かれていますが、BMP Printの制御コードの記載がおかしいです。（Modeが無い）
 まぁわかっていれば大丈夫なのですが、少し残念です。
 
+## 参考
+
+この記事を作るにあたりLang-shipさんの記事に非常に助けられました。合わせて読んでみるとATOM　Printerのことがもっと詳しくわかりますよ！
+
+- [ATOM Printerを買った](https://lang-ship.com/blog/work/atom-printer/)
+- [(K118)ATOM PRINTER](http://m5stack.lang-ship.com/catalog/products/base/k118_atom-printer/)
+
+公式ページもとても参考になりました
+
+- [ATOM Printer](https://docs.m5stack.com/en/atom/atom_printer)
+
 ## まとめ
 
 ATOM Printerがあれば、プリンタを使ったプロトタイピングを、ハードウェアの設計なしに実現することが出来ます。
