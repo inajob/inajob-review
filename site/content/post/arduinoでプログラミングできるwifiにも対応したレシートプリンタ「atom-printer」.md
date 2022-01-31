@@ -2,6 +2,7 @@
 title: ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」
 date: 2022-01-31T11:26:05.344Z
 description: M5Stack社のレシートプリンタとATOM Liteを組み合わせた製品である「ATOM Printer」のレビューです。
+image: img/atom-printer-cover.jpg
 tags:
   - Banggood
   - m5stack
