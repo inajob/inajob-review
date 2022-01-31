@@ -22,10 +22,12 @@ WiFiで指示を受け取り、感熱紙に文字や画像を印刷するよう�
 
 ## 仕様
 
-- ATOM Lite: ESP32-Pico-D4 4MB Flash
-- 技適付き
-- ボール紙による筐体
-- UARTによる制御
+* ATOM Lite: ESP32-Pico-D4 4MB Flash
+* 技適付き
+* ボール紙による筐体
+* UARTによる制御
+
+![](img/atom-printer-telec.jpg)
 
 ## 使用前の準備
 
@@ -40,23 +42,25 @@ WiFiで指示を受け取り、感熱紙に文字や画像を印刷するよう�
 症状としては、AC12Vで電源を入れた時にプリンタから「Mode: UIFLOW」「WiFi Password Erro！」という文字が延々と印刷されるというものです。
 期待する挙動としてはATOM Liteのボタンを押すことでModeがAPとなることなのですが、どうもこれがうまく動かないようです。
 
+![](img/atom-printer-error.jpg)
+
 ここまでの症状が同じ場合は、以下の手順で復旧が出来ます。
 
 この初期ファームウェアのソースコードは以下に存在しています。
 
-[https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino](https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino)
+<https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino>
 
 このリポジトリをGitを使い手元にCloneし、Arduino IDEで開きます。
 
 Arduino IDEでATOM Liteの開発をするためにはUSBシリアルドライバのインストールと、ボードのインストール・ライブラリのインストールが必要です。以下を参考に設定します。
 
-[https://docs.m5stack.com/en/quick_start/atom/arduino](https://docs.m5stack.com/en/quick_start/atom/arduino)
+<https://docs.m5stack.com/en/quick_start/atom/arduino>
 
 FactoryTest.inoがビルドできることを確認出来たら、少し内容を修正します。
 
 具体的には、この80行目の後に `preferences.putBool("PRINTER_MODE", APMode);`という行を入れます。
 
-[https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130](https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130)
+<https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130>
 
 この修正を行ったFactoryTest.inoを一度書き込んで実行すれば、後は元に戻したFactoryTest.inoでもうまく動作します。
 
@@ -87,6 +91,8 @@ APモードで起動したATOM PrinterはWiFiのAPとして振舞います。
 送信すると、ATOM Printerで印刷が行われます。
 
 英字はもちろん日本語も問題なく印刷することが確認できました。
+
+![](img/atom-printer-first-print.jpg)
 
 ## 独自のプログラムを書き込んでみる
 
@@ -132,7 +138,7 @@ ATOM Printerのライブラリを使わずとも、シリアル通信で制御�
 
 この機能を使うためには、プリンタ用に画像ファイルを変換する必要がありますが、うれしいことにこの変換ツールを公開してくれている人がいました。
 
-[https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2](https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2)
+<https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2>
 
 このツールに2値のビットマップ画像をアップロードすることで、Arduinoで利用できる配列のソースコードに変換することが出来ます。
 
@@ -183,8 +189,9 @@ void loop()
 }
 ```
 
-
 無事画像を印刷することが出来ました
+
+![](img/atom-printer-image-print.jpg)
 
 ## 思いつく応用例
 
@@ -192,11 +199,11 @@ ATOM Prnterの機能を一通り試しました。要はWiFi＋レシートプ�
 
 思いつく活用例としては・・
 
-- PCやスマートフォンで選択したレシピを印刷する
-- Twitterの特定のキーワードのついた発言を印刷し続ける
-- 朝のニューストピックを印刷し、手帳に挟んで通勤中に読めるようにする
-- 4コマ漫画を印刷する
-- 感熱シールを使うことで宛先ラベルなどを作る
+* PCやスマートフォンで選択したレシピを印刷する
+* Twitterの特定のキーワードのついた発言を印刷し続ける
+* 朝のニューストピックを印刷し、手帳に挟んで通勤中に読めるようにする
+* 4コマ漫画を印刷する
+* 感熱シールを使うことで宛先ラベルなどを作る
 
 などが思いつきました。
 
@@ -209,6 +216,8 @@ ATOM Printerは面白い製品ですが、ちょっと訳アリの製品でも�
 
 自分が受け取ったATOM Printerは角がぶつけられて、曲がってしまっていました。
 これは運送業者が悪いというよりは、この製品の耐久性や、梱包の問題だと感じました。
+
+![](img/atom-printer-package.jpg)
 
 本体が壊れて届くことはないと思いますが、筐体が凹んでいるのはもう仕様かな、、という感じでした
 
