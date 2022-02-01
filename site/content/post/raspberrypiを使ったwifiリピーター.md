@@ -2,7 +2,7 @@
 title: RaspberryPiを使ったWiFiリピーター
 date: 2021-12-13T12:24:23.871Z
 description: RaspberryPiを使って作られた自作のWiFiリピーターの作例を紹介します。
-image: img/raspberrypizero-wifi-repeater.jpg
+image: /img/raspberrypizero-wifi-repeater.jpg
 tags:
   - RaspberryPi
 ---
