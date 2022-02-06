@@ -1,6 +1,6 @@
 ---
 title: ATSAMD21搭載CircuitPythonでゲームが作れる激安携帯ゲーム端末「PewPew Standalone」
-date: 2022-02-06T12:17:18.983Z
+date: 2022-02-06T12:00:07.285Z
 description: ATSAMD21搭載CircuitPythonでゲームが作れる激安携帯ゲーム端末「PewPew Standalone」の商品レビューです。
 image: /img/pewpew-standalone-cover.jpg
 tags:
