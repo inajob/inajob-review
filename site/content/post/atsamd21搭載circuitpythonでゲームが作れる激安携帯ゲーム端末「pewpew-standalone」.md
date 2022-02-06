@@ -101,16 +101,17 @@ while True:
 
 PewPew StandaloneのPID/VIDを見てみると、
 
-USB_VID = 0x239A
-USB_PID = 0x801D または 0x80D5（後者が正しいようです）
+* USB_VID = 0x239A
+* USB_PID = 0x801D または 0x80D5（後者が正しいようです）
 
-となっています。このVIDはAdafruitのもので、PIDもAdafruitが管理しているようです。（PIDが重複している話は、すでにIssueがあり、修正済みのようです https://github.com/adafruit/circuitpython/issues/2962 ）
+となっています。このVIDはAdafruitのもので、PIDもAdafruitが管理しているようです。（PIDが重複している話は、[すでにIssueがあり、修正済みのようです](https://github.com/adafruit/circuitpython/issues/2962) ）
 
 Adafruitとこのオープンソースハードウェアがどのような関係にあるかわからないですがCircuitPythonを使ったプロダクトという事で、PIDを発行してもらえたのかなと勝手に想像しています。
 
 ## パソコンとつないでみる（REPL編）
 
 CircuitPythonの特徴的な機能の一つにREPLがあります。
+
 これは対話がシェルを通して、1行ずつPythonのコマンドを実行するモードです。
 
 ちょっとした動作の確認をLinuxのシェルのコマンドを実行するかのように手軽に試すことが出来るのが特徴です。
