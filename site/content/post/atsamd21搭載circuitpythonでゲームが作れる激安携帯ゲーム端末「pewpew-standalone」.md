@@ -91,6 +91,8 @@ while True:
 
 ![](../../img/pewpew-standalone-smile.jpg)
 
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">PewPew Standalone完全に理解した <a href="https://t.co/BPfo8AVq6b">pic.twitter.com/BPfo8AVq6b</a></p>&mdash; ina_ani@1歳9ヶ月児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1490290369220984832?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 プログラムが完成したら、別名にリネームし、main.pyのランチャーに登録することで、他のゲームと同様に遊ぶことが出来ます。
 
 [code.pyを書き換えながらゲームを作るチュートリアル](.io/en/latest/tutorial.html)が公式ページにあります。
