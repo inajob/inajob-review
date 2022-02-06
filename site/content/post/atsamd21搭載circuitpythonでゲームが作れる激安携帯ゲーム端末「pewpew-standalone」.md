@@ -171,10 +171,10 @@ PewPew Standaloneには拡張端子も搭載されています。VCC,GNDが各2�
 
 個人的には、ATSAMD21と128x64 OLEDの組み合わせくらいが丁度良いのでは？と思っています、PewPew Standaloneの拡張端子を使えば、簡単に試作が出来そうなので、試してみようと思っています。
 
-## 購入はこちら
+## 購入は[こちら](https://www.makerfabs.com/pewpew-standalone.html)
 
-PewPew Standaloneはオープンソースハードウェアですが、組み立て済みの製品をMakerfabsで購入することが出来ます。
+[PewPew Standalone](https://www.makerfabs.com/pewpew-standalone.html)はオープンソースハードウェアですが、組み立て済みの製品を[Makerfabs](https://www.makerfabs.com/)で購入することが出来ます。
 
 しかもお値段なんと・・$9.9（送料別）。これはもう買って積んでおいても全く心が痛まない価格です。
 
-他にもMakerfabsでは魅力的なガジェットや、電子部品をたくさん扱っているので、何かを買うついでに買うというのも良いと思います。
+他にも[Makerfabs](https://www.makerfabs.com/)では魅力的なガジェットや、電子部品をたくさん扱っているので、何かを買うついでに買うというのも良いと思います。
