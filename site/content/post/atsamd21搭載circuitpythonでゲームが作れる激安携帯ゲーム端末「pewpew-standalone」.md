@@ -19,19 +19,19 @@ tags:
 
 ゲーム機と言っていますが、その性質は開発用プロトタイプボード、といった雰囲気のもので、この製品も基板むき出しで、ケースなどは付属していません。
 
-TODO:写真を貼る
+![](img/pewpew-standalone-othello.jpg)
 
 ## 仕様
 
-- ATSAMD21
-- 8x8 ドットマトリクス赤色LED
-- Micro USB接続（データ専用）
-- 単4電池x2 駆動
-- 十字ボタン+2ボタン = 6ボタン
-- 拡張端子
-- オープンソースハードウェア
-- 電源スイッチ
-- M2と思われる固定用の穴（ケースは付属しません）
+* ATSAMD21
+* 8x8 ドットマトリクス赤色LED
+* Micro USB接続（データ専用）
+* 単4電池x2 駆動
+* 十字ボタン+2ボタン = 6ボタン
+* 拡張端子
+* オープンソースハードウェア
+* 電源スイッチ
+* M2と思われる固定用の穴（ケースは付属しません）
 
 さらに細かい仕様は[公式サイト](https://pewpew.readthedocs.io/en/latest/pewpew10/overview.html)を見てみてください。
 
@@ -40,9 +40,9 @@ TODO:写真を貼る
 乾電池を入れて電源を入れると、初期ゲームが起動します。
 ゲームランチャーが起動し、上下キーでいくつかのゲームを選んで起動することが出来ます。
 
-- frog
-- snake
-- othello
+* frog
+* snake
+* othello
 
 乾電池が手元に無く、USBケーブルをつないで起動するか？と思いましたが、このゲーム機はこれでは起動しません。USBケーブルはデータ転送のみで電源は乾電池から得るという設計のようです。
 
@@ -86,10 +86,9 @@ background = pew.Pix.from_iter((
 while True:
     pew.show(screen)
     pew.tick(1/12)
-
 ```
 
-TODO:写真
+![](img/pewpew-standalone-smile.jpg)
 
 プログラムが完成したら、別名にリネームし、main.pyのランチャーに登録することで、他のゲームと同様に遊ぶことが出来ます。
 
@@ -129,7 +128,7 @@ CircuitPythonの特徴的な機能の一つにREPLがあります。
 >>> pew.show(screen)
 ```
 
-TODO: 写真
+![](img/pewpew-standalone-serial.jpg)
 
 ## 拡張端子
 
@@ -141,18 +140,18 @@ PewPew Standaloneには拡張端子も搭載されています。VCC,GNDが各2�
 
 拡張端子をブレッドボードなどとつなげてセンサーをつなげたり、LEDストリップを取り付けたりと、好きなように拡張できます。
 
-TODO: 写真
+![](img/pewpew-standalone-ext-port.jpg)
 
 ## とにかくミニマム
 
 [回路図](https://github.com/pewpew-game/pewpew/blob/master/hardware/pewpew/pewpew-10.2_schem.pdf)を見ると、部品点数が非常に少ないことがわかります。ATSAMD21を使った自作のガジェットを作る際の足掛かりとして参考になると感じました。
 
-- ドットマトリクスLED
-- CPU(ATSAMD21)
-- マイクロUSBコネクタ
-- 電池ホルダ
-- タクトスイッチx6
-- 電源スイッチ
+* ドットマトリクスLED
+* CPU(ATSAMD21)
+* マイクロUSBコネクタ
+* 電池ホルダ
+* タクトスイッチx6
+* 電源スイッチ
 
 たったこれだけの部品で構成されています。
 
