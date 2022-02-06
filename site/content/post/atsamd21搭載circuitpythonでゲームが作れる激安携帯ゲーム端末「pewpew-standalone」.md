@@ -2,7 +2,7 @@
 title: ATSAMD21搭載CircuitPythonでゲームが作れる激安携帯ゲーム端末「PewPew Standalone」
 date: 2022-02-06T12:17:18.983Z
 description: ATSAMD21搭載CircuitPythonでゲームが作れる激安携帯ゲーム端末「PewPew Standalone」の商品レビューです。
-image: img/pewpew-standalone-cover.jpg
+image: /img/pewpew-standalone-cover.jpg
 tags:
   - atsamd21
   - CircuitPython
@@ -20,7 +20,7 @@ tags:
 
 ゲーム機と言っていますが、その性質は開発用プロトタイプボード、といった雰囲気のもので、この製品も基板むき出しで、ケースなどは付属していません。
 
-![](img/pewpew-standalone-othello.jpg)
+![](../../img/pewpew-standalone-othello.jpg)
 
 ## 仕様
 
@@ -89,7 +89,7 @@ while True:
     pew.tick(1/12)
 ```
 
-![](img/pewpew-standalone-smile.jpg)
+![](../../img/pewpew-standalone-smile.jpg)
 
 プログラムが完成したら、別名にリネームし、main.pyのランチャーに登録することで、他のゲームと同様に遊ぶことが出来ます。
 
@@ -129,7 +129,7 @@ CircuitPythonの特徴的な機能の一つにREPLがあります。
 >>> pew.show(screen)
 ```
 
-![](img/pewpew-standalone-serial.jpg)
+![](../../img/pewpew-standalone-serial.jpg)
 
 ## 拡張端子
 
@@ -141,7 +141,7 @@ PewPew Standaloneには拡張端子も搭載されています。VCC,GNDが各2�
 
 拡張端子をブレッドボードなどとつなげてセンサーをつなげたり、LEDストリップを取り付けたりと、好きなように拡張できます。
 
-![](img/pewpew-standalone-ext-port.jpg)
+![](../../img/pewpew-standalone-ext-port.jpg)
 
 ## とにかくミニマム
 
