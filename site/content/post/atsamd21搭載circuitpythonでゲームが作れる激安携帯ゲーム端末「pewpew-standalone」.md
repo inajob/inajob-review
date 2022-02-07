@@ -73,8 +73,7 @@ tags:
 import pew
 
 pew.init()
-screen = pew.Pix()
-background = pew.Pix.from_iter((
+face = pew.Pix.from_iter((
     (0, 0, 3, 3, 3, 3, 0, 0),
     (0, 3, 0, 0, 0, 0, 3, 0),
     (3, 0, 3, 0, 0, 3, 0, 3),
@@ -84,8 +83,15 @@ background = pew.Pix.from_iter((
     (0, 3, 0, 0, 0, 0, 3, 0),
     (0, 0, 3, 3, 3, 3, 0, 0),
 ))
+screen = pew.Pix()
+
+count = 0
 while True:
+    screen.box(0, 0, 0, 8, 8)
+    screen.blit(face, count % 9 - 9, 0)
+    screen.blit(face, count % 9, 0)
     pew.show(screen)
+    count = count + 1
     pew.tick(1/12)
 ```
 
