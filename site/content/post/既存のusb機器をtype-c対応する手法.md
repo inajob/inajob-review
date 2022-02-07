@@ -2,7 +2,7 @@
 title: 既存のUSB機器をType-C対応する手法
 date: 2021-12-13T12:45:33.714Z
 description: 既存のUSB機器をType-C対応する手法を紹介します。
-image: img/usbcconv.jpg
+image: /img/usbcconv.jpg
 tags:
   - USB
 ---
