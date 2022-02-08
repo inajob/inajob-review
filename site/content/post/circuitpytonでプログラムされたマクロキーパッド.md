@@ -2,7 +2,7 @@
 title: CircuitPytonでプログラムされたマクロキーパッド
 date: 2021-12-13T13:00:45.956Z
 description: CircuitPytonでプログラムされたマクロキーパッドの作例を紹介します。
-image: img/xiao-macro-keyboard.jpeg
+image: /img/xiao-macro-keyboard.jpeg
 tags:
   - 3Dプリンタ
   - キーボード
