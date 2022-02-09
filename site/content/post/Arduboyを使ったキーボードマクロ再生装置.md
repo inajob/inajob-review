@@ -1,6 +1,6 @@
 ---
 title: Arduboyを使ったキーボードマクロ再生装置
-date: 2022-02-09T22:32:45.694998
+date: 2022-02-09T22:00:00.000000
 description: Arduboyで作られたキーボードマクロ再生装置の作例を紹介します
 image: /img/Arduboyを使ったキーボードマクロ再生装置.jpg
 tags:
