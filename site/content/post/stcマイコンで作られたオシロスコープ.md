@@ -1,6 +1,6 @@
 ---
 title: STCマイコンで作られたオシロスコープ
-date: 2021-12-23T11:43:35.511Z
+date: 2022-02-13T23:00:43.968Z
 description: STCマイコンで作られたオシロスコープの作例を紹介します。
 image: /img/stc-oscilloscope.jpg
 tags:
