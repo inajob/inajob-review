@@ -2,7 +2,7 @@
 title: STM32をコアとしたArduinoNanoっぽい開発ボード
 date: 2021-12-23T12:35:04.973Z
 description: STM32F072を搭載したArduino Nanoっぽい開発ボードの作例です。
-image: img/otterpill.jpg
+image: /img/otterpill.jpg
 tags:
   - STM32F072
 ---
