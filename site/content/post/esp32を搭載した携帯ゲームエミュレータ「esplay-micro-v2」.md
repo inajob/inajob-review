@@ -16,6 +16,10 @@ tags:
 
 [ESPlay Micro V2](https://www.makerfabs.com/esplay-micro-v2.html)はオープンソースの携帯ゲーム機です。
 
+![](img/esplay-micro-v2-audio.jpg)
+
+![](img/esplay-micro-v2-back.jpg)
+
 コアとなるマイコンはESP32で、様々なレトロゲームのエミュレータが動作する、本格的なゲーム機です。
 
 ## 仕様
@@ -39,6 +43,10 @@ tags:
 
 さらに細かい仕様は[公式サイト](https://hackaday.io/project/166707-esplay-micro)を見てみてください
 
+![](img/esplay-micro-v2-inside.jpg)
+
+
+
 ## 遊んでみる
 
 ※SDカードに謎のROMファイルが入っている場合があります。内容によっては違法なものもあるかもしれないので、利用せず削除してください。
@@ -58,13 +66,13 @@ tags:
 
 ファミコンのROMとして[ブレイドバスター(BLADE BUSTER)](http://hlc6502.web.fc2.com/Bbuster.htm)を入れてみました。
 
-TODO 画像
+![](img/esplay-micro-v2-blade-buster.jpg)
 
 普通に遊べます。
 
 ゲームボーイのソフトとしては[LSDj](https://www.littlesounddj.com/lsd/index.php)を入れてみました。
 
-TODO 画像
+![](img/esplay-micro-v2-blade-lsdj.jpg)
 
 これはゲームボーイで動作する作曲ソフトです。[ESPlay Micro V2](https://www.makerfabs.com/esplay-micro-v2.html)も持ち運びに便利なので、これで手軽な作曲マシンとして利用することができます。
 
