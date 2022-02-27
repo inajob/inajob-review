@@ -38,14 +38,14 @@ tags:
 * アクリル板による筐体
 * MicroSDカードスロット搭載（MicroSDカードも8GBのものが同梱されていました）
 * 拡張用I2C端子
-* 800mAh LiPo電池 （TODO 容量を書く）
+* 800mAh LiPo電池
 * 充電IC TP4054
 * 電源スイッチ
 * スピーカーは基板上にパターンはあるが、スピーカーが実装されていない
 
 さらに細かい仕様は[公式サイト](https://hackaday.io/project/166707-esplay-micro)を見てみてください
 
-![](img/esplay-micro-v2-inside.jpg)
+![](../../img/esplay-micro-v2-inside.jpg)
 
 
 
