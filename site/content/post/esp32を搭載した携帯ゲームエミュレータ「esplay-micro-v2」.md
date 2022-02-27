@@ -67,11 +67,15 @@ tags:
 
 ファミコンのROMとして[ブレイドバスター(BLADE BUSTER)](http://hlc6502.web.fc2.com/Bbuster.htm)を入れてみました。
 
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">ブレイドバスターで遊んでる様子<br>(スピーカーはパターンがあるが実装されてない。) <a href="https://t.co/RcchdepXR2">pic.twitter.com/RcchdepXR2</a></p>&mdash; ina_ani@1歳10ヶ月児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1497754152122093568?ref_src=twsrc%5Etfw">February 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![](../../img/esplay-micro-v2-blade-buster.jpg)
 
 普通に遊べます。
 
 ゲームボーイのソフトとしては[LSDj](https://www.littlesounddj.com/lsd/index.php)を入れてみました。
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">LSDjも動く！これでどこでも作曲できるね！ <a href="https://t.co/GhToN8oyWT">pic.twitter.com/GhToN8oyWT</a></p>&mdash; ina_ani@1歳10ヶ月児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1497754379046518790?ref_src=twsrc%5Etfw">February 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![](../../img/esplay-micro-v2-blade-lsdj.jpg)
 
