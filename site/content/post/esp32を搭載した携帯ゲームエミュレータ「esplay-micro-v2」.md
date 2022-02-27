@@ -2,6 +2,7 @@
 title: ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」
 date: 2022-02-27T01:15:33.143Z
 description: ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」のレビュー記事です
+image: img/esplay-micro-v2-cover.jpg
 tags:
   - ESP32
   - ゲーム機
