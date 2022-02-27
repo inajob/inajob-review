@@ -45,7 +45,7 @@ tags:
 
 さらに細かい仕様は[公式サイト](https://hackaday.io/project/166707-esplay-micro)を見てみてください
 
-![](img/esplay-micro-v2-inside.jpg)
+![](../../img/esplay-micro-v2-inside.jpg)
 
 
 
