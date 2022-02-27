@@ -1,6 +1,6 @@
 ---
 title: ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」
-date: 2022-02-27T01:15:33.143Z
+date: 2022-02-27T23:30:43.481Z
 description: ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」のレビュー記事です
 image: /img/esplay-micro-v2-cover.jpg
 tags:
@@ -103,9 +103,7 @@ RaspberryPiベースのエミュレータと比べると省電力なので、800
 ちょっとまだ試していないのですが、ESP32を搭載した開発ボードとしても様々な利用方法がありそうです。
 
 * MicroPython
-* Arduino
-
-  * https://hackaday.io/project/166707-esplay-micro/log/197610-arduino-available
+* [Arduino](https://hackaday.io/project/166707-esplay-micro/log/197610-arduino-available)
 
 I2C端子もあるので、センサーを外付けすることもできそうです。
 
