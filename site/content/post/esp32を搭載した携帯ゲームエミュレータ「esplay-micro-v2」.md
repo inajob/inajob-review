@@ -12,7 +12,6 @@ tags:
 
 （ですが、[ESPlay Micro V2](https://www.makerfabs.com/esplay-micro-v2.html)をレビューしたい！と言ったのは自分なので、[Makerfabs](https://www.makerfabs.com/)が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 
-
 ## ESPlay Micro V2とは
 
 [ESPlay Micro V2](https://www.makerfabs.com/esplay-micro-v2.html)はオープンソースの携帯ゲーム機です。
@@ -22,13 +21,14 @@ tags:
 ## 仕様
 
 * ESP32-WROOBER
+
   * という事で技適もあります。日本で使っても安心。
 * 十字キー+ A,B, L,R, Start, Selectボタン
 * I2C接続IOエキスパンダIC PCF8574
 * I2S DAC IC UDA1334A (PAM8403?)
 * イヤホンジャック端子
 * USBシリアル変換IC CH340G
-* TODO ディスプレイ仕様
+* 320*240 TFT ディスプレイ
 * アクリル板による筐体
 * MicroSDカードスロット搭載（MicroSDカードも8GBのものが同梱されていました）
 * 拡張用I2C端子
@@ -36,7 +36,6 @@ tags:
 * 充電IC TP4054
 * 電源スイッチ
 * スピーカーは基板上にパターンはあるが、スピーカーが実装されていない
-
 
 さらに細かい仕様は[公式サイト](https://hackaday.io/project/166707-esplay-micro)を見てみてください
 
@@ -56,7 +55,6 @@ tags:
 また、オーディオプレイヤーも搭載されています。
 
 設定画面からAP Modeにすることで、WiFiのアクセスポイントとしてふるまい、そのWiFiに接続することでブラウザ経由でROMファイルやオーディオファイルを簡単に転送できます。
-
 
 ファミコンのROMとして[ブレイドバスター(BLADE BUSTER)](http://hlc6502.web.fc2.com/Bbuster.htm)を入れてみました。
 
@@ -93,8 +91,8 @@ RaspberryPiベースのエミュレータと比べると省電力なので、800
 
 * MicroPython
 * Arduino
-  * https://hackaday.io/project/166707-esplay-micro/log/197610-arduino-available
 
+  * https://hackaday.io/project/166707-esplay-micro/log/197610-arduino-available
 
 I2C端子もあるので、センサーを外付けすることもできそうです。
 
@@ -107,4 +105,3 @@ ESP32を使ったゲーム端末として十分な機能を持った製品だと
 少し似たものとしてM5Stackなどががありますが、ゲームに特化した形状である点が大きな違いです。
 
 原価を考えてもこの価格はありえない安さなので、気になる人は是非買ってみると良いと思います。
-
