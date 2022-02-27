@@ -2,7 +2,7 @@
 title: ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」
 date: 2022-02-27T01:15:33.143Z
 description: ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」のレビュー記事です
-image: img/esplay-micro-v2-cover.jpg
+image: /img/esplay-micro-v2-cover.jpg
 tags:
   - ESP32
   - ゲーム機
@@ -17,9 +17,9 @@ tags:
 
 [ESPlay Micro V2](https://www.makerfabs.com/esplay-micro-v2.html)はオープンソースの携帯ゲーム機です。
 
-![](img/esplay-micro-v2-audio.jpg)
+![](../../img/esplay-micro-v2-audio.jpg)
 
-![](img/esplay-micro-v2-back.jpg)
+![](../../img/esplay-micro-v2-back.jpg)
 
 コアとなるマイコンはESP32で、様々なレトロゲームのエミュレータが動作する、本格的なゲーム機です。
 
@@ -67,13 +67,13 @@ tags:
 
 ファミコンのROMとして[ブレイドバスター(BLADE BUSTER)](http://hlc6502.web.fc2.com/Bbuster.htm)を入れてみました。
 
-![](img/esplay-micro-v2-blade-buster.jpg)
+![](../../img/esplay-micro-v2-blade-buster.jpg)
 
 普通に遊べます。
 
 ゲームボーイのソフトとしては[LSDj](https://www.littlesounddj.com/lsd/index.php)を入れてみました。
 
-![](img/esplay-micro-v2-blade-lsdj.jpg)
+![](../../img/esplay-micro-v2-blade-lsdj.jpg)
 
 これはゲームボーイで動作する作曲ソフトです。[ESPlay Micro V2](https://www.makerfabs.com/esplay-micro-v2.html)も持ち運びに便利なので、これで手軽な作曲マシンとして利用することができます。
 
