@@ -6,6 +6,7 @@ image: /img/esplay-micro-v2-cover.jpg
 tags:
   - ESP32
   - ゲーム機
+  - Makerfabs
 ---
 この記事はMakerfabsの提供でお届けします。
 
