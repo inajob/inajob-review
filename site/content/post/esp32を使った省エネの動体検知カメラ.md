@@ -1,6 +1,6 @@
 ---
 title: ESP32を使った省エネの動体検知カメラ
-date: 2022-01-21T09:17:21.859Z
+date: 2022-03-01T13:00:53.239Z
 description: ESP32を省エネで動かしつつ動体検知を行うカメラを実現しています。
 image: /img/power-save-esp32cam.jpg
 tags:
