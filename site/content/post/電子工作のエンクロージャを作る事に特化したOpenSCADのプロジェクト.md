@@ -10,6 +10,3 @@ tags:
 
 電子工作のエンクロージャを作る事に特化したOpenSCADのプロジェクト。
 基板取り付け穴や端子を露出するための窓、インサートナット用の穴など、よくある構造がライブラリ化されており便利そうです。
-
-https://hackaday.com/2022/01/31/this-parametric-project-box-generator-is-super-easy/
-
