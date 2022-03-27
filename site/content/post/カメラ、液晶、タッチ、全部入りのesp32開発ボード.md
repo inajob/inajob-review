@@ -2,6 +2,7 @@
 title: カメラ、液晶、タッチ、全部入りのESP32開発ボード
 date: 2022-03-27T04:47:12.841Z
 description: カメラ、液晶、タッチ、全部入りのESP32開発ボードのレビューです
+image: img/esp32-tft-board-with-camera-cover.jpg
 tags:
   - Makerfabs
   - ESP32
