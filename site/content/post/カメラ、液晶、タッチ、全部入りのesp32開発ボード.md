@@ -2,7 +2,7 @@
 title: カメラ、液晶、タッチ、全部入りのESP32開発ボード
 date: 2022-03-27T13:00:18.999Z
 description: カメラ、液晶、タッチ、全部入りのESP32開発ボードのレビューです
-image: img/esp32-tft-board-with-camera-cover.jpg
+image: /img/esp32-tft-board-with-camera-cover.jpg
 tags:
   - Makerfabs
   - ESP32
@@ -28,7 +28,7 @@ tags:
 * MicroSDカードスロット（with 16GB MicroSDカード)
 * 15ピンの拡張端子
 
-![](img/esp32-tft-board-with-camera-back.jpg)
+![](../../img/esp32-tft-board-with-camera-back.jpg)
 
 ## デフォルトのファームウェアを試してみる
 
@@ -38,12 +38,12 @@ USBケーブルをつなげるとデフォルトのファームウェアが起�
 
 カメラの内容をリアルタイムにディスプレイに表示し、ボタンをタッチすることで写真をSDカードに保存することが出来ます。
 
-![](img/esp32-tft-board-with-camera-camera.jpg)
+![](../../img/esp32-tft-board-with-camera-camera.jpg)
 
 カメラについては最近のスマートフォン比べると明らかに劣りますが、一応写真が取れる、という感じです。
 （このファームウェアでは320 * 240の写真しか撮れないようでした。カメラの性能を考えるともっと高解像度の画像も撮影できるはずです。）
 
-![](img/esp32-tft-board-with-camera-photo.jpg)
+![](../../img/esp32-tft-board-with-camera-photo.jpg)
 
 自分オリジナルの低画質なデジカメは、このファームウェアをちょっと改造するだけで作れそうです。
 
