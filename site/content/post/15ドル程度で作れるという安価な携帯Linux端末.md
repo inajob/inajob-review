@@ -10,8 +10,6 @@ tags:
 [The Fifteen Dollar Linux Computer](https://bbenchoff.github.io/pages/LinuxDevice.html)から発見。画像もここから転載。
 
 $15程度で作れるという、安価な携帯Linux端末です。
-CPUはこういう作例ではおなじみF1C100s。
+CPUはこういう作例ではおなじみF1C100sです。
+
 キーボード部分は[メンブレンキーボードをカスタム発注している](https://bbenchoff.github.io/pages/keyboard.html) ようです（1000個作って1個当たり$1らしいです）
-
-https://hackaday.com/2022/02/04/the-fifteen-dollar-linux-computer/
-
