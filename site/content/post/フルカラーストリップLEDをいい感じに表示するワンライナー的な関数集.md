@@ -10,5 +10,6 @@ tags:
 [Technoblogy - Controlling RGB LED Strips with a Single Function](http://www.technoblogy.com/show?3SO4)から発見。画像もここから転載。
 
 フルカラーストリップLEDをいい感じに表示するワンライナー的な関数集の紹介記事です。
-コントローラは比較的パワフルなATSAMD21を用いています。
+ソースコードに加えて、グラフやアニメーションgifを用いて、わかりやすく紹介されています。
 
+コントローラは比較的パワフルなATSAMD21を用いています。
