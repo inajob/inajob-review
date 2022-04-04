@@ -1,6 +1,6 @@
 ---
 title: I2CでMIDI出力をする実験
-date: 2022-03-31T23:45:02.735593
+date: 2022-03-24T23:14:33.894107
 description: I2CでMIDI信号を伝えるというテクニックの紹介
 image: /img/I2CでMIDI出力をする実験.jpg
 tags:
