@@ -1,6 +1,6 @@
 ---
 title: DIPサイズだが全部入りのArduino互換ボード
-date: 2022-03-10T11:39:42.641Z
+date: 2022-04-14T23:00:35.793Z
 description: DIPサイズの基板にコアマイコンに加えてUSBシリアル変換ICなども搭載した全部入りの開発ボードを紹介します。
 image: img/dipduino.jpg
 tags:
