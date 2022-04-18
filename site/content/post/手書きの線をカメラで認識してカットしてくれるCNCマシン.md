@@ -15,5 +15,5 @@ OpenCVにより画像認識を行い、手書きの線を検出しています�
 設計をデジタルで行うのが一般的ですが、意外とこういうアナログとデジタルの掛け渡し的な技術は活躍の機会がありそうです。
 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/80e94eu4s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u80e94eu4s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
