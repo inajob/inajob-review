@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末
-date: 2022-04-24T22:25:29.027934
+date: 2022-04-24T23:11:05.646489
 description: Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末
 image: /img/Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末.jpg
 tags:
