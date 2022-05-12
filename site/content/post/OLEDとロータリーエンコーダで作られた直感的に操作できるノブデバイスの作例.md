@@ -4,7 +4,8 @@ date: 2022-05-12T23:09:05.196813
 description: OLEDとロータリーエンコーダで作られた直感的に操作できるノブデバイスの作例を紹介します
 image: /img/OLEDとロータリーエンコーダで作られた直感的に操作できるノブデバイスの作例.jpg
 tags:
-tags
+  - OLED
+  - ロータリーエンコーダ
 ---
 [OLED Display Kicks Knob Up Several Accurate Notches](https://hackaday.com/2022/04/19/oled-display-kicks-knob-up-several-accurate-notches/)から発見。画像もここから転載。
 
