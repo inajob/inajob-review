@@ -1,6 +1,6 @@
 ---
 title: PalmのキーボードをBluetooth化するためのアダプタ
-date: 2022-05-15T23:12:08.635151
+date: 2022-05-15T23:13:49.956601
 description: PalmのキーボードをBluetooth化するためのアダプタを紹介します
 image: /img/PalmのキーボードをBluetooth化するためのアダプタ.jpg
 tags:
