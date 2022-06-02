@@ -15,8 +15,8 @@ Raspberry Piと比べてはるかに高性能なインテルCPU搭載のボー�
 
 [FRAMEWORK BOARD GETS THIS ROUND DISPLAY PC ROLLING](https://hackaday.com/2022/05/10/framework-board-gets-this-round-display-pc-rolling/)
 
-![](img/round-display.jpg)
+![](../../img/round-display.jpg)
 
 [framedeck](https://github.com/brickbots/framedeck)
 
-![](img/framedeck.jpg)
+![](../../img/framedeck.jpg)
