@@ -2,7 +2,7 @@
 title: Frameworkの旧式マザーボードの設計がオープンになった
 date: 2022-06-02T22:30:59.936Z
 description: Frameworkの旧式マザーボードの設計がオープンになったようです。
-image: img/framework-3d-printer-case-featured.webp
+image: /img/framework-3d-printer-case-featured.webp
 tags:
   - SBC
 ---
