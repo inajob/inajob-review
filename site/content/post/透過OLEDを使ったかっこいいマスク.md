@@ -4,7 +4,8 @@ date: 2022-06-13T23:16:58.664593
 description: 透過OLEDを使ったかっこいいマスク
 image: /img/透過OLEDを使ったかっこいいマスク.jpg
 tags:
-tags
+  - OLED
+  - 3Dプリンタ
 ---
 [Sci-Fi 3D Printed Mask With Transparent Display](https://hackaday.io/project/185638-sci-fi-3d-printed-mask-with-transparent-display)から発見。画像もここから転載。
 
