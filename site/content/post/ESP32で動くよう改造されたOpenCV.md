@@ -2,7 +2,7 @@
 title: ESP32で動くよう改造されたOpenCV
 date: 2022-06-14T22:30:45.928458
 description: ESP32で動くよう改造されたOpenCVについて紹介します。
-image: /img/ESP32で動くよう改造されたOpenCV.jpg
+image: /img/ESP32で動くよう改造されたOpenCV.jpg
 tags:
   - ESP32
   - OpenCV
