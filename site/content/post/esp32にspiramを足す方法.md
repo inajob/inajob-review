@@ -31,4 +31,12 @@ tags:
 plus 10k pullup on pin 16 (1 - R10k - 8)
 ```
 
+## 実際に試した方が！
+
+ここに書いた手法を実際に試し、PSRAMの無いESP-WROOM-32モジュールに非破壊に外付けでSPIRAMを増設できたという報告を頂きました。
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">と、いうわけで、買いました、SPRAM<br>ESP-PSRAM64H 3.3V SOP8 64Mbit PSRAM compatible with IPS6404LSQ IPS6404L-SQ-SPN<a href="https://t.co/vZRhXslUVC">https://t.co/vZRhXslUVC</a><br>なんか1ヶ$0.9位だったような気がする(Ali)<br>そして変換基板でこんなのを作って...無理やり裏に付ける...とたぶんok <a href="https://t.co/C5l09R6shA">pic.twitter.com/C5l09R6shA</a></p>&mdash; n602💉💉💉 (@n602_NA) <a href="https://twitter.com/n602_NA/status/1384903307060187137?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
