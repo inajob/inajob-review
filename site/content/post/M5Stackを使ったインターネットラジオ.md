@@ -7,6 +7,7 @@ tags:
   - M5Stack
   - ESP32
   - インターネットラジオ
+  - 日本
 ---
 [GitHub - wakwak-koba/WebRadio_Jcbasimul: M5Stack 等で JCBA インターネットサイマルラジオ 全132局 が聴けます](https://github.com/wakwak-koba/WebRadio_Jcbasimul)から発見。画像もここから転載。
 
