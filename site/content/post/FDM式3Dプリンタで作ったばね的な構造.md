@@ -5,6 +5,7 @@ description: FDM式3Dプリンターで作ったばね的な構造を紹介し�
 image: /img/FDM式3Dプリンタで作ったばね的な構造.jpg
 tags:
   - 3Dプリンタ
+  - 日本
 ---
 [西村健志（Fusion360講師）さんのTweetから](https://twitter.com/nishimu_F360/status/1514554748539924483)から発見。画像もここから転載。
 
