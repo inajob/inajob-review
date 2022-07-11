@@ -21,6 +21,6 @@ tags:
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ダイソーで売ってたＰＰシートも効果ありましたよ。何よりクッッソ安いし <a href="https://t.co/aBJTh5Lxqn">pic.twitter.com/aBJTh5Lxqn</a></p>&mdash; あにじゃ (@SuperANIJA) <a href="https://twitter.com/SuperANIJA/status/1532981870119780352?ref_src=twsrc%5Etfw">June 4, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kd45sQ0I-34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
