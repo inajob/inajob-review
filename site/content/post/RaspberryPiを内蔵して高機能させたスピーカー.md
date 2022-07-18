@@ -1,5 +1,5 @@
 ---
-title: RaspberryPiを内蔵して高機能させたスピーカー
+title: RaspberryPiを内蔵して高機能化したスピーカー
 date: 2022-07-18T22:00:32.277991
 description: RaspberryPiを内蔵して高機能させたスピーカーの作例を紹介します。
 image: /img/RaspberryPiを内蔵して高機能させたスピーカー.jpg
