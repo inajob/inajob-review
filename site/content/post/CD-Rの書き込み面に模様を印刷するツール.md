@@ -16,4 +16,4 @@ CD-Rは書き込みを行うとCDの書き込み面の色が変化するとい�
 
 一昔前にこの手法がちょっと流行ったなぁ、と懐かしさを感じるテクニックです。
 
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/728506323?h=100b3831cd" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
