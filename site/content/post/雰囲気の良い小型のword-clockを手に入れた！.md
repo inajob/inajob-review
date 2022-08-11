@@ -40,6 +40,8 @@ Kitと書いてあることからもわかるように、組み立て式のキ�
 
 また、時刻を表示する以外の機能として、それっぽいアニメーションを表示する機能もあります。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">素敵なWordClockを手に入れた！<br>時計表示以外にもいい感じのアニメーション機能もついてます！<a href="https://t.co/wLrEcwYqSO">https://t.co/wLrEcwYqSO</a> <a href="https://t.co/6rRzPSd8P2">pic.twitter.com/6rRzPSd8P2</a></p>&mdash; ina_ani@2歳児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1557581208091262976?ref_src=twsrc%5Etfw">August 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ブロック崩しゲームのような動きをするものや、映画マトリックス風の表示のものなど何種類かのアニメーションを選択できます。
 
 ## 組み立てについて
