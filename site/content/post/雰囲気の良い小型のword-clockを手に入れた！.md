@@ -2,7 +2,7 @@
 title: 雰囲気の良い小型のWord Clockを手に入れた！
 date: 2022-08-11T04:03:25.337Z
 description: 雰囲気の良い小型のWord Clockのレビュー記事です
-image: img/small-word-clock-kit-cover.jpg
+image: /img/small-word-clock-kit-cover.jpg
 tags:
   - Makerfabs
   - WordClock
@@ -33,7 +33,7 @@ Kitと書いてあることからもわかるように、組み立て式のキ�
 
 「Small」という名の通り手のひらより一回り小さいサイズです。
 
-![](img/small-word-clock-kit-screen-work1.jpg)
+![](../../img/small-word-clock-kit-screen-work1.jpg)
 
 この写真は「IT IS」から始まり「TEN」「FIFTTEEN」「＊＊＊」「PM」のような表示となっており、これは午後10時18分を表しています。
 小さな文字盤のため、すべての時刻を英単語で表すことができず、5分未満の分については「＊」で表されます。
@@ -48,7 +48,7 @@ Kitと書いてあることからもわかるように、組み立て式のキ�
 
 この商品は4枚の板がサンドイッチとなって構成されており、うち2枚は基板、うち2枚はアクリル板をレーザーカットしたものです。
 
-![](img/small-word-clock-kit-parts.jpg)
+![](../../img/small-word-clock-kit-parts.jpg)
 
 基板上の部品はすべてはんだ付けされており、組み立てる必要はありません。
 
@@ -77,7 +77,7 @@ Kitと書いてあることからもわかるように、組み立て式のキ�
 
 主な部品は以上です。それ以外はRTC用の水晶、おまじないコンデンサ、書き込み用のICSP端子があるくらいです。
 
-![](img/small-word-clock-kit-board2.jpg)
+![](../../img/small-word-clock-kit-board2.jpg)
 
 基板上には何やら抵抗を配置するフットプリントがありますが、実装されていません
 
@@ -89,9 +89,9 @@ Kitと書いてあることからもわかるように、組み立て式のキ�
 
 2枚の基板と2枚のアクリル板のサンドイッチ、と書きましたがこの構造は非常に興味深いです。
 
-![](img/small-word-clock-kit-screen-front.jpg)
+![](../../img/small-word-clock-kit-screen-front.jpg)
 
-![](img/small-word-clock-kit-screen-back.jpg)
+![](../../img/small-word-clock-kit-screen-back.jpg)
 
 というのも2枚の基板のうち1枚が、基板を利用したスクリーンとなっているのです。
 
