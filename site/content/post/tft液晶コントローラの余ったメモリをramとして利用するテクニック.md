@@ -2,7 +2,7 @@
 title: TFT液晶コントローラの余ったメモリをRAMとして利用するテクニック
 date: 2022-08-18T21:00:00.000Z
 description: TFT液晶コントローラの余ったメモリを外付けのRAMとして利用するテクニックを紹介します。
-image: img/tft-spare-ram.jpg
+image: /img/tft-spare-ram.jpg
 tags:
   - HACK
   - 液晶
