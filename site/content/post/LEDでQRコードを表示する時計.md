@@ -18,3 +18,4 @@ tags:
 このQRコードの形式で10桁を表現することが出来ます。
 
 
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm40971654/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm40971654">【電子工作】QRな時計を作ってみた</a></noscript>
