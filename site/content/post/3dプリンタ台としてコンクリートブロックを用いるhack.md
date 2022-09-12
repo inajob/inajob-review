@@ -1,6 +1,6 @@
 ---
 title: 3Dプリンタ台としてコンクリートブロックを用いるHACK
-date: 2022-09-13T00:00:00.000Z
+date: 2022-09-12T00:00:00.000Z
 description: コンクリートブロックを3Dプリンタの下に置くと様々な良いことがあるようです。
 image: /img/3dprint-concrete-base.png
 tags:
