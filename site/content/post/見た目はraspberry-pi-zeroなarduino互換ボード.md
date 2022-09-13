@@ -1,8 +1,8 @@
 ---
 title: 見た目はRaspberry Pi ZeroなArduino互換ボード
-date: 2022-02-08T11:23:22.795Z
+date: 2022-09-14T00:00:00.000Z
 description: 中身はArduinoですが、ボードがRaspberry Pi Zero互換という面白い開発ボードを紹介します。
-image: img/cricket-one.jpg
+image: /img/cricket-one.jpg
 tags:
   - RaspberryPi
   - Arduino
