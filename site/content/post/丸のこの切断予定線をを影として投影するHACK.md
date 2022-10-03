@@ -4,7 +4,9 @@ date: 2022-10-03T23:24:17.417771
 description: 丸のこの切断予定線をを影として投影するHACKを紹介します。
 image: /img/丸のこの切断予定線をを影として投影するHACK.jpg
 tags:
-tags
+  - HACK
+  - 工具
+  - 丸のこ
 ---
 [If The Blade Sees Its Shadow, It’s Another 64th Of Accuracy](https://hackaday.com/2022/09/11/if-the-blade-sees-its-shadow-its-another-64th-of-accuracy/)から発見。画像もここから転載。
 
