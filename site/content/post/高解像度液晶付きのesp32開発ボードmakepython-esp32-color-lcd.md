@@ -65,7 +65,7 @@ TODO: 写真
 時々このリストの更新に失敗することがあり、何度かUSBケーブルを抜き差ししているとうまくいきました。
 （uPyCraftのバグ？）
 
-TODO: 写真
+![](img/makepython-esp32-files.jpg)
 
 ### MicroPythonで独自のプログラムを書いてみる
 
