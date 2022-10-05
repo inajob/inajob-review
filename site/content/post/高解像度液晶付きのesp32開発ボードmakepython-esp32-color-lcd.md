@@ -17,12 +17,12 @@ tags:
 
 ESP32とディスプレイを搭載した開発ボードです。
 
-TODO: 写真
+![](img/makepython-esp32-boot.jpg)
 
-- 1.3インチディスプレイ 解像度240*240
-- ESP32-WROOM または ESP32-WROVER
-- USBシリアル変換IC CP2104
-- Mirco USB端子
+* 1.3インチディスプレイ 解像度240*240
+* ESP32-WROOM または ESP32-WROVER
+* USBシリアル変換IC CP2104
+* Mirco USB端子
 
 開発にはMicroPythonや、Arduinoを利用することが出来ます。
 
@@ -37,7 +37,7 @@ MicroPythonの開発環境はほかにもたくさんあるので、どれを使
 
 購入時のMakePython ESP32 Color LCDのファームウェアは謎のファームウェアが書き込まれているのですが、どうもMicroPythonではないようだったので、ファームウェアの書き込みから実施する必要がありました。
 
-TODO: 画像
+![](img/makepython-esp32-burn.png)
 
 ### サンプルプログラムの実行
 
@@ -47,10 +47,10 @@ TODO: 画像
 
 以下のファイルをすべて書き込んでColor_LCD_test01.pyを実行するとサンプルプログラムが実行できます。
 
-- italicc.py
-- romans.py
-- st7789.py
-- Color_LCD_test01.py
+* italicc.py
+* romans.py
+* st7789.py
+* Color_LCD_test01.py
 
 左カラムのdevice以下のファイルがボードに書き込まれたファイルです。
 
@@ -82,11 +82,10 @@ TODO: 写真・動画
 
 最近リリースされたArduino IDEの2系やPlatformioを使うともう少し早くビルドできると思います。
 
-TODO: 写真
+![](img/makepython-esp32-arduino.jpg)
 
 ## まとめ
 
 まぁ普通のESP32の開発ボードなのですが、ディスプレイとESP32の組み合わせで何かを作りたい際にはちょうど良いものだと感じました。
 
 ディスプレイは240*240と高解像度ですがコストパフォーマンスが良く、手元にあるとプロトタイピングの助けになると感じまました。
-
