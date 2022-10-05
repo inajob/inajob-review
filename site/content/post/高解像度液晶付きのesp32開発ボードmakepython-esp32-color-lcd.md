@@ -17,7 +17,7 @@ tags:
 
 ESP32とディスプレイを搭載した開発ボードです。
 
-![](img/makepython-esp32-boot.jpg)
+![](/img/makepython-esp32-boot.jpg)
 
 * 1.3インチディスプレイ 解像度240*240
 * ESP32-WROOM または ESP32-WROVER
@@ -37,7 +37,15 @@ MicroPythonの開発環境はほかにもたくさんあるので、どれを使
 
 購入時のMakePython ESP32 Color LCDのファームウェアは謎のファームウェアが書き込まれているのですが、どうもMicroPythonではないようだったので、ファームウェアの書き込みから実施する必要がありました。
 
-![](img/makepython-esp32-burn.png)
+MicroPythonのファームウェアは[ここ](https://micropython.org/download/esp32/)から入手しました。
+
+![](/img/makepython-esp32-burn.png)
+
+これを焼きこむと・・
+
+TODO: 写真
+
+うごいた！
 
 ### サンプルプログラムの実行
 
@@ -82,7 +90,7 @@ TODO: 写真・動画
 
 最近リリースされたArduino IDEの2系やPlatformioを使うともう少し早くビルドできると思います。
 
-![](img/makepython-esp32-arduino.jpg)
+![](/img/makepython-esp32-arduino.jpg)
 
 ## まとめ
 
