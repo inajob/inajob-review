@@ -2,6 +2,7 @@
 title: 高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD
 date: 2022-09-28T13:28:44.839Z
 description: 高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCDを紹介します。
+image: img/cover.jpg
 tags:
   - Makerfabs
   - ESP32
@@ -43,7 +44,7 @@ MicroPythonのファームウェアは[ここ](https://micropython.org/download/
 
 これを焼きこむと・・
 
-![](/img/makepython-esp32-prompt.png)
+![](img/makepython-esp32-prompt.png)
 
 うごいた！
 
@@ -65,7 +66,7 @@ MicroPythonのファームウェアは[ここ](https://micropython.org/download/
 時々このリストの更新に失敗することがあり、何度かUSBケーブルを抜き差ししているとうまくいきました。
 （uPyCraftのバグ？）
 
-![](/img/makepython-esp32-files.jpg)
+![](img/makepython-esp32-files.jpg)
 
 ### MicroPythonで独自のプログラムを書いてみる
 
