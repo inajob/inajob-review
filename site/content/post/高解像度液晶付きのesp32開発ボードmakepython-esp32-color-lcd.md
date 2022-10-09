@@ -77,7 +77,11 @@ MicroPythonで愚直に書くとアニメーションなどの処理は少し遅
 
 まぁアニメーションのような速度が必要な処理はネイティブで書くのが良いのでしょう。
 
-TODO: 写真・動画
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">MicroPythonで描画。<br>のんびりだねー <a href="https://t.co/57m6w2f4eP">pic.twitter.com/57m6w2f4eP</a></p>&mdash; ina_ani@2歳児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1578967726076620800?ref_src=twsrc%5Etfw">October 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+上のMicroPythonで作ったものと同じようなプログラムをArduinoで作ったものがこちら。さすがにネイティブなので早いですね。
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">Arduinoで描画、流石にネイティブだとこのくらい早い <a href="https://t.co/EqvCXFlEX5">pic.twitter.com/EqvCXFlEX5</a></p>&mdash; ina_ani@2歳児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1578967896524742656?ref_src=twsrc%5Etfw">October 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Arduinoで開発してみる
 
