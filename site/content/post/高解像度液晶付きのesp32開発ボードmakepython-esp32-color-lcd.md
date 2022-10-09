@@ -43,7 +43,7 @@ MicroPythonのファームウェアは[ここ](https://micropython.org/download/
 
 これを焼きこむと・・
 
-TODO: 写真
+![](img/makepython-esp32-prompt.png)
 
 うごいた！
 
