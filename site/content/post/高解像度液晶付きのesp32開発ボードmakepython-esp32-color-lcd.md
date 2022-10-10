@@ -1,6 +1,6 @@
 ---
 title: 高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD
-date: 2022-09-28T13:28:44.839Z
+date: 2022-10-10T19:37:01.541Z
 description: 高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCDを紹介します。
 image: /img/makepython-esp32-cover.jpg
 tags:
