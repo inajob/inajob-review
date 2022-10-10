@@ -44,7 +44,7 @@ MicroPythonのファームウェアは[ここ](https://micropython.org/download/
 
 これを焼きこむと・・
 
-![](img/makepython-esp32-prompt.png)
+![](/img/makepython-esp32-prompt.png)
 
 うごいた！
 
@@ -66,7 +66,7 @@ MicroPythonのファームウェアは[ここ](https://micropython.org/download/
 時々このリストの更新に失敗することがあり、何度かUSBケーブルを抜き差ししているとうまくいきました。
 （uPyCraftのバグ？）
 
-![](img/makepython-esp32-files.jpg)
+![](/img/makepython-esp32-files.jpg)
 
 ### MicroPythonで独自のプログラムを書いてみる
 
