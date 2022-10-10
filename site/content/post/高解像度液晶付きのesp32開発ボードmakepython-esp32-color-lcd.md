@@ -18,7 +18,7 @@ tags:
 
 ESP32とディスプレイを搭載した開発ボードです。
 
-![](/img/makepython-esp32-boot.jpg)
+![](../../img/makepython-esp32-boot.jpg)
 
 * 1.3インチディスプレイ 解像度240*240
 * ESP32-WROOM または ESP32-WROVER
@@ -40,11 +40,11 @@ MicroPythonの開発環境はほかにもたくさんあるので、どれを使
 
 MicroPythonのファームウェアは[ここ](https://micropython.org/download/esp32/)から入手しました。
 
-![](/img/makepython-esp32-burn.png)
+![](../../img/makepython-esp32-burn.png)
 
 これを焼きこむと・・
 
-![](/img/makepython-esp32-prompt.png)
+![](../../img/makepython-esp32-prompt.png)
 
 うごいた！
 
@@ -66,7 +66,7 @@ MicroPythonのファームウェアは[ここ](https://micropython.org/download/
 時々このリストの更新に失敗することがあり、何度かUSBケーブルを抜き差ししているとうまくいきました。
 （uPyCraftのバグ？）
 
-![](/img/makepython-esp32-files.jpg)
+![](../../img/makepython-esp32-files.jpg)
 
 ### MicroPythonで独自のプログラムを書いてみる
 
@@ -95,7 +95,7 @@ MicroPythonで愚直に書くとアニメーションなどの処理は少し遅
 
 最近リリースされたArduino IDEの2系やPlatformioを使うともう少し早くビルドできると思います。
 
-![](/img/makepython-esp32-arduino.jpg)
+![](../../img/makepython-esp32-arduino.jpg)
 
 ## まとめ
 
