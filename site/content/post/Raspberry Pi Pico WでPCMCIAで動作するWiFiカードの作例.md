@@ -21,5 +21,5 @@ tags:
 
 Raspberry Pi PicoのPIOはほかのマイコンにはない特徴的な機能で、今後も面白い作例がたくさん出てきそうです。
 
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pc2PUysWG2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
