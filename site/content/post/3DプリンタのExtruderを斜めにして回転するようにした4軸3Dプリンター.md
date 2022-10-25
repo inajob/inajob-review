@@ -22,3 +22,4 @@ tags:
 
 スライサーは独自に開発する必要がありますが、この変形であれば比較的簡単に既存のスライサーの入出力に前処理・後処理することで実現できるようです。
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7LRWuccMGjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
