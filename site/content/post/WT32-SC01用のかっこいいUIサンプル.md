@@ -4,7 +4,8 @@ date: 2022-10-30T23:22:07.09452
 description: WT32-SC01用のかっこいいUIサンプルを紹介します。
 image: /img/WT32-SC01用のかっこいいUIサンプル.jpg
 tags:
-tags
+  - ESP32
+  - WT32-SC01
 ---
 [Wt32-SC01 ESP32 Lumia](https://hackaday.io/project/187369-wt32-sc01-esp32-lumia)から発見。画像もここから転載。
 
