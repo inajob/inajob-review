@@ -8,7 +8,7 @@ tags
 ---
 [OBONO さんのTweet](https://twitter.com/OBONO/status/1584559584865574912)から発見。画像もここから転載。
 
-以前紹介した[組み込み用のゲームエンジンcrisp-game-lib-portable] がM5Stackに移植されています。
+以前紹介した[組み込み用のゲームエンジンcrisp-game-lib-portable](../組み込み用のゲームエンジンcrisp-game-lib-portable) がM5Stackに移植されています。
 
 M5Stackは3つのボタンしかなくゲームで遊ぶには向きませんが、ABAさんのゲームはワンキーなのでぴったりです。
 
