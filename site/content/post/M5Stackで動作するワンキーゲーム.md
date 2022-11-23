@@ -4,7 +4,9 @@ date: 2022-11-23T23:36:14.468674
 description: M5Stackで動作するワンキーゲーム
 image: /img/M5Stackで動作するワンキーゲーム.jpg
 tags:
-tags
+　　- M5Stack
+　　- ゲーム
+　　- crisp-game-lib
 ---
 [OBONO さんのTweet](https://twitter.com/OBONO/status/1584559584865574912)から発見。画像もここから転載。
 
