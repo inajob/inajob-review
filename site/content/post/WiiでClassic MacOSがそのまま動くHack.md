@@ -20,5 +20,4 @@ CPUが同じおかげで、何とWiiでもClassic Mac OSが動かせるようで
 
 Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い、PowerPCを活用してClassic Mac OSを動作させるためのソフトウェアです。
 
-
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qhDQicLvHNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
