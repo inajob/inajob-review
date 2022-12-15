@@ -4,7 +4,7 @@ date: 2022-12-15T23:08:51.760822
 description: Raspberry Piの拡張端子の名前とLEDがついたアダプタを紹介します
 image: /img/Raspberry Piの拡張端子の名前とLEDがついたアダプタ.jpg
 tags:
-tags
+  - Raspberry Pi
 ---
 [Blinky - RPi Header with Labels and LEDs](https://hackaday.io/project/188477-blinky-rpi-header-with-labels-and-leds)から発見。画像もここから転載。
 
