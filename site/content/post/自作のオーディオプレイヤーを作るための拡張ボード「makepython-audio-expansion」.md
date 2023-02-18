@@ -83,6 +83,12 @@ User_Setup.hのピンの設定を以下のように編集する
     tft.setSwapBytes(true);
 ```
 
+### 書き込みの際はMakePython Audio Expansionを外す
+
+MakePython ESP32 Color LCDについている書き込みモード切替のスイッチである「Flash」はESP32のIO0とつながっており、これを押しながらRSTボタンを押すことで、シリアルブートローダーに入れるようになっていますが、この時IO2はGNDかハイインピーダンスである必要があるのですが、MakePython Audio ExpansionはIO2をプルアップしてしまっています。
+
+そのため、プログラムを書き込む際はMakePython Audio Expansionを外す必要があり、しばらくこれに気付かずハマりました。
+
 ## まとめ
 
 [MakePython Audio Expansion](https://www.makerfabs.com/makepython-audio.html)とMakePython ESP32 Color LCDを使うと、簡単にかっこいいMP3プレイヤーを作ることが出来ました。
