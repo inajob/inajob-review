@@ -15,7 +15,7 @@ tags:
 
 ## MakePython Audio Expansionとは
 
-以前レビューしたMakePython ESP32 Color LCD や MakePython ESP32と組み合わせて利用することで、オーディオガジェットを作ることが出来る拡張ボードです。
+[以前レビューしたMakePython ESP32 Color LCD](../../post/高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD) や MakePython ESP32と組み合わせて利用することで、オーディオガジェットを作ることが出来る拡張ボードです。
 
 
 - オーディオDACのUDA1334ATS
