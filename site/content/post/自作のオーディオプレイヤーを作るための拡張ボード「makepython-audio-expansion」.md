@@ -90,6 +90,8 @@ User_Setup.hのピンの設定を以下のように編集する
 
 MakePython ESP32 Color LCDについている書き込みモード切替のスイッチである「Flash」はESP32のIO0とつながっており、これを押しながらRSTボタンを押すことで、シリアルブートローダーに入れるようになっていますが、この時IO2はGNDかハイインピーダンスである必要があるのですが、MakePython Audio ExpansionはIO2をプルアップしてしまっています。
 
+![](img/makepython-audio-expansion-caution.jpg)
+
 そのため、プログラムを書き込む際はMakePython Audio Expansionを外す必要があり、しばらくこれに気付かずハマりました。
 
 ## まとめ
