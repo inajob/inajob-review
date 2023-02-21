@@ -2,7 +2,7 @@
 title: 自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」
 date: 2023-02-21T23:12:44.461Z
 description: 自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」を紹介します。
-image: img/makepython-audio-expansion-cover.jpg
+image: /img/makepython-audio-expansion-cover.jpg
 tags:
   - MakerFabs
   - MakePYthon
@@ -23,7 +23,7 @@ tags:
 * Micro SDカードスロット
 * オーディオジャック
 
-![](img/makepython-audio-expansion-single.jpg)
+![](../../img/makepython-audio-expansion-single.jpg)
 
 ## MP3プレイヤーを動かしてみる
 
@@ -91,7 +91,7 @@ User_Setup.hのピンの設定を以下のように編集する
 
 MakePython ESP32 Color LCDについている書き込みモード切替のスイッチである「Flash」はESP32のIO0とつながっており、これを押しながらRSTボタンを押すことで、シリアルブートローダーに入れるようになっていますが、この時IO2はGNDかハイインピーダンスである必要があるのですが、MakePython Audio ExpansionはIO2をプルアップしてしまっています。
 
-![](img/makepython-audio-expansion-caution.jpg)
+![](../../img/makepython-audio-expansion-caution.jpg)
 
 そのため、プログラムを書き込む際はMakePython Audio Expansionを外す必要があり、しばらくこれに気付かずハマりました。
 
