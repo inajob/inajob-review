@@ -1,6 +1,6 @@
 ---
 title: 自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」
-date: 2023-02-18T14:03:44.966Z
+date: 2023-02-21T23:12:44.461Z
 description: 自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」を紹介します。
 image: img/makepython-audio-expansion-cover.jpg
 tags:
