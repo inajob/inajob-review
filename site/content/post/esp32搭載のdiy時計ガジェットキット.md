@@ -2,7 +2,7 @@
 title: ESP32搭載のDIY時計ガジェットキット
 date: 2023-05-09T22:51:42.312Z
 description: ESP32搭載のDIY時計ガジェットキットについてレビューします
-image: img/diy-esp32-smartclock-kit-cover.jpg
+image: /img/diy-esp32-smartclock-kit-cover.jpg
 tags:
   - Makerfabs
   - ESP32
@@ -47,7 +47,7 @@ LiPoバッテリーについては、私の場合は、税関で没収されて�
 
 DIYキットということで、多くの部品は未実装の状態ですが、表面実装の部品については予めはんだ付けされた状態なので、組立作業はそこまで大変ではありません。
 
-![](img/diy-esp32-smartclock-kit-board.jpg)
+![](../../img/diy-esp32-smartclock-kit-board.jpg)
 
 # 組み立て
 
@@ -59,7 +59,7 @@ DIYキットということで、多くの部品は未実装の状態ですが�
 自分は、抵抗、セッラミックコンデンサ、電解コンデンサの順に実装しました。
 はんだ付け後、ニッパーで余った導線を切断して、実装完了です。
 
-![](img/diy-esp32-smartclock-kit-assembled.jpg)
+![](../../img/diy-esp32-smartclock-kit-assembled.jpg)
 
 
 スペーサーとネジを使って、アクリルプレートを取り付けます。
@@ -74,7 +74,7 @@ USBケーブルを差し込んで、電源スイッチをONにすると、液晶
 
 この設定が完了するとNTP経由で時計を合わせてくれます。
 
-![](img/diy-esp32-smartclock-kit-clock.jpg)
+![](../../img/diy-esp32-smartclock-kit-clock.jpg)
 
 
 時計が起動した後はS1ボタンでアラーム時間を設定し、S3ボタンでアラームのON/OFFを制御できます。
@@ -91,6 +91,6 @@ USBケーブルを差し込んで、電源スイッチをONにすると、液晶
 
 # まとめ
 
-DIY ESP32 SmartClock KitはESP32を使ったシンプルなガジェットとして、似たようなESP32を使ったプロジェクトの設計をしている人の参考になるものだと感じました。
+[DIY ESP32 SmartClock Kit](https://www.makerfabs.com/diy-esp32-smartclock-kit.html)はESP32を使ったシンプルなガジェットとして、似たようなESP32を使ったプロジェクトの設計をしている人の参考になるものだと感じました。
 
 アクリル板とスペーサーを使った簡易的な筐体があるおかげで、ガジェットとしての完成度も高いものとなっています。
