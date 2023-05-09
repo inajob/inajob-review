@@ -1,6 +1,6 @@
 ---
 title: ESP32搭載のDIY時計ガジェットキット
-date: 2023-05-06T03:10:47.930Z
+date: 2023-05-09T22:51:42.312Z
 description: ESP32搭載のDIY時計ガジェットキットについてレビューします
 image: img/diy-esp32-smartclock-kit-cover.jpg
 tags:
