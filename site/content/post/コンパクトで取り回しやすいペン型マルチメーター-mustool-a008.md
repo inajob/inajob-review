@@ -2,7 +2,7 @@
 title: コンパクトで取り回しやすいペン型マルチメーター MUSTOOL A008
 date: 2023-05-10T20:50:26.980Z
 description: コンパクトで取り回しやすいペン型マルチメーター MUSTOOL A008を紹介します
-image: img/mini-pen-multimeter-cover.jpg
+image: /img/mini-pen-multimeter-cover.jpg
 tags:
   - Banggood
   - 工具
@@ -22,11 +22,11 @@ tags:
 
 自分は今までオーソドックスなデジタル式のマルチメーターを使っていました。これはデジタル表示器と操作用のつまみがある本体から、赤と黒の2本のケーブルが伸びているというタイプのものです。
 
-![](img/mini-pen-multimeter-sketch.png)
+![](../../img/mini-pen-multimeter-sketch.png)
 
 今回紹介する[MUSTOOL A008 デジタルマルチメータ](https://jp.banggood.com/MUSTOOL-A008-Digital-Multimeter-Auto-Sensor-Pen-6000-Counts-Non-contact-Voltage-Tester-VA-Color-Reverse-Display-Screen-p-1976755.html?cur_warehouse=CN&ID=6286072?p=0M092355466124202012)は、ペンの形をしたマルチメーターです。一般的なマルチメーターで言うところの「本体」部分がプラス端子側のペン型の筐体に収められており、コンパクトで取り回しやすそうです。
 
-![](img/mini-pen-multimeter-view.jpg)
+![](../../img/mini-pen-multimeter-view.jpg)
 
 # できること
 
@@ -43,7 +43,7 @@ tags:
 電流の測定機能は無いので、その点は注意が必要です
 自分がよく使う機能は、直流電圧の測定と、抵抗の測定です。
 
-![](img/mini-pen-multimeter-pin.jpg)
+![](../../img/mini-pen-multimeter-pin.jpg)
 
 # まとめ
 
