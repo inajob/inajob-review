@@ -22,22 +22,28 @@ tags:
 
 自分は今までオーソドックスなデジタル式のマルチメーターを使っていました。これはデジタル表示器と操作用のつまみがある本体から、赤と黒の2本のケーブルが伸びているというタイプのものです。
 
+![](img/mini-pen-multimeter-sketch.png)
+
 今回紹介する[MUSTOOL A008 デジタルマルチメータ](https://jp.banggood.com/MUSTOOL-A008-Digital-Multimeter-Auto-Sensor-Pen-6000-Counts-Non-contact-Voltage-Tester-VA-Color-Reverse-Display-Screen-p-1976755.html?cur_warehouse=CN&ID=6286072?p=0M092355466124202012)は、ペンの形をしたマルチメーターです。一般的なマルチメーターで言うところの「本体」部分がプラス端子側のペン型の筐体に収められており、コンパクトで取り回しやすそうです。
+
+![](img/mini-pen-multimeter-view.jpg)
 
 # できること
 
-- 単4電池1本駆動
-- 直流電圧の測定
-- 交流電圧の測定
-- 周波数の測定
-- 抵抗の測定（ショートしているときは音がなる）
-- コンデンサの容量測定
-- 温度測定（華氏、摂氏）
-- 手元LED
-- 別の形状の測定用ピン
+* 単4電池1本駆動
+* 直流電圧の測定
+* 交流電圧の測定
+* 周波数の測定
+* 抵抗の測定（ショートしているときは音がなる）
+* コンデンサの容量測定
+* 温度測定（華氏、摂氏）
+* 手元LED
+* 別の形状の測定用ピン
 
 電流の測定機能は無いので、その点は注意が必要です
 自分がよく使う機能は、直流電圧の測定と、抵抗の測定です。
+
+![](img/mini-pen-multimeter-pin.jpg)
 
 # まとめ
 
@@ -57,4 +63,4 @@ tags:
 
 有効期限は**2023/05/31**なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 
-*[MUSTOOL A008 デジタルマルチメータの購入はこちら](https://jp.banggood.com/MUSTOOL-A008-Digital-Multimeter-Auto-Sensor-Pen-6000-Counts-Non-contact-Voltage-Tester-VA-Color-Reverse-Display-Screen-p-1976755.html?cur_warehouse=CN&ID=6286072?p=0M092355466124202012)
+\*[MUSTOOL A008 デジタルマルチメータの購入はこちら](https://jp.banggood.com/MUSTOOL-A008-Digital-Multimeter-Auto-Sensor-Pen-6000-Counts-Non-contact-Voltage-Tester-VA-Color-Reverse-Display-Screen-p-1976755.html?cur_warehouse=CN&ID=6286072?p=0M092355466124202012)
