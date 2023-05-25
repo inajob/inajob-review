@@ -14,7 +14,7 @@ tags:
 
 ・・・ といういつもの前置きはそこそこに、[MUSTOOL A008 デジタルマルチメータ](https://jp.banggood.com/MUSTOOL-A008-Digital-Multimeter-Auto-Sensor-Pen-6000-Counts-Non-contact-Voltage-Tester-VA-Color-Reverse-Display-Screen-p-1976755.html?cur_warehouse=CN&ID=6286072?p=0M092355466124202012)について紹介していきます。
 
-そして、今回もこのブログのために2023/0/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
+そして、今回もこのブログのために2023/05/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
 
 # [MUSTOOL A008 デジタルマルチメータ](https://jp.banggood.com/MUSTOOL-A008-Digital-Multimeter-Auto-Sensor-Pen-6000-Counts-Non-contact-Voltage-Tester-VA-Color-Reverse-Display-Screen-p-1976755.html?cur_warehouse=CN&ID=6286072?p=0M092355466124202012)
 
