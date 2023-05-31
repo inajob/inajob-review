@@ -17,8 +17,8 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 
 といっても、搭載されたマイコンを剥がして、別のマイコンから制御するという荒業のようですが・・
 
-またこれに関して技術書典で書籍も発表されているようです。気になる方は購入してみてはいかがでしょうか？
-https://techbookfest.org/product/5euMid5xtFGWDjKzyx61wD?productVariantID=27c2gygGrvfrQDE9fg11Xe
+またこれに関して[技術書典で書籍も発表されているようです。](https://techbookfest.org/product/5euMid5xtFGWDjKzyx61wD?productVariantID=27c2gygGrvfrQDE9fg11Xe)気になる方は購入してみてはいかがでしょうか？
+
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">サービス終了で話題のQrio Smart Lock<br>元のマイコン剥がして数本配線で乗っ取ってほぼ制御完了<br>モーター、LEDはi2c、圧電ブザーへの入力と電源なので半田付けもちょっとで済む <a href="https://t.co/FVdjAHfv0E">https://t.co/FVdjAHfv0E</a> <a href="https://t.co/Mg9s5FY2Et">pic.twitter.com/Mg9s5FY2Et</a></p>&mdash; ひろみつ (@bakueikozo) <a href="https://twitter.com/bakueikozo/status/1659041055264874497?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
