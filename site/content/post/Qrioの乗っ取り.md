@@ -15,7 +15,7 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 こういったクラウドと接続されたガジェットの宿命とはいえ、今まで使えていたものが使えなくなるのは困ります。
 ということで、この使えなくなるQrioの中身を解析して、サービス終了後も独自に動かす事ができないかを模索する動きがあるようです。
 
-といっても、搭載されたマイコンを剥がして、別のマイコンから制御するという荒業のようですが・・
+~~といっても、搭載されたマイコンを剥がして、別のマイコンから制御するという荒業のようですが・・~~ どうやらQrioのマイコンをそのままにファームウェアを書き替える手法も確立されたようです！
 
 またこれに関して[技術書典で書籍も発表されているようです。](https://techbookfest.org/product/5euMid5xtFGWDjKzyx61wD?productVariantID=27c2gygGrvfrQDE9fg11Xe)気になる方は購入してみてはいかがでしょうか？
 
@@ -23,5 +23,4 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">サービス終了で話題のQrio Smart Lock<br>元のマイコン剥がして数本配線で乗っ取ってほぼ制御完了<br>モーター、LEDはi2c、圧電ブザーへの入力と電源なので半田付けもちょっとで済む <a href="https://t.co/FVdjAHfv0E">https://t.co/FVdjAHfv0E</a> <a href="https://t.co/Mg9s5FY2Et">pic.twitter.com/Mg9s5FY2Et</a></p>&mdash; ひろみつ (@bakueikozo) <a href="https://twitter.com/bakueikozo/status/1659041055264874497?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あれこれやった結果、Qrioの元のマイコンも剥がさず、本体無改造で隠しコネクタから自前ビルドのファームの書き込みに成功。<br>完全掌握。 <a href="https://t.co/FVdjAHfv0E">https://t.co/FVdjAHfv0E</a> <a href="https://t.co/TdG9mmyewb">pic.twitter.com/TdG9mmyewb</a></p>&mdash; ひろみつ (@bakueikozo) <a href="https://twitter.com/bakueikozo/status/1660892594682077189?ref_src=twsrc%5Etfw">May 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
