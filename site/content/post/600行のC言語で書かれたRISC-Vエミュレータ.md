@@ -14,7 +14,7 @@ RV32IMCの実装のようです。
 
 速度に心配はありますが、RISC-Vとは違うアーキテクチャのCPUでRISC-Vの資産を利用したいときに活躍しそうです。
 
-こういったエミュレータの活用例として、これとは別のRISC-Vエミュレータですが、[Raspberry Pi PicoでLinuxを動かす作例を以前紹介しました。](../post/raspberry-pi-picoでrisc-vをエミュレーションしてlinuxを動かす/)
+こういったエミュレータの活用例として、これとは別のRISC-Vエミュレータですが、[Raspberry Pi PicoでLinuxを動かす作例を以前紹介しました。](../../post/raspberry-pi-picoでrisc-vをエミュレーションしてlinuxを動かす/)
 このLinuxを動かす作例ではRV32imaのエミュレーションを行っています。
 
 
