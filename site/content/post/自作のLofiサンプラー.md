@@ -7,7 +7,7 @@ tags:
   - 音楽
   - サンプラー
 ---
-[自作Lofiサンプラー（概要編）｜メカヘルツ｜note](https://note.com/mekahertz/n/nbbc7355e6dfd)から発見。画像もここから転載。
+[DIY Lofiサンプラー「OpnBeat」プロトタイプ Ver.1（概要編）](https://note.com/hiro_akihabara/n/nbbc7355e6dfd)から発見。画像もここから転載。
 
 自作のLofiサンプラーの作例です。
 録音再生モジュールをサンプル数分並べるという力業で複数サンプルに対応しています。
