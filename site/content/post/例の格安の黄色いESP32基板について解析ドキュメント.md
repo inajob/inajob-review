@@ -15,8 +15,9 @@ ESP32と大きめのタッチ機能付きLCDを搭載した格安の基板で有
 この記事ではこれをCheap-Yello-Display(CYD) と名付けています。
 
 実はこの分野（？）の分析、日本でも結構頑張っている方が居ます。いつもお世話になっています。
-[Lang-ship - 黄色いESP32液晶ボードシリーズまとめ](https://lang-ship.com/blog/work/esp32-lcd/)
-[macsbug - ESP32-2432S028](https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/)
+
+- [Lang-ship - 黄色いESP32液晶ボードシリーズまとめ](https://lang-ship.com/blog/work/esp32-lcd/)
+- [macsbug - ESP32-2432S028](https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/)
 
 
 
