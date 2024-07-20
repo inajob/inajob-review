@@ -1,0 +1,11 @@
+#side {
+  grid-area: side;
+  width: 300px;
+}
+
+
+@media screen and (min-width: 1012px) {
+  #footer-banner {
+    display: none;
+  }
+}

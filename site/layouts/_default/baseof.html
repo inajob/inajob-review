@@ -51,6 +51,7 @@
     <link rel="stylesheet" href="{{ `assets/syntax.css` | relURL }}">
     <link rel="stylesheet" href="{{ `assets/primer-build.css` | relURL }}">
     <link rel="stylesheet" href="{{ `assets/style.css` | relURL }}">
+    <link rel="stylesheet" href="{{ `assets/override.css` | relURL }}">
     <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}/index.xml" title="RSS2.0" />
     <style>
 .rect{
@@ -79,9 +80,11 @@
       <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
         {{ block "main" . }}
         {{ end }}
+	<div id="footer-banner"><a target="_blank" href="https://inajob.hatenablog.jp/"><img src="{{ `assets/img/inajob-hatenablog-banner.png` | relURL }}"></a></div>
       </div>
 
       <div id="side" class="pr-1 bg-white">
+        <div><a target="_blank" href="https://inajob.hatenablog.jp/"><img src="{{ `assets/img/inajob-hatenablog-banner.png` | relURL }}"></a></div>
         <aside class="pr-3">
           {{ block "side" . }}
           <div id="toc" class="mb-3">
