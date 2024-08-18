@@ -3,6 +3,9 @@ title: Seeedが贈る Dashボタンみたいなやつ「ReButton」
 date: 2019-04-14T23:00:17.233Z
 description: Seeedが販売しているDashボタンのようなガジェット「ReButton」を紹介します。
 image: /img/re-button.jpg
+tags:
+  - Seeed
+  - IoT
 ---
 [ReButton](https://www.seeedstudio.com/ReButton-p-2930.html)から発見。画像もここから転載。
 

@@ -3,6 +3,8 @@ title: 鶏に餌をやりをしつつそれをTwitchで実況できるデバイ�
 date: 2020-06-01T23:00:14.036Z
 description: 鶏に餌をやりをしつつそれをTwitchで実況できるデバイスを紹介します。
 image: /img/chiken-feeder.jpg
+tags:
+  - ソーラー
 ---
 [An Internet-Connected, Solar-Powered, Twitch-Streaming Chicken Feeder](https://blog.hackster.io/an-internet-connected-solar-powered-twitch-streaming-chicken-feeder-7075b34bece8)から発見。画像もここから転載。
 

@@ -3,7 +3,7 @@ title: 携帯電話型開発ボード「MAKERPhone」
 date: 2019-05-28T23:00:18.340Z
 description: 携帯電話型の開発ボード「MAKERPhone」を紹介します。
 image: /img/maker-phone.jpg
-tas:
+tags:
   - クラウドファンディング
 ---
 [MAKERPhone](https://www.makerbuino.com/makerphone/)から発見。画像もここから転載。
