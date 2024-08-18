@@ -3,6 +3,9 @@ title: 自転車に組み込めるBluetoothスピーカー
 date: 2019-04-07T23:00:44.575Z
 description: とてもかっこいい自転車に組み込めるBluetoothスピーカーの作例を紹介します。
 image: /img/cycle-speaker.jpg
+tags:
+  - 自転車
+  - Bluetoothスピーカー
 ---
 [Wireless Bicycle Mounted Bluetooth Speaker](https://www.instructables.com/id/Wireless-Bicycle-Mounted-Bluetooth-Speaker/)で発見
 
