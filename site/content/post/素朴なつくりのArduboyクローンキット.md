@@ -5,7 +5,7 @@ description: 素朴なつくりのArduboyクローンキットを紹介します
 image: /img/素朴なつくりのArduboyクローンキット.jpg
 tags:
   - Arduboy
-  - 携帯ゲーム機
+  - ゲーム機
 ---
 [Arduboy kit Atmega32u4 development board by Maker go on Tindie](https://www.tindie.com/products/adz1122/arduboy-kit-atmega32u4-development-board/)から発見。画像もここから転載。
 

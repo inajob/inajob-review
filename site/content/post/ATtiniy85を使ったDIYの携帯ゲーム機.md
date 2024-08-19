@@ -4,7 +4,7 @@ date: 2023-08-06T23:30:56.505806
 description: ATtiniy85を使ったDIYの携帯ゲーム機の作例を紹介します
 image: /img/ATtiniy85を使ったDIYの携帯ゲーム機.jpg
 tags:
-  - 携帯ゲーム機
+  - ゲーム機
   - ATTiny85
 ---
 [DIY-mini-PCB-based-handheld-retro-game-console](https://hackaday.io/project/184616-diy-mini-pcb-based-handheld-retro-game-console)から発見。画像もここから転載。

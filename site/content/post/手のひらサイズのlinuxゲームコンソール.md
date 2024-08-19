@@ -6,6 +6,7 @@ image: /img/pinkypi.jpg
 tags:
   - Raspberry Pi
   - 3Dプリンタ
+  - ゲーム機
 ---
 [The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Be](https://blog.hackster.io/the-pinkypi-pushes-the-limits-of-how-small-a-raspberry-pi-handheld-can-be-4580d32008fb)から発見
 

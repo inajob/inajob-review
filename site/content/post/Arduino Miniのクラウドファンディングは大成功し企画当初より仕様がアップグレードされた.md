@@ -6,7 +6,6 @@ image: /img/Arduino Miniのクラウドファンディングは大成功し企�
 tags:
   - Arduboy
   - ゲーム機
-  - 携帯ゲーム
   - クラウドファンディング
 ---
 [New And Improved Arduboy Mini Smashes Funding Goal](https://hackaday.com/2023/01/05/new-and-improved-arduboy-mini-smashes-funding-goal/)から発見。画像もここから転載。

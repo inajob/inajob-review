@@ -6,6 +6,7 @@ image: /img/attiny-ctf.png
 tags:
   - attiny85
   - HACK
+  - ゲーム機
 ---
 [Capture The Flag Shitty Add-On](https://blog.wokwi.com/capture-the-flag-shitty-add-on/)から発見。画像もここから転載。
 
