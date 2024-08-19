@@ -7,6 +7,7 @@ tags:
   - atsamd21
   - CircuitPython
   - Makerfabs
+  - ゲーム機
 ---
 この記事はMakerfabsの提供でお届けします。
 

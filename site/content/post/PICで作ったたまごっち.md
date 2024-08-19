@@ -5,7 +5,7 @@ description: PICで作ったたまごっちの作例を紹介します
 image: /img/PICで作ったたまごっち.jpg
 tags:
   - 3Dプリンタ
-  - 携帯ゲーム
+  - ゲーム機
 ---
 [DEN@電子工作さんのTweet](https://twitter.com/DEN31482122/status/1507687303271284747)から発見。画像もここから転載。
 

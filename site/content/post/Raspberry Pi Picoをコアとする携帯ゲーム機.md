@@ -5,7 +5,7 @@ description: Raspberry Pi Picoをコアとする携帯ゲーム機をしょう�
 image: /img/Raspberry Pi Picoをコアとする携帯ゲーム機.jpg
 tags:
   - Raspberry Pi Pico
-  - 携帯ゲーム機
+  - ゲーム機
 ---
 [PicoBoy V2: The Ultimate DIY Console by HalloSpaceBoy on Tindie](https://www.tindie.com/products/hallospaceboy/picoboy-v2-the-ultimate-diy-console/)から発見。画像もここから転載。
 
