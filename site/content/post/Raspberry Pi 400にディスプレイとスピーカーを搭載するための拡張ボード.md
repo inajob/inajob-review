@@ -4,8 +4,8 @@ date: 2022-06-23T23:14:51.356172
 description: Raspberry Pi 400にディスプレイとスピーカーを搭載するための拡張ボードを紹介します。
 image: /img/Raspberry Pi 400にディスプレイとスピーカーを搭載するための拡張ボード.jpg
 tags:
- - RaspberryPi
- - RaspberryPi400
+  - RaspberryPi
+  - RaspberryPi400
 ---
 [Odd Inputs And Peculiar Peripherals: The Simplest Of Pi 400 Cyberdecks](https://hackaday.com/2022/06/10/odd-inputs-and-peculiar-peripherals-the-simplest-of-pi-400-cyberdecks/)から発見。画像もここから転載。
 

@@ -4,9 +4,9 @@ date: 2022-08-02T23:21:57.791764
 description: チープカシオのガワを再利用したOLED搭載のスマートウォッチの作例を紹介します
 image: /img/チープカシオのガワを再利用したOLED搭載のスマートウォッチ.jpg
 tags:
-- HACK
-- 腕時計
-- スマートウォッチ
+  - HACK
+  - 腕時計
+  - スマートウォッチ
 ---
 [The Casio Smartwatch You Never Had](https://hackaday.com/2022/07/20/the-casio-smartwatch-you-never-had/)から発見。画像もここから転載。
 
