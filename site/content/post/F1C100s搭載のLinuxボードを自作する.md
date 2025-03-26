@@ -5,7 +5,7 @@ description: F1C100s搭載のLinuxボードを自作する
 image: /img/F1C100s搭載のLinuxボードを自作する.jpg
 tags:
   - F1C100s
-SBC
+  - SBC
 ---
 [kokensha_tech 電子工作 YouTube! さんのPost](https://x.com/kokensha_tech/status/1898526057395048678)から発見。画像もここから転載。
 
