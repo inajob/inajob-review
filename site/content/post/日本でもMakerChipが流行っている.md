@@ -5,6 +5,7 @@ description: 日本の3Dプリンタ界隈でMakerChip作成が流行ってい�
 image: /img/日本でもMakerChipが流行っている.jpg
 tags:
   - 3Dプリンタ
+  - MakerChip
 ---
 [MakerChip - fab-wiki](https://scrapbox.io/fab-wiki/MakerChip)から発見。画像もここから転載。
 
