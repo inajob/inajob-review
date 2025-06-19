@@ -5,7 +5,7 @@ description: ギター風の筐体で簡単に音楽理論に基づいた演奏�
 image: /img/synthfonio.png
 tags:
   - 楽器
-  - Arduno
+  - Arduino
 ---
 [The Synthfonio - a Musical Instrument for Everyone](https://www.instructables.com/The-Synthfonio-a-Musical-Instrument-for-Everyone/)から発見。画像もここから転載。(CC BY-NC-SA By FrancoMolina)
 

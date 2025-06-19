@@ -4,7 +4,8 @@ date: 2023-06-20T23:47:04.514333
 description: 巨大なTNセグメント表示機を紹介します
 image: /img/巨大なTNセグメント表示機.jpg
 tags:
-  - 表示機][AliExpress
+  - 表示機
+  - AliExpress
 ---
 [tablatronixさんのTweet](https://twitter.com/tablatronix/status/1661869054112714753)から発見。画像もここから転載。
 

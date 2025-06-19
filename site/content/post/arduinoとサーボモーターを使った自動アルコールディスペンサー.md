@@ -5,6 +5,7 @@ description: 手をかざすだけでハンドソープを射出する自動ア�
 image: /img/automatic-hand-sanitizer-dispenser.png
 tags:
   - Arduino
+  - サーボモーター
 ---
 [DIY Easy Non-Contact Automatic Hand Sanitizer Dispenser or Automatic Soap Dispenser With Arduino](https://www.instructables.com/DIY-Easy-Non-Contact-Automatic-Hand-Sanitizer-Disp/)から発見。画像もここから転載（CC BY-NC-SA By justbarran）。
 

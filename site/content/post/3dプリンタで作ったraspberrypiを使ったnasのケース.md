@@ -6,7 +6,7 @@ image: /img/pinas.jpg
 tags:
   - 3Dプリンタ
   - NAS
-  - RspberryPi
+  - Raspberry Pi
 ---
 [PiNAS - the Raspberry Pi NAS](https://www.instructables.com/PiNAS-the-Raspberry-Pi-NAS/)から発見。画像もここから転載(CC BY-NC-SA By araymbox)。
 

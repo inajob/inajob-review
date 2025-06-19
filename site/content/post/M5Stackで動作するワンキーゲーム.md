@@ -6,7 +6,7 @@ image: /img/M5Stackで動作するワンキーゲーム.jpg
 tags:
   - M5Stack
   - ゲーム
-  - risp-game-lib
+  - crisp-game-lib
 ---
 [OBONO さんのTweet](https://twitter.com/OBONO/status/1584559584865574912)から発見。画像もここから転載。
 

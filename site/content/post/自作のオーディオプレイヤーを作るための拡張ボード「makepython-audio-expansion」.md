@@ -5,7 +5,7 @@ description: 自作のオーディオプレイヤーを作るための拡張ボ�
 image: /img/makepython-audio-expansion-cover.jpg
 tags:
   - MakerFabs
-  - MakePYthon
+  - MakePython
   - ESP32
 ---
 この記事はMakerfabsの提供でお届けします。
