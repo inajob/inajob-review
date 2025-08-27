@@ -1,8 +1,8 @@
 ---
-title: 8*8のドットマトリクスLEDでPongが遊べる名刺基板
+title: 8×8のドットマトリクスLEDでPongが遊べる名刺基板
 date: 2025-08-26T23:56:56.290529
-description: 8*8のドットマトリクスLEDでPongが遊べる名刺基板
-image: /img/8*8のドットマトリクスLEDでPongが遊べる名刺基板.jpg
+description: 8×8のドットマトリクスLEDでPongが遊べる名刺基板
+image: /img/8×8のドットマトリクスLEDでPongが遊べる名刺基板.jpg
 tags:
   - 名刺基板
 ---
