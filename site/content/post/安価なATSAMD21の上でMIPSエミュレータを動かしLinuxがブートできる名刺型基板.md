@@ -6,7 +6,7 @@ image: /img/安価なATSAMD21の上でMIPSエミュレータを動かしLinuxが
 tags:
   - ATSAMD21
   - Linux
-  - 名刺
+  - 名刺基板
 ---
 [A Linux Business Card You Can Build](https://hackaday.com/2022/07/14/a-linux-business-card-you-can-build/)から発見。画像もここから転載。
 

@@ -5,7 +5,7 @@ description: ほぼスルーホール部品で構成されたArduino互換名刺
 image: /img/ほぼスルーホール部品で構成されたArduino互換名刺基板.jpg
 tags:
   - Arduino
-  - 名刺
+  - 名刺基板
 ---
 [CentRa on Twitter: "発注する予定の名刺、いい感じ https://t.co/nDrhJlORtT"](https://twitter.com/cent_ra/status/1606293099436802049)から発見。画像もここから転載。
 

@@ -7,7 +7,7 @@ tags:
   - 開発ボード
   - Linux
   - F1C100s
-  - 名刺
+  - 名刺基板
 ---
 [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)から発見。画像もここから転載。
 
