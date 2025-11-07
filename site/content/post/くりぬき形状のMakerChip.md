@@ -1,12 +1,12 @@
 ---
 title: くりぬき形状のMakerChip
 date: 2025-11-05T23:07:32.860615
-description: 省エネなArduino Pro Mini互換ボードの作例を紹介します
+description: くりぬき形状のMakerChipの作例を紹介します
 image: /img/くりぬき形状のMakerChip.jpg
 tags:
   - MakerChip
 ---
-[きたになおきのPost](https://x.com/nkitani/status/1983554942565748847)から発見。画像もここから転載。
+[きたになおき さんのPost](https://x.com/nkitani/status/1983554942565748847)から発見。画像もここから転載。
 
 3Dプリンタ関係のイベントでよく見かけるようになってきたMakerChipですが、名刺代わりということもあり、皆さん様々な工夫を凝らして個性を出しています。
 この方は、シンプル、単色、短時間出力に焦点を当てつつも、印象的な中空のMakerChipを作成しています。
