@@ -1,7 +1,7 @@
 ---
-title: ESP32-S3で動作数オープンソースの関数電卓
+title: ESP32-S3で動作するオープンソースの関数電卓
 date: 2026-05-07T22:22:32.322349
-description: ESP32-S3で動作数オープンソースの関数電卓
+description: ESP32-S3で動作するオープンソースの関数電卓
 image: /img/ESP32-S3で動作数オープンソースの関数電卓.jpg
 tags:
   - ESP32
