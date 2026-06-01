@@ -7,6 +7,7 @@ tags:
   - 楽器
   - 音楽
   - ESP32
+  - CYD
 ---
 [A Touchscreen MIDI Controller For The DIY Set](https://hackaday.com/2025/12/07/a-touchscreen-midi-controller-for-the-diy-set/)から発見。画像もここから転載。
 

@@ -6,6 +6,7 @@ image: /img/例の格安の黄色いESP32基板について解析ドキュメン
 tags:
   - ESP32
   - 開発ボード
+  - CYD
 ---
 [“Cheap Yellow Display” Builds Community Through Hardware](https://hackaday.com/2023/10/28/cheap-yellow-display-builds-community-through-hardware/)から発見。画像もここから転載。
 
