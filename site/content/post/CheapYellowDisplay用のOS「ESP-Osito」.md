@@ -4,7 +4,8 @@ date: 2026-06-07T22:44:43.956394
 description: CheapYellowDisplay用のOS「ESP-Osito」
 image: /img/CheapYellowDisplay用のOS「ESP-Osito」.jpg
 tags:
-tags
+  - CYD
+  - ESP32
 ---
 [ESP-Osito Eschews Retrocomputing For Modern Code On Modern, Equivalent Hardware](https://hackaday.com/2026/05/29/esp-osito-eschews-retrocomputing-for-modern-code-on-modern-equivalent-hardware/)から発見。画像もここから転載。
 
