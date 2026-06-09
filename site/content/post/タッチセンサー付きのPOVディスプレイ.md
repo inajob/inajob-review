@@ -4,7 +4,7 @@ date: 2026-06-09T22:09:09.721699
 description: タッチセンサー付きのPOVディスプレイ。タッチセンサーも回転させるというアイデアが面白い
 image: /img/タッチセンサー付きのPOVディスプレイ.jpg
 tags:
-tags
+  - POV
 ---
 [Touchable POV Display Blooms In Mid Air](https://hackaday.com/2026/05/23/touchable-pov-display-blooms-in-mid-air/)から発見。画像もここから転載。
 
