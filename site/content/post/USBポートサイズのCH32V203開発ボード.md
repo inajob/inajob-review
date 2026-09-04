@@ -5,6 +5,7 @@ description: USBポートサイズのCH32V203開発ボードを紹介します
 image: /img/USBポートサイズのCH32V203開発ボード.jpg
 tags:
   - CH32V203
+  - 開発ボード
 ---
 [Comu: Tiny CH32V203 in your USB port by Icy Electronics on Tindie](https://www.tindie.com/products/icy-elec/comu-tiny-ch32v203-in-your-usb-port/)から発見。画像もここから転載。
 
