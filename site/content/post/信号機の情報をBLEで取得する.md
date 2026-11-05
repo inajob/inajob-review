@@ -5,7 +5,6 @@ description: 一部の信号機の情報をBLEで取得することが出来る�
 image: /img/信号機の情報をBLEで取得する.jpg
 tags:
   - BLE
-v0
 ---
 [湯村 翼 Tsubasa YUMURA さんのPost](https://x.com/yumu19/status/2116775334372917680)から発見。画像もここから転載。
 
